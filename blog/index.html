@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog IA & Use Cases — CyberQuantic</title>
+<style>
+  :root {
+    --primary: #6366F1;
+    --primary-dark: #4F46E5;
+    --accent: #8B5CF6;
+    --bg: #F8F9FF;
+    --card-bg: #FFFFFF;
+    --border: #E5E7EB;
+    --text: #111827;
+    --text-muted: #6B7280;
+    --shadow: 0 4px 24px rgba(99,102,241,0.10);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  
+  /* Navigation */
+  .navbar { background: white; border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 10; }
+  .logo { font-size: 16px; font-weight: 800; color: var(--primary); letter-spacing: 1px; text-transform: uppercase; text-decoration: none; }
+  .nav-links a { color: var(--text); text-decoration: none; font-size: 14px; font-weight: 600; margin-left: 20px; transition: color 0.2s; }
+  .nav-links a:hover { color: var(--primary); }
+
+  /* Header */
+  .header-section { text-align: center; padding: 60px 20px; background: linear-gradient(135deg, rgba(99,102,241,0.05), rgba(139,92,246,0.05)); }
+  .header-section h1 { font-size: 32px; font-weight: 800; line-height: 1.2; margin-bottom: 16px; }
+  .header-section p { color: var(--text-muted); font-size: 16px; max-width: 600px; margin: 0 auto; line-height: 1.5; }
+
+  /* Main Container */
+  .container { max-width: 1000px; margin: 40px auto; padding: 0 20px; }
+
+  /* Blog Grid */
+  .blog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+  
+  /* Blog Card */
+  .blog-card { background: var(--card-bg); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; display: flex; flex-direction: column; }
+  .blog-card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+  .card-content { padding: 24px; flex-grow: 1; display: flex; flex-direction: column; }
+  .card-tag { font-size: 11px; font-weight: 700; color: var(--primary); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; display: inline-block; background: #EEF2FF; padding: 4px 8px; border-radius: 4px; border: 1px solid rgba(99,102,241,0.2); width: fit-content; }
+  .card-title { font-size: 18px; font-weight: 700; margin-bottom: 12px; line-height: 1.4; color: var(--text); }
+  .card-title a { text-decoration: none; color: inherit; }
+  .card-title a:hover { color: var(--primary); }
+  .card-excerpt { font-size: 14px; color: var(--text-muted); line-height: 1.5; margin-bottom: 20px; flex-grow: 1; }
+  .card-footer { border-top: 1px solid var(--border); padding-top: 16px; display: flex; justify-content: space-between; align-items: center; font-size: 13px; font-weight: 600; color: var(--text-muted); }
+  .read-more { color: var(--primary); text-decoration: none; font-weight: 700; }
+  .read-more:hover { text-decoration: underline; }
+
+  /* Footer */
+  .footer { text-align: center; padding: 40px 20px; border-top: 1px solid var(--border); margin-top: 60px; color: var(--text-muted); font-size: 14px; background: white; }
+</style>
+</head>
+<body>
+
+  <nav class="navbar">
+    <a href="/" class="logo">CyberQuantic</a>
+    <div class="nav-links">
+      <a href="/">Matcher</a>
+      <a href="/blog/" style="color: var(--primary);">Blog & Use cases</a>
+    </div>
+  </nav>
+
+  <header class="header-section">
+    <h1>La Bibliothèque des Use Cases IA</h1>
+    <p>Découvrez nos analyses, frameworks et retours d'expérience sur l'implémentation de l'Intelligence Artificielle en entreprise.</p>
+  </header>
+
+  <main class="container">
+    <div class="blog-grid" id="posts-container">
+      <!-- Les articles seront injectés ici dynamiquement -->
+       <div class="blog-card">
+        <div class="card-content">
+          <span class="card-tag">UseCase</span>
+          <h2 class="card-title"><a href="#">Chargement des articles...</a></h2>
+          <p class="card-excerpt">Veuillez patienter pendant que nous récupérons les dernières analyses IA.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; 2026 CyberQuantic. Tous droits réservés.
+  </footer>
+
+  <script>
+    // Ce script chargera le fichier posts.json (généré par Python) pour peupler la grille.
+    async function loadPosts() {
+        try {
+            const response = await fetch('posts.json');
+            if(!response.ok) throw new Error('Network response was not ok');
+            const posts = await response.json();
+            
+            const container = document.getElementById('posts-container');
+            container.innerHTML = '';
+
+            if(posts.length === 0) {
+                container.innerHTML = '<p>Aucun article publié pour le moment.</p>';
+                return;
+            }
+            
+            posts.forEach(post => {
+                const card = document.createElement('div');
+                card.className = 'blog-card';
+                
+                // Format date
+                const d = new Date(post.date);
+                const dateStr = d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+
+                card.innerHTML = `
+                  <div class="card-content">
+                    <span class="card-tag">Use Case IA</span>
+                    <h2 class="card-title"><a href="${post.slug}.html">${post.title}</a></h2>
+                    <p class="card-excerpt">${post.excerpt}</p>
+                    <div class="card-footer">
+                        <span>${dateStr}</span>
+                        <a href="${post.slug}.html" class="read-more">Lire l'article &rarr;</a>
+                    </div>
+                  </div>
+                `;
+                container.appendChild(card);
+            });
+        } catch (error) {
+            console.error('Erreur de chargement des articles:', error);
+            document.getElementById('posts-container').innerHTML = '<p>Impossible de charger les articles récents.</p>';
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadPosts);
+  </script>
+</body>
+</html>

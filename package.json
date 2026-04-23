@@ -1,0 +1,15 @@
+{
+  "name": "cyberquantic-tools",
+  "version": "1.0.0",
+  "description": "CyberQuantic automation tools - Stripe payments, lead nurturing, newsletter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'No tests configured'"
+  },
+  "dependencies": {
+    "html-pdf-node": "^1.0.8",
+    "resend": "^2.1.0",
+    "stripe": "^14.25.0"
+  },
+  "license": "MIT"
+}

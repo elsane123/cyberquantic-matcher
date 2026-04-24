@@ -1,5 +1,4 @@
 const { Resend } = require('resend');
-const pdf = require('html-pdf-node');
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
@@ -35,11 +34,8 @@ exports.handler = async (event, context) => {
       topMatches
     });
 
-    // Generate PDF from HTML
-    const pdfBuffer = await generatePDF(roadmapContent, email);
-
-    // Send email with PDF attachment
-    await sendRoadmapEmail(email, pdfBuffer, sessionId);
+    // Send email directly with embedded Roadmap HTML
+    await sendRoadmapEmail(email, roadmapContent, sessionId);
 
     console.log('Roadmap successfully generated and sent to:', email);
 
@@ -222,59 +218,14 @@ function generateFallbackTemplate({ role, sector, goal, topMatches }) {
 </html>`;
 }
 
-async function generatePDF(htmlContent, email) {
-  try {
-    const file = { content: htmlContent };
-    const options = {
-      format: 'A4',
-      printBackground: true,
-      margin: { top: '20px', right: '20px', bottom: '20px', left: '20px' }
-    };
-    
-    const pdfBuffer = await pdf.generatePdf(file, options);
-    return pdfBuffer;
-  } catch (error) {
-    console.error('PDF generation error:', error);
-    throw error;
-  }
-}
 
-async function sendRoadmapEmail(email, pdfBuffer, sessionId) {
+async function sendRoadmapEmail(email, htmlContent, sessionId) {
   try {
     await resend.emails.send({
       from: 'CyberQuantic <contact@cyberquantic.com>',
       to: email,
-      subject: 'Votre Roadmap d\'Implémentation IA personnalisée',
-      html: `
-        <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-          <h2 style="color: #4F46E5;">Votre Roadmap IA est prête ! 🚀</h2>
-          <p>Bonjour,</p>
-          <p>Merci d'avoir utilisé le <strong>Use Case Matcher</strong> de CyberQuantic.</p>
-          <p>Vous trouverez ci-joint votre <strong>Roadmap d'Implémentation IA personnalisée</strong>, élaborée spécialement pour votre profil métier et vos objectifs.</p>
-          <div style="background: #f8fafc; padding: 20px; border-radius: 8px; margin: 20px 0;">
-            <h3 style="margin-top: 0; color: #4F46E5;">Ce que contient votre roadmap:</h3>
-            <ul>
-              <li>✅ Analyse de vos 3 use cases prioritaires</li>
-              <li>✅ Plan d'action sur 6 mois (3 phases)</li>
-              <li>✅ Budget estimatif réaliste</li>
-              <li>✅ Checklist des prochaines étapes</li>
-            </ul>
-          </div>
-          <p><strong>Une question ?</strong> Répondez simplement à cet email ou réservez un appel de 15 minutes avec nos experts.</p>
-          <p style="margin-top: 30px;">À bientôt,<br>L'équipe CyberQuantic</p>
-          <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 30px 0;">
-          <p style="font-size: 12px; color: #64748b;">
-            Commande #${sessionId?.slice(-8) || 'XXXX'}<br>
-            CyberQuantic - L'intelligence IA européenne pour les entreprises
-          </p>
-        </div>
-      `,
-      attachments: [
-        {
-          filename: 'roadmap-ia-cyberquantic.pdf',
-          content: pdfBuffer.toString('base64')
-        }
-      ]
+      subject: 'Votre Roadmap d'Implémentation IA personnalisée',
+      html: htmlContent
     });
   } catch (error) {
     console.error('Email sending error:', error);

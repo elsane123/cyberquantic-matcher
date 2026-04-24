@@ -1,0 +1,3436 @@
+[
+  {
+    "slug": "ediscovery-and-legal-document-review-automation",
+    "title": "Logiciel IA eDiscovery : Automatisation de la revue juridique",
+    "excerpt": "Découvrez comment les logiciels IA d'eDiscovery révolutionnent la revue documentaire juridique avec 97% de réduction de volume et 92% d'économies.",
+    "tags": [
+      "Legal",
+      "Legal review",
+      "eDiscovery",
+      "IA juridique",
+      "Automatisation juridique"
+    ],
+    "date": "2026-04-21T06:40:44.611693"
+  },
+  {
+    "slug": "workforce-planning-and-headcount-optimization-with-ai",
+    "title": "Optimisation des effectifs par l'IA : maximisez votre ROI RH",
+    "excerpt": "Découvrez comment le logiciel IA de workforce planning transforme la gestion prévisionnelle des effectifs avec des résultats mesurables et un ROI prouvé.",
+    "tags": [
+      "Human Resources",
+      "Attract New talent",
+      "Workforce Planning",
+      "AI Solutions",
+      "Headcount Optimization"
+    ],
+    "date": "2026-04-21T06:38:29.977346"
+  },
+  {
+    "slug": "webiomed-clinical-decision-support-system",
+    "title": "WebioMed : L'IA qui transforme la décision médicale et sauve des vies",
+    "excerpt": "Découvrez comment le logiciel IA WebioMed clinical decision support system révolutionne la prévention des risques médicaux et améliore les résultats cliniques de 42%.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Intelligence Artificielle",
+      "Décision Clinique",
+      "Prévention Médicale"
+    ],
+    "date": "2026-04-21T06:35:34.454089"
+  },
+  {
+    "slug": "weather-intelligence-for-operational-risk-management",
+    "title": "Logiciel IA Weather Intelligence : Gestion des Risques Agricoles",
+    "excerpt": "Découvrez comment le logiciel IA Weather Intelligence for Operational Risk Management révolutionne la résilience agricole face aux aléas climatiques.",
+    "tags": [
+      "Agriculture",
+      "Weather Forecasting",
+      "Intelligence Artificielle",
+      "Gestion des Risques",
+      "Prévisions Météorologiques"
+    ],
+    "date": "2026-04-21T06:32:43.453667"
+  },
+  {
+    "slug": "weather-forecasting-in-agriculture",
+    "title": "Logiciel IA Weather Forecasting in Agriculture : Guide Complet",
+    "excerpt": "Découvrez comment les solutions d'IA météorologique transforment l'agriculture moderne avec une précision parcellaire pour optimiser rendements et réduire les pertes climatiques.",
+    "tags": [
+      "Agriculture",
+      "Weather Forecasting",
+      "IA agricole",
+      "Prévisions météorologiques",
+      "Agriculture de précision"
+    ],
+    "date": "2026-04-21T06:29:37.172390"
+  },
+  {
+    "slug": "water-crystal-mapping",
+    "title": "Logiciel IA Water Crystal Mapping : Analyse Hydrique Industrielle",
+    "excerpt": "Découvrez comment notre logiciel IA Water Crystal Mapping révolutionne l'analyse hydrique industrielle pour optimiser vos processus et réduire vos coûts de 12% en moyenne.",
+    "tags": [
+      "analyse hydrique",
+      "IA industrielle",
+      "water crystal mapping",
+      "optimisation ressources",
+      "technologie eau",
+      "machine learning eau"
+    ],
+    "date": "2026-04-21T06:26:10.517495"
+  },
+  {
+    "slug": "voice-of-customer-analytics-at-scale-with-nlp",
+    "title": "Logiciel IA Voice of Customer : Révolutionnez vos analyses client",
+    "excerpt": "Transformez votre gestion des réclamations avec notre solution IA Voice of Customer analytics. Analysez les interactions client à grande échelle grâce au NLP.",
+    "tags": [
+      "Customer Relationship",
+      "Manage claims",
+      "Voice of Customer",
+      "NLP",
+      "Analyse client"
+    ],
+    "date": "2026-04-21T06:23:15.402979"
+  },
+  {
+    "slug": "voice-fraud-detection-using-speech-analytics",
+    "title": "Logiciel IA Voice Fraud Detection : Protection Télécom Avancée",
+    "excerpt": "Découvrez comment les logiciels IA de voice fraud detection using speech analytics protègent les opérateurs télécom contre les fraudes vocales et réduisent les pertes financières.",
+    "tags": [
+      "Telecom",
+      "Fraud Detection",
+      "Voice Analytics",
+      "IA Sécurité",
+      "Détection Fraude"
+    ],
+    "date": "2026-04-21T06:21:04.746702"
+  },
+  {
+    "slug": "visual-search-and-image-based-product-discovery-for-e-commerce",
+    "title": "Logiciel IA Visual Search : Révolutionnez votre E-commerce",
+    "excerpt": "Découvrez comment le logiciel IA de visual search pour e-commerce transforme la découverte de produits et génère un ROI de 400%. Solutions et implémentation expliquées.",
+    "tags": [
+      "Retail",
+      "Personalization"
+    ],
+    "date": "2026-04-21T06:19:21.936837"
+  },
+  {
+    "slug": "virtual-try-on-and-size-recommendation-for-fashion-e-commerce",
+    "title": "Logiciel IA Virtual Try-On : Révolution e-commerce mode",
+    "excerpt": "Découvrez comment les logiciels IA de Virtual Try-On et recommandation de tailles réduisent les retours de 40% et transforment l'e-commerce de mode.",
+    "tags": [
+      "Fashion & Luxury",
+      "E-commerce Experience"
+    ],
+    "date": "2026-04-21T06:16:25.385081"
+  },
+  {
+    "slug": "virtual-bank-assistant",
+    "title": "Logiciel IA Virtual Bank Assistant : Révolution chez UniCredit Italie",
+    "excerpt": "Découvrez comment le Logiciel IA Virtual Bank Assistant Intellibank a transformé le service client d'UniCredit avec 92% de satisfaction et 25% de gain de productivité.",
+    "tags": [
+      "Banking & Finances",
+      "Personal Financial Advisor",
+      "IA Bancaire",
+      "Assistant Virtuel",
+      "Service Client Bancaire"
+    ],
+    "date": "2026-04-21T06:13:04.024839"
+  },
+  {
+    "slug": "video-on-demand-publishing-intelligence-platform",
+    "title": "Logiciel IA Video on Demand : Solution Prédictive pour Plateformes VOD",
+    "excerpt": "Découvrez comment notre logiciel IA pour plateformes Video on Demand détecte les défaillances avant qu'elles n'impactent vos revenus et votre expérience utilisateur.",
+    "tags": [
+      "Intelligence Artificielle",
+      "VOD",
+      "Prédiction",
+      "Streaming",
+      "Fiabilité",
+      "Plateforme vidéo"
+    ],
+    "date": "2026-04-21T06:09:16.564738"
+  },
+  {
+    "slug": "value-based-service",
+    "title": "Logiciel IA Value-based Service : Transformation Industrielle 4.0",
+    "excerpt": "Découvrez comment le logiciel IA Value-based service révolutionne la production industrielle en créant de la valeur mesurable et de nouveaux revenus récurrents.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T06:07:41.130742"
+  },
+  {
+    "slug": "vtrain-recommendation-engine",
+    "title": "Logiciel IA VTrain : Révolution de la Formation Entreprise",
+    "excerpt": "Découvrez comment le Logiciel IA VTrain recommendation engine transforme la formation continue grâce à l'intelligence artificielle et aux parcours personnalisés.",
+    "tags": [
+      "Education",
+      "Personalized Learning",
+      "IA Formation",
+      "Recommandation Formation",
+      "Upskilling",
+      "Formation Continue"
+    ],
+    "date": "2026-04-21T06:04:02.330115"
+  },
+  {
+    "slug": "use-of-robotic-solution-for-traffic-policing-and-control",
+    "title": "Logiciel IA pour la surveillance routière : révolution sécuritaire",
+    "excerpt": "Découvrez comment le logiciel IA de solution robotique pour la surveillance et le contrôle du trafic transforme la sécurité urbaine et protège les agents de police.",
+    "tags": [
+      "Defense & Military",
+      "Intelligence and Surveillance"
+    ],
+    "date": "2026-04-21T05:59:48.574193"
+  },
+  {
+    "slug": "unmanned-protective-vehicle-for-road-works-on-motorways",
+    "title": "Logiciel IA Unmanned Protective Vehicle pour Chantiers Autoroutiers",
+    "excerpt": "Découvrez comment le logiciel IA Unmanned protective vehicle révolutionne la sécurité des travaux autoroutiers avec une solution autonome sans conducteur.",
+    "tags": [
+      "Transportation",
+      "Road Condition Monitoring",
+      "Sécurité Routière",
+      "IA pour Autoroutes",
+      "Véhicules Autonomes"
+    ],
+    "date": "2026-04-21T05:56:28.060927"
+  },
+  {
+    "slug": "threat-intelligence-automation-with-knowledge-graphs",
+    "title": "Logiciel IA Threat Intelligence Automation avec Knowledge Graphs",
+    "excerpt": "Découvrez comment l'automatisation de la threat intelligence avec les graphes de connaissances révolutionne la cyberdéfense militaire et réduit de 70% le temps d'analyse des menaces.",
+    "tags": [
+      "Defense & Military",
+      "Cybersecurity"
+    ],
+    "date": "2026-04-21T05:53:53.802960"
+  },
+  {
+    "slug": "territory-planning-and-quota-optimization-with-predictive-analytics",
+    "title": "Logiciel IA Territory Planning : Optimisation des Quotas de Vente",
+    "excerpt": "Découvrez comment l'IA révolutionne la planification territoriale et l'optimisation des quotas de vente avec l'analyse prédictive pour maximiser votre ROI commercial.",
+    "tags": [
+      "Sales",
+      "Price Optimization",
+      "Territory Planning",
+      "Quota Optimization",
+      "Predictive Analytics"
+    ],
+    "date": "2026-04-21T05:50:23.544408"
+  },
+  {
+    "slug": "tenant-risk-scoring-and-rental-default-prediction",
+    "title": "Logiciel IA de Tenant Risk Scoring : Prédiction des défauts locatifs",
+    "excerpt": "Découvrez comment notre logiciel IA de Tenant Risk Scoring révolutionne la prévision des défauts de paiement locatifs pour les professionnels de l'immobilier.",
+    "tags": [
+      "Real Estate",
+      "Tenant Management",
+      "IA Immobilier",
+      "Gestion Locative",
+      "Risk Scoring"
+    ],
+    "date": "2026-04-21T05:46:25.595385"
+  },
+  {
+    "slug": "telecom-fraud-detection",
+    "title": "Logiciel IA Telecom - Fraud Detection : -73% de pertes bancaires",
+    "excerpt": "Découvrez comment un Logiciel IA Telecom - Fraud Detection a permis à une banque de réduire ses pertes de 73% en 6 mois grâce à l'intelligence artificielle.",
+    "tags": [
+      "Banking & Finances",
+      "Fraud Detection"
+    ],
+    "date": "2026-04-21T05:43:48.368914"
+  },
+  {
+    "slug": "tax-rules-updates-and-classification",
+    "title": "Logiciel IA Tax Rules Updates : Révolution pour la conformité fiscale",
+    "excerpt": "Découvrez comment le Logiciel IA Tax Rules Updates and Classification transforme la veille fiscale des sociétés d'investissement. Automatisation, conformité et ROI garanti.",
+    "tags": [
+      "Legal",
+      "Legal review"
+    ],
+    "date": "2026-04-21T05:42:04.570238"
+  },
+  {
+    "slug": "test-uc-delete-me",
+    "title": "Logiciel IA TEST UC DELETE ME : Optimiser vos décisions B2B",
+    "excerpt": "Découvrez comment le Logiciel IA TEST UC DELETE ME transforme vos processus décisionnels B2B avec l'intelligence artificielle prédictive pour des résultats concrets et mesurables.",
+    "tags": [
+      "IA prédictive",
+      "Optimisation B2B",
+      "Processus décisionnels",
+      "Intelligence artificielle",
+      "ROI"
+    ],
+    "date": "2026-04-21T05:38:48.657403"
+  },
+  {
+    "slug": "system-for-real-time-earthquake-simulation-with-data-assimilation",
+    "title": "Logiciel IA pour simulation sismique en temps réel | Protection civile",
+    "excerpt": "Découvrez comment le système IA de simulation sismique en temps réel avec assimilation de données révolutionne la prévention des catastrophes et sauve des vies.",
+    "tags": [
+      "Public Sector",
+      "Disaster and Emergency",
+      "Simulation sismique",
+      "Intelligence artificielle",
+      "Prévention des catastrophes",
+      "Gestion des risques",
+      "Tremblements de terre"
+    ],
+    "date": "2026-04-21T05:36:08.828115"
+  },
+  {
+    "slug": "syntelly-computer-aided-organic-synthesis",
+    "title": "Logiciel IA Syntelly : Révolution en Synthèse Organique Médicale",
+    "excerpt": "Découvrez comment Syntelly transforme la synthèse organique assistée par IA pour réduire les coûts pharmaceutiques et accélérer la découverte de médicaments innovants.",
+    "tags": [
+      "IA pharmaceutique",
+      "synthèse organique",
+      "découverte médicaments",
+      "chimie computationnelle",
+      "R&D pharmaceutique"
+    ],
+    "date": "2026-04-21T05:33:26.386303"
+  },
+  {
+    "slug": "support-system-for-optimization-and-personalization-of-drug-therapy",
+    "title": "Logiciel IA Support System pour l'optimisation thérapeutique",
+    "excerpt": "Découvrez comment l'IA révolutionne la personnalisation des traitements médicamenteux grâce aux systèmes d'optimisation thérapeutique pour une médecine de précision efficace.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Intelligence Artificielle",
+      "Personnalisation thérapeutique",
+      "Optimisation médicamenteuse"
+    ],
+    "date": "2026-04-21T05:30:07.314830"
+  },
+  {
+    "slug": "supply-chain-optimization",
+    "title": "Logiciel IA Supply Chain Optimization : Guide Complet 2023",
+    "excerpt": "Découvrez comment les solutions IA d'optimisation supply chain transforment la performance industrielle avec +35% de précision et -42% de ruptures de stock.",
+    "tags": [
+      "Manufactures & Factories",
+      "Supply chain management"
+    ],
+    "date": "2026-04-21T05:26:49.044167"
+  },
+  {
+    "slug": "sudden-infant-death-syndrome-sids",
+    "title": "Logiciel IA SIDS : Protection Intelligente pour Nourrissons",
+    "excerpt": "Découvrez comment le logiciel IA Sudden infant death syndrome (SIDS) transforme la sécurité infantile avec une surveillance posturale intelligente pour prévenir les risques.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Surveillance infantile",
+      "Intelligence artificielle médicale",
+      "Prévention SIDS"
+    ],
+    "date": "2026-04-21T05:24:19.078043"
+  },
+  {
+    "slug": "statistical-process-control-and-quality-prediction-with-ai",
+    "title": "Logiciel IA Statistical Process Control : Prédiction Qualité Avancée",
+    "excerpt": "Découvrez comment notre logiciel IA révolutionne le Statistical Process Control et la prédiction qualité pour réduire les défauts et optimiser vos processus industriels.",
+    "tags": [
+      "Quality Management",
+      "Process Quality",
+      "Statistical Process Control",
+      "IA Prédictive",
+      "Industrie 4.0"
+    ],
+    "date": "2026-04-21T05:20:17.881302"
+  },
+  {
+    "slug": "sports-video-analytics-for-real-time-tactics-and-player-scouting",
+    "title": "Logiciel IA Sports Video Analytics : Tactiques et Recrutement",
+    "excerpt": "Découvrez comment les logiciels IA de sports video analytics transforment les tactiques en temps réel et le recrutement des joueurs dans le football professionnel.",
+    "tags": [
+      "Sports & Fitness",
+      "Video Analytics"
+    ],
+    "date": "2026-04-21T05:17:01.981518"
+  },
+  {
+    "slug": "spend-analytics-and-procurement-cost-optimization",
+    "title": "Logiciel IA Spend Analytics : Optimisation des coûts d'achat",
+    "excerpt": "Découvrez comment un logiciel IA de Spend Analytics peut transformer votre fonction achat et générer jusqu'à 20% d'économies sur vos coûts d'approvisionnement.",
+    "tags": [
+      "Procurement",
+      "Cost Analysis",
+      "Spend Analytics",
+      "IA Achats",
+      "Optimisation Coûts"
+    ],
+    "date": "2026-04-21T05:14:26.111464"
+  },
+  {
+    "slug": "solution-to-detect-signs-of-failures-in-wind-power-generation-system",
+    "title": "Logiciel IA pour détecter les défaillances des éoliennes",
+    "excerpt": "Découvrez comment notre logiciel IA révolutionne la détection précoce des défaillances dans les systèmes de production d'énergie éolienne pour une maintenance optimisée.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance"
+    ],
+    "date": "2026-04-21T05:11:51.814372"
+  },
+  {
+    "slug": "social-humanoid-technology-capable-of-multi-modal-context-recognition-and-expression",
+    "title": "IA Social : Révolution de la Communication Vidéo en Direct",
+    "excerpt": "Découvrez comment le logiciel IA Social humanoid technology transforme les interactions vidéo avec sa reconnaissance contextuelle multimodale pour des communications plus authentiques.",
+    "tags": [
+      "View",
+      "Live Video"
+    ],
+    "date": "2026-04-21T05:08:29.366951"
+  },
+  {
+    "slug": "social-benefits-eligibility-determination-and-fraud-detection",
+    "title": "Logiciel IA pour l'éligibilité aux aides sociales et anti-fraude",
+    "excerpt": "Découvrez comment l'IA optimise la détermination d'éligibilité aux prestations sociales et la détection de fraude pour plus d'équité et d'efficacité administrative.",
+    "tags": [
+      "Public Sector",
+      "Social intelligence",
+      "Détection de fraude",
+      "Aides sociales",
+      "IA gouvernementale"
+    ],
+    "date": "2026-04-21T05:05:14.243631"
+  },
+  {
+    "slug": "smart-waste-collection-route-optimization-with-ai",
+    "title": "Logiciel IA Smart Waste Collection : Optimisation des tournées par IA",
+    "excerpt": "Découvrez comment l'IA révolutionne la collecte des déchets avec des solutions d'optimisation intelligentes réduisant les coûts de 19% et les émissions de 22%.",
+    "tags": [
+      "Energy & Utilities",
+      "Waste Management"
+    ],
+    "date": "2026-04-21T05:01:45.733885"
+  },
+  {
+    "slug": "smart-city-integrated-energy-and-traffic-flow-optimization",
+    "title": "Logiciel IA Smart City pour l'optimisation énergie et trafic urbain",
+    "excerpt": "Découvrez comment le logiciel IA Smart City integrated energy and traffic flow optimization transforme les métropoles modernes avec des résultats concrets sur l'efficacité et le développement durable.",
+    "tags": [
+      "Public Sector",
+      "Lighting & Traffic management"
+    ],
+    "date": "2026-04-21T04:58:49.884293"
+  },
+  {
+    "slug": "smart-building-occupancy-optimization-with-iot-and-ai",
+    "title": "Logiciel IA Smart Building : Optimisation d'occupation par IoT",
+    "excerpt": "Découvrez comment les solutions de Smart building occupancy optimization with IoT and AI transforment la gestion immobilière d'entreprise et génèrent un ROI de 32%.",
+    "tags": [
+      "Real Estate",
+      "Smart Building"
+    ],
+    "date": "2026-04-21T04:55:26.110982"
+  },
+  {
+    "slug": "smart-building-energy-optimization-with-iot-and-ai",
+    "title": "Logiciel IA Smart Building : 22% d'économies d'énergie prouvées",
+    "excerpt": "Découvrez comment l'IA et l'IoT optimisent la consommation énergétique des bâtiments avec des résultats concrets : 22% d'économies et ROI en 18 mois.",
+    "tags": [
+      "Sustainability & ESG",
+      "Energy Efficiency",
+      "Smart Building",
+      "IA Énergétique",
+      "IoT Bâtiment"
+    ],
+    "date": "2026-04-21T04:51:55.768250"
+  },
+  {
+    "slug": "skills-gap-analysis-and-workforce-employability-prediction",
+    "title": "Logiciel IA Skills Gap Analysis : Prédiction d'employabilité finance",
+    "excerpt": "Découvrez comment notre logiciel IA d'analyse des écarts de compétences révolutionne la prédiction d'employabilité dans le secteur financier. ROI prouvé de 2,2x.",
+    "tags": [
+      "Education",
+      "Smart Learning Content",
+      "Skills Gap Analysis",
+      "Prédiction Employabilité",
+      "IA Finance"
+    ],
+    "date": "2026-04-21T04:47:39.457416"
+  },
+  {
+    "slug": "semantic-analysis-of-legal-documents",
+    "title": "Logiciel IA Semantic Analysis of Legal Documents : Solution Complète",
+    "excerpt": "Découvrez comment notre logiciel IA d'analyse sémantique de documents juridiques identifie et résout les contradictions légales pour sécuriser votre entreprise.",
+    "tags": [
+      "Legal",
+      "Contract Management",
+      "IA Juridique",
+      "Analyse Sémantique",
+      "Conformité Légale"
+    ],
+    "date": "2026-04-21T04:44:23.485016"
+  },
+  {
+    "slug": "self-driving-aircraft-towing-vehicle",
+    "title": "Logiciel IA Self-driving aircraft towing vehicle : révolution au sol",
+    "excerpt": "Découvrez comment le logiciel IA pour véhicules autonomes de remorquage d'aéronefs transforme l'efficacité aéroportuaire, réduit les coûts et l'empreinte carbone.",
+    "tags": [
+      "Transportation",
+      "Autonomous driving"
+    ],
+    "date": "2026-04-21T04:41:12.899460"
+  },
+  {
+    "slug": "search-for-undiagnosed-patients",
+    "title": "Logiciel IA Search for Undiagnosed Patients : Révolution médicale",
+    "excerpt": "Découvrez comment l'IA transforme la détection précoce des maladies rares et réduit de 63% le temps de diagnostic des patients non diagnostiqués.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "Intelligence Artificielle",
+      "Maladies Rares",
+      "Diagnostic Médical"
+    ],
+    "date": "2026-04-21T04:38:43.383382"
+  },
+  {
+    "slug": "sanford-health-used-nlp-study-to-guide-standardization-in-its-ehr-templates-in-order-to-eliminate-bloat",
+    "title": "Sanford Health: Révolution DME par IA et NLP pour éliminer le bloat",
+    "excerpt": "Comment Sanford Health a utilisé l'IA et le NLP pour optimiser ses dossiers médicaux électroniques, réduire la documentation de 47% et améliorer la qualité des soins.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "IA en santé",
+      "Optimisation DME",
+      "NLP médical"
+    ],
+    "date": "2026-04-21T04:36:55.479570"
+  },
+  {
+    "slug": "sales-forecasting",
+    "title": "Logiciel IA Sales Forecasting : Révolutionnez vos prévisions commerciales",
+    "excerpt": "Découvrez comment le logiciel IA de Sales Forecasting transforme l'incertitude en avantage stratégique avec une précision prévisionnelle jusqu'à 91%.",
+    "tags": [
+      "Sales Forecasting",
+      "IA Prédictive",
+      "Prévisions Commerciales",
+      "Intelligence Artificielle",
+      "Sales"
+    ],
+    "date": "2026-04-21T04:33:31.374561"
+  },
+  {
+    "slug": "sales-generate-leads",
+    "title": "Logiciel IA Sales pour générer des leads dans l'audio | Guide 2023",
+    "excerpt": "Découvrez comment les logiciels IA Sales transforment les conversations clients en leads qualifiés dans l'industrie audio. Méthodologie et cas concrets.",
+    "tags": [
+      "Listen",
+      "Raw Data",
+      "IA Sales",
+      "Génération de leads",
+      "Industrie audio"
+    ],
+    "date": "2026-04-21T04:31:00.129050"
+  },
+  {
+    "slug": "robust-change-to-automized-the-daily-entertainment-and-media-tasks",
+    "title": "Logiciel IA Robust pour automatiser les tâches médias quotidiennes",
+    "excerpt": "Découvrez comment notre logiciel IA Robust transforme et automatise les tâches quotidiennes dans l'Entertainment & Media pour une efficacité optimale en 2024.",
+    "tags": [
+      "Entertainment & Media",
+      "Content Personalization",
+      "Automatisation IA",
+      "Workflows Médias",
+      "Productivité"
+    ],
+    "date": "2026-04-21T04:29:28.672994"
+  },
+  {
+    "slug": "robotic-vision-scene-awareness",
+    "title": "Logiciel IA Robotic Vision Scene Awareness pour l'industrie",
+    "excerpt": "Découvrez comment la vision robotique contextuelle transforme l'automatisation industrielle grâce à la reconnaissance de scène intelligente et adaptative.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T04:26:36.113660"
+  },
+  {
+    "slug": "robotic-task-automation-insertion",
+    "title": "Logiciel IA pour l'Automatisation des Tâches d'Insertion Robotique",
+    "excerpt": "Découvrez comment les logiciels IA de robotic task automation transforment l'insertion en assemblage industriel avec 88% de réduction des erreurs et ROI en 9 mois.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T04:24:17.583119"
+  },
+  {
+    "slug": "robotic-solution-for-replacing-human-labour-in-hazardous-conditions",
+    "title": "Logiciel IA Robotic : Protéger vos travailleurs en zones dangereuses",
+    "excerpt": "Découvrez comment notre logiciel IA Robotic solution remplace la main-d'œuvre humaine en conditions dangereuses et transforme la sécurité industrielle.",
+    "tags": [
+      "Operation",
+      "Worker assistance",
+      "Sécurité industrielle",
+      "IA robotique",
+      "Environnements dangereux"
+    ],
+    "date": "2026-04-21T04:21:43.560054"
+  },
+  {
+    "slug": "robotic-prehension-of-objects",
+    "title": "Logiciel IA Robotic prehension of objects : Révolution industrielle",
+    "excerpt": "Découvrez comment les logiciels IA de préhension robotique transforment la productivité industrielle avec 23% d'efficacité en plus et 47% moins d'arrêts.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T04:19:18.803575"
+  },
+  {
+    "slug": "robot-consciousness",
+    "title": "Logiciel IA Robot consciousness pour réseaux de capteurs IoT",
+    "excerpt": "Découvrez comment les solutions de conscience robotique transforment vos réseaux IoT : adaptabilité, transparence et acceptabilité pour des systèmes autonomes performants.",
+    "tags": [
+      "Logiciel IA",
+      "Robot consciousness",
+      "Réseaux de capteurs",
+      "IOT",
+      "Intelligence artificielle",
+      "Automatisation contextuelle"
+    ],
+    "date": "2026-04-21T04:16:36.080843"
+  },
+  {
+    "slug": "returns-management-automation-and-e-commerce-fraud-prevention",
+    "title": "IA Returns Management: Automatisation et Prévention des Fraudes",
+    "excerpt": "Découvrez comment l'IA optimise la gestion des retours e-commerce et prévient les fraudes pour améliorer votre rentabilité et l'expérience client.",
+    "tags": [
+      "Retail",
+      "Purchase Prognosis",
+      "Returns Management",
+      "Fraud Prevention",
+      "E-commerce"
+    ],
+    "date": "2026-04-21T04:12:37.166599"
+  },
+  {
+    "slug": "retail-smart-assistant",
+    "title": "Logiciel IA Retail - Smart Assistant : Cas d'usage Henkel",
+    "excerpt": "Découvrez comment un Logiciel IA Retail - Smart Assistant transforme la relation client avec le cas Henkel : assistance personnalisée, résultats concrets et méthodologie d'implémentation.",
+    "tags": [
+      "Retail",
+      "Smart Assistant",
+      "IA conversationnelle",
+      "Service client",
+      "Henkel"
+    ],
+    "date": "2026-04-21T04:09:53.683791"
+  },
+  {
+    "slug": "retail-purchase-prognosis",
+    "title": "Logiciel IA Retail - Purchase Prognosis : +20% de revenus e-commerce",
+    "excerpt": "Découvrez comment un Logiciel IA Retail - Purchase Prognosis a transformé un e-commerce américain avec 20% de revenus additionnels grâce à la prédiction d'achat.",
+    "tags": [
+      "Retail",
+      "Purchase Prognosis",
+      "IA Prédictive",
+      "Conversion E-commerce",
+      "Prédiction d'Achat"
+    ],
+    "date": "2026-04-21T04:07:15.169788"
+  },
+  {
+    "slug": "retail-personalization",
+    "title": "Logiciel IA Retail - Personalization : Révolutionnez votre ROI",
+    "excerpt": "Découvrez comment les solutions de Logiciel IA Retail - Personalization transforment l'expérience client, boostent les conversions et optimisent votre ROI dans le secteur du retail.",
+    "tags": [
+      "Retail",
+      "Personalization",
+      "IA",
+      "Expérience client",
+      "ROI marketing"
+    ],
+    "date": "2026-04-21T04:04:44.849619"
+  },
+  {
+    "slug": "retail-method-for-pricing",
+    "title": "Logiciel IA Retail - Method for Pricing : +25% de marge",
+    "excerpt": "Découvrez comment les solutions IA de pricing dynamique permettent aux retailers d'augmenter leurs marges de 25% grâce à des ajustements tarifaires optimisés en temps réel.",
+    "tags": [
+      "Retail",
+      "Method for Pricing",
+      "IA Pricing",
+      "Pricing Dynamique",
+      "Optimisation Tarifaire"
+    ],
+    "date": "2026-04-21T04:02:07.299490"
+  },
+  {
+    "slug": "retail-improved-advertisement",
+    "title": "Logiciel IA Retail pour publicités optimisées par l'analyse des sentiments",
+    "excerpt": "Découvrez comment les logiciels IA Retail - Improved Advertisement transforment les conversations clients en insights publicitaires stratégiques pour un ROI supérieur de 37%.",
+    "tags": [
+      "Retail",
+      "Improved Advertisement",
+      "IA Publicité",
+      "Analyse des sentiments",
+      "Marketing digital"
+    ],
+    "date": "2026-04-21T04:00:28.859534"
+  },
+  {
+    "slug": "retail-customer-sentiment-analysis",
+    "title": "Logiciel IA Retail pour l'Analyse du Sentiment Client - Guide Complet",
+    "excerpt": "Découvrez comment maximiser votre ROI avec les solutions d'analyse du sentiment client dans le retail. Comparatif, cas d'usage et framework d'évaluation.",
+    "tags": [
+      "Retail",
+      "Customer Sentiment Analysis",
+      "Intelligence Artificielle",
+      "Expérience Client",
+      "ROI Technologique"
+    ],
+    "date": "2026-04-21T03:58:58.578996"
+  },
+  {
+    "slug": "restaurant-and-food-service-revenue-management-with-dynamic-pricing",
+    "title": "Logiciel IA Revenue Management Restaurant: Optimiser vos prix",
+    "excerpt": "Découvrez comment un logiciel IA de revenue management avec pricing dynamique peut augmenter la rentabilité de votre restaurant jusqu'à 12% et réduire le gaspillage.",
+    "tags": [
+      "Food & Beverage",
+      "Revenue Management"
+    ],
+    "date": "2026-04-21T03:55:12.155178"
+  },
+  {
+    "slug": "regulatory-submission-automation-for-fda-and-ema-approval",
+    "title": "Logiciel IA pour Automatisation des Soumissions Réglementaires FDA/EMA",
+    "excerpt": "Découvrez comment l'automatisation intelligente des soumissions réglementaires peut réduire vos délais d'approbation FDA et EMA de 3 à 6 mois et économiser des millions.",
+    "tags": [
+      "Pharma & Life Sciences",
+      "Regulatory Affairs",
+      "Automatisation IA",
+      "Soumissions réglementaires",
+      "Approbation FDA EMA"
+    ],
+    "date": "2026-04-21T03:51:48.457648"
+  },
+  {
+    "slug": "regulatory-change-monitoring-and-compliance-alerting-with-nlp",
+    "title": "IA et NLP pour la veille réglementaire et la conformité",
+    "excerpt": "Comment le logiciel IA de Regulatory change monitoring avec NLP révolutionne la conformité réglementaire : gain de temps, réduction des risques et transformation stratégique.",
+    "tags": [
+      "Legal",
+      "Legal review",
+      "Compliance",
+      "Regulatory monitoring",
+      "NLP",
+      "Intelligence artificielle"
+    ],
+    "date": "2026-04-21T03:48:23.928210"
+  },
+  {
+    "slug": "reducing-food-recalls-with-ai-dri",
+    "title": "Logiciel IA Reducing Food Recalls With AI-Dri | Sécurité Alimentaire",
+    "excerpt": "Découvrez comment le logiciel IA Reducing Food Recalls With AI-Dri réduit jusqu'à 83% les rappels produits grâce à sa technologie prédictive avancée.",
+    "tags": [
+      "Agriculture",
+      "Food safety",
+      "Sécurité alimentaire",
+      "IA prédictive",
+      "Rappels alimentaires"
+    ],
+    "date": "2026-04-21T03:44:00.634222"
+  },
+  {
+    "slug": "recommendation-algorithm-for-improving-member-experience-and-discoverability-of-resorts-in-the-booking-portal-of-a-hotel-chain",
+    "title": "IA de Recommandation pour Portails Hôteliers : Guide Complet",
+    "excerpt": "Découvrez comment un logiciel IA de recommandation transforme l'expérience client et la découvrabilité des resorts dans les portails de réservation hôtelière.",
+    "tags": [
+      "Sales",
+      "Product recommandation"
+    ],
+    "date": "2026-04-21T03:41:33.983501"
+  },
+  {
+    "slug": "real-time-segmentation-and-prediction-of-plant-growth-dynamics-using-low-power-embedded-systems-equipped-with-ai",
+    "title": "IA Temps Réel pour Prédiction de Croissance des Plantes en Agriculture",
+    "excerpt": "Découvrez comment notre logiciel IA de segmentation et prédiction en temps réel révolutionne la surveillance des cultures avec des systèmes embarqués à faible consommation.",
+    "tags": [
+      "Agriculture de précision",
+      "IA embarquée",
+      "Analyse de croissance végétale",
+      "Systèmes à faible consommation",
+      "Prédiction de croissance des plantes",
+      "Optimisation agricole",
+      "Crop health Analysis"
+    ],
+    "date": "2026-04-21T03:38:46.720698"
+  },
+  {
+    "slug": "real-time-patient-support-and-medical-information-service-applying-spoken-dialogue-system",
+    "title": "IA vocale en dentisterie : Dialogue intelligent pour soins optimisés",
+    "excerpt": "Découvrez comment le logiciel IA de dialogue vocal en temps réel transforme l'expérience patient et l'efficacité des cabinets dentaires avec notre système d'assistance médicale.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "IA médicale",
+      "Assistant vocal dentaire",
+      "Dialogue intelligent santé"
+    ],
+    "date": "2026-04-21T03:36:17.812745"
+  },
+  {
+    "slug": "real-time-aml-and-financial-crime-network-pattern-detection",
+    "title": "Logiciel IA Real-time AML : Révolution de la Détection Financière",
+    "excerpt": "Découvrez comment l'IA transforme la détection des crimes financiers en temps réel avec des solutions avancées de détection des patterns AML pour les institutions bancaires.",
+    "tags": [
+      "Banking & Finances",
+      "Fraud Detection"
+    ],
+    "date": "2026-04-21T03:32:33.927669"
+  },
+  {
+    "slug": "real-estate-investment-portfolio-optimization",
+    "title": "Logiciel IA pour l'optimisation des portefeuilles immobiliers",
+    "excerpt": "Découvrez comment les logiciels IA d'optimisation de portefeuilles immobiliers génèrent 5-8M$ de valeur supplémentaire et transforment les stratégies d'investissement.",
+    "tags": [
+      "Real Estate",
+      "Investment Analytics",
+      "IA Immobilier",
+      "Optimisation Portefeuille",
+      "PropTech"
+    ],
+    "date": "2026-04-21T03:29:19.128243"
+  },
+  {
+    "slug": "railway-infrastructure-predictive-maintenance-and-delay-prediction",
+    "title": "Logiciel IA pour maintenance prédictive ferroviaire | Deutsche Bahn",
+    "excerpt": "Découvrez comment le logiciel IA de maintenance prédictive des infrastructures ferroviaires transforme la fiabilité et réduit les retards chez Deutsche Bahn.",
+    "tags": [
+      "Transportation",
+      "Rail Operations",
+      "Maintenance Prédictive",
+      "Intelligence Artificielle",
+      "Infrastructure Ferroviaire"
+    ],
+    "date": "2026-04-21T03:25:10.596761"
+  },
+  {
+    "slug": "project-delay-and-cost-overrun-prediction-in-construction",
+    "title": "Logiciel IA Prédiction Retards et Coûts dans la Construction",
+    "excerpt": "Découvrez comment les logiciels IA de prédiction des retards et dépassements de coûts transforment la gestion des projets de construction avec 35% d'économies.",
+    "tags": [
+      "Construction",
+      "Project Management",
+      "IA Prédictive",
+      "Gestion des Coûts",
+      "Planification Chantier"
+    ],
+    "date": "2026-04-21T03:22:08.465525"
+  },
+  {
+    "slug": "product-recommandation",
+    "title": "Logiciel IA Product Recommendation : Transformer le Retail en 2024",
+    "excerpt": "Découvrez comment les logiciels IA de recommendation produit augmentent le panier moyen de 20-30% et transforment l'expérience client dans le retail en 2024.",
+    "tags": [
+      "Retail",
+      "Personalization",
+      "Intelligence Artificielle",
+      "Recommandation Produit"
+    ],
+    "date": "2026-04-21T03:20:44.215173"
+  },
+  {
+    "slug": "product-failure-prediction-for-critical-it-infrastructure",
+    "title": "IA de prédiction des défaillances pour infrastructures IT critiques",
+    "excerpt": "Découvrez comment le logiciel IA Product failure prediction transforme la gestion des infrastructures IT critiques dans les télécoms avec une fiabilité accrue et des coûts réduits.",
+    "tags": [
+      "Telecom",
+      "Predictive Analytics",
+      "Infrastructure IT",
+      "Maintenance prédictive",
+      "IA pour télécoms"
+    ],
+    "date": "2026-04-21T03:18:15.786387"
+  },
+  {
+    "slug": "product-design-using-ai",
+    "title": "Logiciel IA Product Design Using AI : Optimisez votre R&D",
+    "excerpt": "Découvrez comment un logiciel IA Product Design Using AI peut transformer votre processus de conception, réduire les coûts et accélérer l'innovation produit.",
+    "tags": [
+      "R&D",
+      "Product design assistance",
+      "IA conception produit",
+      "Innovation R&D",
+      "Logiciel design IA"
+    ],
+    "date": "2026-04-21T03:14:33.692448"
+  },
+  {
+    "slug": "procurement-supplier-selection-and-evaluation",
+    "title": "Logiciel IA Procurement pour la Sélection et l'Évaluation des Fournisseurs",
+    "excerpt": "Découvrez comment les logiciels IA Procurement révolutionnent la sélection et l'évaluation des fournisseurs. Solutions innovantes pour optimiser vos décisions d'achat B2B.",
+    "tags": [
+      "Procurement",
+      "Supplier selection and evaluation",
+      "IA Achats",
+      "Logiciel procurement",
+      "Évaluation fournisseurs"
+    ],
+    "date": "2026-04-21T03:11:29.197101"
+  },
+  {
+    "slug": "procurement-cost-analysis",
+    "title": "Logiciel IA Procurement - Cost Analysis : Transformer vos Achats",
+    "excerpt": "Découvrez comment un logiciel IA d'analyse des coûts révolutionne la stratégie achats en 2024 : gain de temps, précision et économies mesurables.",
+    "tags": [
+      "Procurement",
+      "Cost Analysis",
+      "IA Achats",
+      "Analyse des dépenses",
+      "Optimisation des coûts"
+    ],
+    "date": "2026-04-21T03:07:42.187389"
+  },
+  {
+    "slug": "proactive-churn-intervention-with-next-best-action-engine",
+    "title": "Logiciel IA Proactive churn intervention : Réduire le churn B2B",
+    "excerpt": "Découvrez comment notre logiciel IA Proactive churn intervention with next-best-action engine réduit le churn B2B de 3% en 12 mois grâce à l'IA prédictive.",
+    "tags": [
+      "Customer Relationship",
+      "Self-Service Customer Support",
+      "Prévention du churn",
+      "IA prédictive",
+      "Rétention client B2B"
+    ],
+    "date": "2026-04-21T03:03:17.664864"
+  },
+  {
+    "slug": "privacy-preserving-analytics-with-differential-privacy",
+    "title": "IA et confidentialité différentielle pour la détection des fraudes bancaires",
+    "excerpt": "Découvrez comment le logiciel IA Privacy-preserving analytics with differential privacy révolutionne la détection des fraudes tout en protégeant les données clients.",
+    "tags": [
+      "Banking & Finances",
+      "Fraud Detection",
+      "Confidentialité différentielle",
+      "RGPD",
+      "Analyse de données bancaires"
+    ],
+    "date": "2026-04-21T03:00:25.404253"
+  },
+  {
+    "slug": "predictive-testing",
+    "title": "Logiciel IA Predictive Testing : Révolution du QA en 2023",
+    "excerpt": "Découvrez comment un logiciel IA de Predictive Testing transforme les tests logiciels : réduction des faux positifs, cycles raccourcis et ROI de 380%.",
+    "tags": [
+      "R&D",
+      "Automated QA",
+      "Predictive Testing",
+      "Intelligence Artificielle",
+      "Optimisation QA"
+    ],
+    "date": "2026-04-21T02:58:38.698601"
+  },
+  {
+    "slug": "predictive-maintenance-of-public-housing-lifts",
+    "title": "Logiciel IA Predictive maintenance of public housing lifts",
+    "excerpt": "Découvrez comment notre logiciel IA de maintenance prédictive transforme la gestion des ascenseurs HLM, réduit les pannes de 62% et diminue les coûts de 37%.",
+    "tags": [
+      "Construction",
+      "Predictive maintenance",
+      "Ascenseurs HLM",
+      "Maintenance prédictive",
+      "Intelligence artificielle",
+      "Logement social"
+    ],
+    "date": "2026-04-21T02:55:13.274987"
+  },
+  {
+    "slug": "predictive-maintenance-for-wind-turbines-and-solar-panels",
+    "title": "Logiciel IA de maintenance prédictive pour éoliennes et panneaux solaires",
+    "excerpt": "Optimisez la rentabilité de vos installations renouvelables grâce à l'IA prédictive : réduction de 35% des temps d'arrêt et économies de plusieurs millions d'euros.",
+    "tags": [
+      "Energy & Utilities",
+      "Renewable Energy",
+      "Maintenance Prédictive",
+      "Intelligence Artificielle"
+    ],
+    "date": "2026-04-21T02:51:38.286733"
+  },
+  {
+    "slug": "predictive-data-quality",
+    "title": "Logiciel IA Predictive data quality : Levier compétitif en R&D",
+    "excerpt": "Découvrez comment un logiciel IA de Predictive data quality peut transformer votre R&D, réduire les coûts et accélérer l'innovation grâce à l'anticipation des anomalies.",
+    "tags": [
+      "R&D",
+      "Automated QA",
+      "Qualité des données",
+      "IA prédictive",
+      "Innovation"
+    ],
+    "date": "2026-04-21T02:48:34.497387"
+  },
+  {
+    "slug": "predictive-analytics-for-the-behaviour-and-psycho-emotional-conditions-of-esports-players-using-heterogeneous-data-and-artificial-intelligence",
+    "title": "IA Prédictive pour eSport : Analyse Comportementale des Joueurs",
+    "excerpt": "Optimisez les performances de vos joueurs d'eSports grâce à notre logiciel d'IA prédictive analysant l'état psycho-émotionnel et comportemental en temps réel.",
+    "tags": [
+      "Listen",
+      "Sensor Network - IOT",
+      "eSport",
+      "Intelligence Artificielle",
+      "Analyse Prédictive"
+    ],
+    "date": "2026-04-21T02:44:53.931655"
+  },
+  {
+    "slug": "prediction-of-multidrug-resistant-tb-from-ct-pulmonary-images-based-on-deep-learning-techniques",
+    "title": "IA pour prédiction de TB multirésistante par images CT pulmonaires",
+    "excerpt": "Découvrez comment le logiciel IA de prédiction de tuberculose multirésistante par analyse d'images CT pulmonaires révolutionne le diagnostic avec 91% de précision.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Intelligence Artificielle",
+      "Tuberculose",
+      "Diagnostic médical",
+      "Imagerie médicale"
+    ],
+    "date": "2026-04-21T02:41:28.180183"
+  },
+  {
+    "slug": "predicting-relapse-of-a-dialysis-patient-during-treatment",
+    "title": "Logiciel IA Predicting relapse of a dialysis patient during treatment",
+    "excerpt": "Découvrez comment le logiciel IA prédisant les rechutes des patients en dialyse améliore la sécurité, réduit les complications et optimise les soins rénaux.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Dialyse",
+      "Intelligence Artificielle",
+      "Néphrologie"
+    ],
+    "date": "2026-04-21T02:38:20.304926"
+  },
+  {
+    "slug": "precision-farming-as-a-service",
+    "title": "Logiciel IA Precision Farming as a Service : Révolution Agricole",
+    "excerpt": "Découvrez comment le Logiciel IA Precision Farming as a Service transforme l'agriculture durable avec des solutions technologiques innovantes pour une productivité optimisée.",
+    "tags": [
+      "Agriculture",
+      "Crop health Analysis",
+      "Agriculture de précision",
+      "IA agricole",
+      "Farming as a Service",
+      "Agriculture durable"
+    ],
+    "date": "2026-04-21T02:34:57.129494"
+  },
+  {
+    "slug": "pre-screening-of-cavity-and-oral-diseases-based-on-2d-digital-images",
+    "title": "IA et Pre-screening des maladies bucco-dentaires par images 2D",
+    "excerpt": "Découvrez comment le logiciel IA de pre-screening des cavités et maladies orales transforme le diagnostic précoce et améliore l'expérience patient.",
+    "tags": [
+      "Intelligence Artificielle",
+      "Santé bucco-dentaire",
+      "Diagnostic précoce",
+      "Télémédecine",
+      "Innovation médicale"
+    ],
+    "date": "2026-04-21T02:31:53.145308"
+  },
+  {
+    "slug": "powering-remote-drilling-command-centre",
+    "title": "Logiciel IA pour centres de commande de forage à distance",
+    "excerpt": "Découvrez comment les logiciels d'IA révolutionnent les centres de commande de forage à distance, optimisant les opérations pétrolières avec une efficacité accrue et des coûts réduits.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T02:27:41.132744"
+  },
+  {
+    "slug": "portfolio-risk-identification-and-prioritization-with-ai",
+    "title": "Logiciel IA pour l'identification et priorisation des risques de portefeuille",
+    "excerpt": "Découvrez comment l'IA révolutionne la gestion des risques de portefeuille de projets avec notre solution avancée d'identification et priorisation des menaces.",
+    "tags": [
+      "Project Management",
+      "Risk & Planning",
+      "Intelligence Artificielle",
+      "Gestion de portefeuille",
+      "Analyse prédictive"
+    ],
+    "date": "2026-04-21T02:25:11.498296"
+  },
+  {
+    "slug": "physical-store-layout-optimization-using-footfall-and-heat-mapping-analytics",
+    "title": "Logiciel IA d'optimisation d'aménagement de magasin: +16% de ventes",
+    "excerpt": "Découvrez comment l'IA d'optimisation d'aménagement utilisant footfall et heat mapping analytics transforme le retail physique avec 16% de ventes additionnelles en 90 jours.",
+    "tags": [
+      "Retail",
+      "Customer Sentiment Analysis",
+      "Optimisation magasin",
+      "Heat mapping",
+      "Footfall analytics"
+    ],
+    "date": "2026-04-21T02:20:43.030180"
+  },
+  {
+    "slug": "pharmacovigilance-signal-detection-with-nlp-and-ml",
+    "title": "IA en Pharmacovigilance : Détection de Signaux par NLP et ML",
+    "excerpt": "Découvrez comment le logiciel IA de pharmacovigilance révolutionne la détection de signaux avec NLP et ML, réduisant les délais d'analyse de 75% et améliorant la sécurité patient.",
+    "tags": [
+      "Pharma & Life Sciences",
+      "Safety & Compliance"
+    ],
+    "date": "2026-04-21T02:19:07.184796"
+  },
+  {
+    "slug": "personalized-learning-and-skills-development-recommendations",
+    "title": "Logiciel IA Personalized Learning : Transformez votre stratégie RH",
+    "excerpt": "Découvrez comment un logiciel IA de recommandations personnalisées pour l'apprentissage transforme le développement des compétences en entreprise. ROI prouvé.",
+    "tags": [
+      "Human Resources",
+      "Collaborate more Effectively",
+      "Skills Development",
+      "AI Solutions",
+      "Talent Management"
+    ],
+    "date": "2026-04-21T02:16:21.788151"
+  },
+  {
+    "slug": "order-controlled-production",
+    "title": "Logiciel IA Order-Controlled Production : Révolution Manufacturière",
+    "excerpt": "Découvrez comment les logiciels IA d'Order-Controlled Production transforment l'industrie manufacturière avec une flexibilité accrue et des coûts réduits.",
+    "tags": [
+      "Manufactures & Factories",
+      "Robotic Process Automation"
+    ],
+    "date": "2026-04-21T02:12:23.887638"
+  },
+  {
+    "slug": "optimization-of-software-configurations-with-ai-techniques",
+    "title": "Logiciel IA pour l'optimisation des configurations logicielles",
+    "excerpt": "Découvrez comment l'IA révolutionne l'optimisation des configurations logicielles pour les systèmes critiques, améliorant performance et fiabilité.",
+    "tags": [
+      "IA",
+      "optimisation logicielle",
+      "configurations",
+      "systèmes critiques",
+      "checkpoint/restart",
+      "performance informatique"
+    ],
+    "date": "2026-04-21T02:10:32.262220"
+  },
+  {
+    "slug": "optimization-of-ferroalloy-consumption-for-a-steel-production-company",
+    "title": "Logiciel IA pour l'optimisation des ferroalliages en sidérurgie",
+    "excerpt": "Découvrez comment l'IA révolutionne la production d'acier en optimisant la consommation de ferroalliages, réduisant les coûts et améliorant la qualité",
+    "tags": [
+      "Manufactures & Factories",
+      "Product improvement",
+      "Intelligence Artificielle",
+      "Optimisation industrielle",
+      "Production d'acier"
+    ],
+    "date": "2026-04-21T02:07:32.059216"
+  },
+  {
+    "slug": "operations-intelligent-monitoring-of-infrastructures",
+    "title": "Logiciel IA Operations pour la Surveillance Intelligente d'Infrastructures",
+    "excerpt": "Découvrez comment notre logiciel IA Operations révolutionne le monitoring intelligent des infrastructures industrielles pour une performance optimale et durable.",
+    "tags": [
+      "Operation",
+      "Intelligent monitoring of infrastructures",
+      "IA industrielle",
+      "Optimisation infrastructures",
+      "Efficacité énergétique"
+    ],
+    "date": "2026-04-21T02:05:59.372772"
+  },
+  {
+    "slug": "open-spatial-dataset-for-developing-ai-algorithms-based-on-remote-sensing-satellite-drone-aerial-imagery-data",
+    "title": "Logiciel IA pour datasets spatiaux : révolution en télédétection",
+    "excerpt": "Découvrez comment les logiciels IA exploitent les open spatial datasets pour révolutionner l'analyse de données de télédétection (satellite, drone, imagerie aérienne)",
+    "tags": [
+      "IA spatiale",
+      "télédétection",
+      "open data",
+      "imagerie satellite",
+      "analyse géospatiale",
+      "machine learning",
+      "données spatiales ouvertes"
+    ],
+    "date": "2026-04-21T02:04:26.030081"
+  },
+  {
+    "slug": "ontologies-for-smart-buildings",
+    "title": "Logiciel IA Ontologies pour Smart Buildings : Guide Complet",
+    "excerpt": "Découvrez comment les logiciels IA d'ontologies transforment les smart buildings en structures intelligentes, optimisant énergie et confort des occupants",
+    "tags": [
+      "Construction",
+      "Building automation",
+      "Smart Buildings",
+      "Ontologies IA",
+      "Efficacité énergétique"
+    ],
+    "date": "2026-04-21T02:01:34.384294"
+  },
+  {
+    "slug": "omnichannel-customer-journey-analytics-and-experience-optimization",
+    "title": "Logiciel IA Omnichannel Customer Journey Analytics | Optimisation",
+    "excerpt": "Transformez vos données client en expériences omnicanales personnalisées grâce à l'IA. Solution complète d'analyse et optimisation du parcours client.",
+    "tags": [
+      "Customer Relationship",
+      "Self-Service Customer Support",
+      "Omnichannel Analytics",
+      "Customer Journey",
+      "Experience Optimization",
+      "IA Marketing"
+    ],
+    "date": "2026-04-21T01:58:10.085488"
+  },
+  {
+    "slug": "oil-and-gas-upstream-equipment-predictive-maintenance-with-iot",
+    "title": "Logiciel IA Oil and Gas : Maintenance Prédictive IoT Upstream",
+    "excerpt": "Optimisez vos équipements upstream Oil & Gas grâce à notre solution de maintenance prédictive combinant IA et IoT. Réduisez les temps d'arrêt de 72% et les coûts de 24%.",
+    "tags": [
+      "Energy & Utilities",
+      "Oil & Gas",
+      "Maintenance Prédictive",
+      "IoT",
+      "Intelligence Artificielle"
+    ],
+    "date": "2026-04-21T01:56:09.816112"
+  },
+  {
+    "slug": "nuclear-power-plant-safety-anomaly-detection-and-monitoring",
+    "title": "Logiciel IA pour la sécurité des centrales nucléaires : détection avancée",
+    "excerpt": "Découvrez comment l'IA révolutionne la détection d'anomalies dans les centrales nucléaires avec des solutions prédictives réduisant les risques et optimisant la maintenance.",
+    "tags": [
+      "Energy & Utilities",
+      "Nuclear Safety"
+    ],
+    "date": "2026-04-21T01:51:45.648481"
+  },
+  {
+    "slug": "non-intrusive-detection-of-malware",
+    "title": "Logiciel IA Non-intrusive detection of malware pour la défense",
+    "excerpt": "Découvrez comment le logiciel IA de détection non-intrusive de malware révolutionne la cybersécurité militaire sans compromettre la confidentialité des données.",
+    "tags": [
+      "Defense & Military",
+      "Cybersecurity"
+    ],
+    "date": "2026-04-21T01:47:45.374130"
+  },
+  {
+    "slug": "non-conformity-prediction-and-automated-root-cause-analysis",
+    "title": "Logiciel IA pour prédiction et analyse des non-conformités industrielles",
+    "excerpt": "Optimisez votre gestion qualité avec notre logiciel IA de prédiction des non-conformités et analyse automatisée des causes racines. Réduisez vos coûts et anticipez les défauts.",
+    "tags": [
+      "Quality Management",
+      "Root Cause Analysis",
+      "Intelligence Artificielle",
+      "Prédiction Non-Conformités",
+      "Industrie 4.0"
+    ],
+    "date": "2026-04-21T01:46:09.391335"
+  },
+  {
+    "slug": "next-level-customer-services-email-automation-with-natural-language-processing",
+    "title": "Logiciel IA pour l'automatisation des emails bancaires par NLP",
+    "excerpt": "Découvrez comment le logiciel IA Next Level Customer Services transforme le secteur bancaire grâce à l'automatisation intelligente des emails par natural language processing.",
+    "tags": [
+      "Banking & Finances",
+      "Personal Financial Advisor"
+    ],
+    "date": "2026-04-21T01:44:28.587143"
+  },
+  {
+    "slug": "next-century-workforce-partnering-humans-robots-to-drive-efficiency-growth",
+    "title": "Logiciel IA Next Century Workforce pour le secteur bancaire",
+    "excerpt": "Découvrez comment le logiciel IA Next Century Workforce révolutionne le secteur bancaire en alliant expertise humaine et intelligence artificielle pour une croissance durable.",
+    "tags": [
+      "Banking & Finances",
+      "Personal Financial Advisor",
+      "Intelligence Artificielle",
+      "Automatisation",
+      "Productivité bancaire"
+    ],
+    "date": "2026-04-21T01:41:09.221475"
+  },
+  {
+    "slug": "new-machine-learning-simulations-reduce-energy-need-for-n95-mask-fabrics",
+    "title": "Logiciel IA: Réduction énergétique pour tissus de masques N95",
+    "excerpt": "Découvrez comment les simulations IA de machine-learning réduisent jusqu'à 25% les besoins énergétiques dans la fabrication des tissus pour masques N95, tout en préservant la qualité.",
+    "tags": [
+      "Manufactures & Factories",
+      "Product improvement",
+      "Intelligence artificielle",
+      "Économie d'énergie",
+      "Masques N95"
+    ],
+    "date": "2026-04-21T01:38:25.861118"
+  },
+  {
+    "slug": "neural-network-formation-of-3d-model-orthopedic-insoles",
+    "title": "IA et Neural Network pour Semelles Orthopédiques 3D Personnalisées",
+    "excerpt": "Découvrez comment le logiciel IA Neural network révolutionne la formation de modèles 3D pour semelles orthopédiques. Précision accrue et confort patient optimisé.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Orthopédie",
+      "Intelligence Artificielle",
+      "Modélisation 3D"
+    ],
+    "date": "2026-04-21T01:35:14.306072"
+  },
+  {
+    "slug": "nlp-study-finds-50-of-patient-notes-duplicated",
+    "title": "Logiciel IA NLP : 50% des notes patient dupliquées dans les hôpitaux",
+    "excerpt": "Étude révélatrice: un logiciel IA NLP détecte 50% de duplication dans les notes patient. Impact financier majeur pour les hôpitaux et solutions concrètes.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "NLP",
+      "Intelligence Artificielle",
+      "Documentation médicale"
+    ],
+    "date": "2026-04-21T01:31:58.029544"
+  },
+  {
+    "slug": "nlp-text-summarization",
+    "title": "Logiciel IA NLP - Text Summarization pour entreprises",
+    "excerpt": "Optimisez votre traitement documentaire avec des solutions IA de synthèse automatique. Découvrez comment le NLP révolutionne la gestion de l'information en entreprise.",
+    "tags": [
+      "Operation",
+      "Automate operation - Robotization"
+    ],
+    "date": "2026-04-21T01:29:16.707871"
+  },
+  {
+    "slug": "nlp-machine-translation",
+    "title": "Logiciel IA NLP - Machine translation : Boostez votre productivité",
+    "excerpt": "Découvrez comment un logiciel IA NLP - Machine translation élimine les barrières linguistiques et transforme la productivité de vos équipes internationales.",
+    "tags": [
+      "Operation",
+      "Worker assistance",
+      "Traduction automatique",
+      "NLP",
+      "Productivité internationale"
+    ],
+    "date": "2026-04-21T01:26:23.901533"
+  },
+  {
+    "slug": "moving-beyond-generalised-linear-models-a-sophisticated-pricing-strategy-incorporating-competitor-pricing",
+    "title": "Logiciel IA pour tarification avancée : au-delà des GLM",
+    "excerpt": "Découvrez comment notre solution IA révolutionne la tarification en assurance en intégrant les données concurrentielles pour optimiser votre stratégie de prix.",
+    "tags": [
+      "Sales",
+      "Price Optimization"
+    ],
+    "date": "2026-04-21T01:22:16.767029"
+  },
+  {
+    "slug": "maritime-route-optimization-and-fuel-consumption-prediction",
+    "title": "Logiciel IA Maritime : Optimisation de Routes et Économie de Carburant",
+    "excerpt": "Découvrez comment l'IA révolutionne l'optimisation des routes maritimes et la prédiction de consommation de carburant pour réduire les coûts et l'impact environnemental.",
+    "tags": [
+      "Transportation",
+      "Maritime",
+      "Optimisation Routes",
+      "Consommation Carburant",
+      "IA Maritime"
+    ],
+    "date": "2026-04-21T01:19:24.000202"
+  },
+  {
+    "slug": "manufacturing-and-factories-predictive-maintenance",
+    "title": "Logiciel IA Manufacturing - Maintenance Prédictive Industrielle",
+    "excerpt": "Optimisez votre production avec notre logiciel IA de maintenance prédictive pour usines : réduisez les arrêts de 50% et les coûts de maintenance de 40%.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance"
+    ],
+    "date": "2026-04-21T01:15:20.757877"
+  },
+  {
+    "slug": "management-time-management-planning",
+    "title": "Logiciel IA Management : Révolution du Time Management Automobile",
+    "excerpt": "Découvrez comment les solutions IA de planification augmentent de 23% la productivité dans l'industrie automobile et réduisent les coûts de 18%. Guide complet.",
+    "tags": [
+      "Automate",
+      "Plan & Schedule",
+      "IA Management",
+      "Time Management",
+      "Industrie Automobile"
+    ],
+    "date": "2026-04-21T01:12:22.349246"
+  },
+  {
+    "slug": "management-market-intelligence",
+    "title": "Logiciel IA Management - Market Intelligence pour la croissance",
+    "excerpt": "Découvrez comment transformer vos données clients en leviers de croissance mesurables grâce aux solutions de Market Intelligence propulsées par l'IA",
+    "tags": [
+      "Management",
+      "Market Intelligence",
+      "IA",
+      "Données client",
+      "Croissance"
+    ],
+    "date": "2026-04-21T01:09:55.878016"
+  },
+  {
+    "slug": "machine-learning-based-triage-to-determine-low-severity-patients-that-can-be-fast-tracked-to-admission-in-ed-due-to-their-short-discharge-length",
+    "title": "IA pour triage aux urgences : optimisation des patients à faible gravité",
+    "excerpt": "Découvrez comment le machine learning révolutionne le triage aux urgences en identifiant les patients à faible gravité pour une admission accélérée et une meilleure gestion hospitalière.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "IA en santé",
+      "Triage médical",
+      "Machine learning médical",
+      "Optimisation urgences"
+    ],
+    "date": "2026-04-21T01:06:00.211089"
+  },
+  {
+    "slug": "machine-learning-driven-approach-to-identify-weak-spots-in-the-manufacturing-of-circuit-breakers",
+    "title": "IA & Machine Learning pour Fiabilité des Disjoncteurs Haute Tension",
+    "excerpt": "Découvrez comment le machine learning identifie les points faibles dans la fabrication des disjoncteurs pour réduire les défaillances et optimiser la maintenance prédictive.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance",
+      "Machine Learning",
+      "Disjoncteurs Haute Tension",
+      "Fiabilité Industrielle"
+    ],
+    "date": "2026-04-21T01:01:44.394204"
+  },
+  {
+    "slug": "machine-learning-driven-analysis-of-batch-process-operation-data-to-identify-causes-of-poor-batch-performance",
+    "title": "IA & Machine Learning pour l'analyse des processus batch industriels",
+    "excerpt": "Découvrez comment notre logiciel IA d'analyse des données de processus batch identifie les causes de sous-performance et optimise votre production industrielle.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance",
+      "Machine Learning Industriel",
+      "Analyse Prédictive",
+      "Optimisation Batch"
+    ],
+    "date": "2026-04-21T00:58:09.585896"
+  },
+  {
+    "slug": "machine-learning-tools-in-support-of-transformer-diagnostics",
+    "title": "IA et Machine Learning pour diagnostics des transformateurs",
+    "excerpt": "Découvrez comment les logiciels d'IA et Machine Learning révolutionnent le diagnostic des transformateurs électriques pour une maintenance prédictive efficace et économique.",
+    "tags": [
+      "IA",
+      "Machine Learning",
+      "Transformateurs électriques",
+      "Diagnostic prédictif",
+      "Maintenance industrielle",
+      "SMART Framework"
+    ],
+    "date": "2026-04-21T00:56:49.133024"
+  },
+  {
+    "slug": "mlops-automated-model-monitoring-drift-detection-and-retraining",
+    "title": "Logiciel IA MLOps: surveillance automatique des modèles & ROI",
+    "excerpt": "Découvrez comment la surveillance automatisée des modèles IA, la détection de dérives et le réentraînement protègent votre ROI et garantissent des performances optimales.",
+    "tags": [
+      "IT & Technology Management",
+      "MLOps & AI Governance"
+    ],
+    "date": "2026-04-21T00:55:12.418677"
+  },
+  {
+    "slug": "luxury-product-authentication-and-anti-counterfeiting-with-computer-vision",
+    "title": "Logiciel IA d'authentification de produits de luxe par vision par ordinateur",
+    "excerpt": "Découvrez comment la technologie IA de vision par ordinateur révolutionne l'authentification des produits de luxe et combat efficacement la contrefaçon à grande échelle.",
+    "tags": [
+      "Fashion & Luxury",
+      "Brand Protection",
+      "Authentification IA",
+      "Vision par ordinateur",
+      "Anti-contrefaçon"
+    ],
+    "date": "2026-04-21T00:52:38.282938"
+  },
+  {
+    "slug": "logo-and-trademark-detection",
+    "title": "Logiciel IA Logo Detection : Transformer l'Analyse Client",
+    "excerpt": "Découvrez comment un logiciel IA de logo and trademark detection révolutionne l'analyse comportementale client et offre des insights marketing inédits.",
+    "tags": [
+      "Marketing",
+      "User Behaviour Analysis",
+      "Intelligence Artificielle",
+      "Détection de Logo"
+    ],
+    "date": "2026-04-21T00:50:51.203609"
+  },
+  {
+    "slug": "loan-in-7-minutes",
+    "title": "Logiciel IA Loan in 7 minutes : Révolution du crédit professionnel",
+    "excerpt": "Découvrez comment le logiciel IA Loan in 7 minutes transforme l'octroi de crédit professionnel en quelques minutes et améliore l'expérience client bancaire.",
+    "tags": [
+      "Banking & Finances",
+      "Credit Lending & Scoring"
+    ],
+    "date": "2026-04-21T00:49:18.303721"
+  },
+  {
+    "slug": "litigation-risk-prediction-and-legal-outcome-modeling",
+    "title": "Logiciel IA Litigation Risk Prediction: Révolution Juridique",
+    "excerpt": "Découvrez comment les logiciels d'IA de prédiction des risques judiciaires transforment la stratégie contentieuse avec 89% de précision et 4,2M€ d'économies annuelles.",
+    "tags": [
+      "Legal",
+      "Legal review",
+      "IA juridique",
+      "Prédiction contentieuse",
+      "Risk management"
+    ],
+    "date": "2026-04-21T00:46:05.207405"
+  },
+  {
+    "slug": "leveraging-ai-to-enhance-adhesive-quality",
+    "title": "Logiciel IA pour adhésifs : optimiser la qualité par l'intelligence artificielle",
+    "excerpt": "Découvrez comment le logiciel IA révolutionne la qualité des adhésifs industriels : réduction des défauts de 67%, ROI de 311% et production optimisée.",
+    "tags": [
+      "Manufactures & Factories",
+      "Product improvement"
+    ],
+    "date": "2026-04-21T00:44:32.139844"
+  },
+  {
+    "slug": "legal-research-automation-with-retrieval-augmented-generation",
+    "title": "IA et Recherche Juridique : Révolution par RAG pour Avocats",
+    "excerpt": "Découvrez comment le logiciel IA Legal research automation with Retrieval-Augmented Generation transforme la recherche juridique et booste la rentabilité des cabinets d'avocats",
+    "tags": [
+      "Legal",
+      "Legal review",
+      "IA juridique",
+      "Recherche juridique",
+      "RAG",
+      "Automatisation juridique"
+    ],
+    "date": "2026-04-21T00:42:32.258509"
+  },
+  {
+    "slug": "legal-contract-analysis",
+    "title": "Logiciel IA Legal - Contract Analysis : Réduire les risques juridiques",
+    "excerpt": "Découvrez comment l'analyse contractuelle par IA réduit les risques juridiques de 65% et transforme les départements juridiques en centres de valeur stratégique.",
+    "tags": [
+      "Legal Tech",
+      "Contract Analysis",
+      "IA Juridique",
+      "Analyse Contractuelle",
+      "Legal review",
+      "Risques juridiques"
+    ],
+    "date": "2026-04-21T00:40:50.038185"
+  },
+  {
+    "slug": "legal-automated-legal-review",
+    "title": "Logiciel IA Legal : Révolutionner la revue de contrats automatisée",
+    "excerpt": "Découvrez comment le Logiciel IA Legal - Automated Legal Review transforme les départements juridiques avec une efficacité prouvée et un ROI mesurable.",
+    "tags": [
+      "Legal",
+      "Legal review",
+      "IA juridique",
+      "Automatisation juridique",
+      "Revue de contrats"
+    ],
+    "date": "2026-04-21T00:37:26.916157"
+  },
+  {
+    "slug": "leapfrogging-fraud-detection-in-banking-transition-from-rule-based-to-ai-approach",
+    "title": "Logiciel IA pour la détection des fraudes bancaires | Solutions avancées",
+    "excerpt": "Découvrez comment les logiciels IA révolutionnent la détection des fraudes bancaires en remplaçant les systèmes basés sur des règles par des approches d'intelligence artificielle avancées.",
+    "tags": [
+      "Banking & Finances",
+      "Fraud Detection",
+      "Intelligence Artificielle",
+      "Cybersécurité Bancaire"
+    ],
+    "date": "2026-04-21T00:34:16.968040"
+  },
+  {
+    "slug": "last-mile-delivery-route-optimization-with-real-time-ai",
+    "title": "Logiciel IA Last-mile delivery: Optimisation en temps réel",
+    "excerpt": "Découvrez comment l'IA révolutionne l'optimisation d'itinéraires de livraison du dernier kilomètre avec des résultats prouvés: -22% de coûts, +9% de productivité.",
+    "tags": [
+      "Transportation",
+      "Logistics Optimization",
+      "Last-mile Delivery",
+      "Route Optimization",
+      "AI Solutions"
+    ],
+    "date": "2026-04-21T00:32:38.276553"
+  },
+  {
+    "slug": "knowledge-representation-and-knowledge-graphs",
+    "title": "Logiciel IA Knowledge Graphs pour l'industrie automatisée",
+    "excerpt": "Découvrez comment les logiciels IA de Knowledge Representation et Knowledge Graphs transforment l'optimisation des systèmes industriels et réduisent les coûts de maintenance.",
+    "tags": [
+      "Knowledge Graphs",
+      "IA industrielle",
+      "Automatisation",
+      "Maintenance prédictive",
+      "Optimize System"
+    ],
+    "date": "2026-04-21T00:29:51.457726"
+  },
+  {
+    "slug": "knowledge-representation-expert-system",
+    "title": "Logiciel IA Knowledge Representation pour Gestion des Réclamations",
+    "excerpt": "Optimisez votre gestion des réclamations clients avec notre logiciel IA de knowledge representation et système expert. Solutions performantes pour une résolution efficace.",
+    "tags": [
+      "Customer Relationship",
+      "Manage claims",
+      "Knowledge Representation",
+      "Système Expert",
+      "IA Réclamations"
+    ],
+    "date": "2026-04-21T00:28:07.845105"
+  },
+  {
+    "slug": "knowledge-representation-bayesian-network",
+    "title": "Logiciel IA Knowledge Representation - Bayesian Network pour la maintenance",
+    "excerpt": "Découvrez comment les réseaux bayésiens révolutionnent la maintenance prédictive industrielle en réduisant les temps d'arrêt et en optimisant les coûts opérationnels.",
+    "tags": [
+      "Operation",
+      "Predictive Maintenance",
+      "Knowledge Representation",
+      "Bayesian Network",
+      "IA Industrielle"
+    ],
+    "date": "2026-04-21T00:24:24.680667"
+  },
+  {
+    "slug": "knowledge-graphs-in-knowledge-data-management",
+    "title": "Logiciel IA Knowledge Graphs pour la gestion des connaissances R&D",
+    "excerpt": "Découvrez comment les logiciels IA Knowledge Graphs transforment la gestion des connaissances en R&D : méthodologie, cas d'usage et bénéfices concrets.",
+    "tags": [
+      "R&D",
+      "Knowledge Management",
+      "Knowledge Graphs",
+      "Intelligence Artificielle",
+      "Gestion des données"
+    ],
+    "date": "2026-04-21T00:21:10.813920"
+  },
+  {
+    "slug": "jet-engine-predictive-maintenance-service",
+    "title": "Logiciel IA Jet Engine Predictive Maintenance Service | Sécurité Aérienne",
+    "excerpt": "Optimisez la maintenance de vos moteurs d'avion grâce à notre logiciel IA de maintenance prédictive. Réduisez les coûts et améliorez la sécurité aérienne.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance",
+      "Maintenance Aéronautique",
+      "IA Aéronautique",
+      "Moteurs d'Avion"
+    ],
+    "date": "2026-04-21T00:17:08.057509"
+  },
+  {
+    "slug": "inventory-forecasting-using-fuzzy-logic",
+    "title": "Logiciel IA Inventory forecasting using fuzzy logic: Guide complet",
+    "excerpt": "Optimisez votre gestion des stocks avec la logique floue. Découvrez comment cette technologie IA révolutionne la prévision d'inventaire avec 47% moins de ruptures.",
+    "tags": [
+      "Knowledge Representation",
+      "Fuzzy logic",
+      "Prévision des stocks",
+      "Supply Chain",
+      "IA pour inventaire"
+    ],
+    "date": "2026-04-21T00:15:29.669761"
+  },
+  {
+    "slug": "inventory-management-forecasting-capacity-planning",
+    "title": "Logiciel IA Inventory Management & Forecasting pour l'industrie",
+    "excerpt": "Découvrez comment l'IA révolutionne la gestion des stocks et la planification des capacités dans l'industrie manufacturière. Solutions et méthodologie PREDICT.",
+    "tags": [
+      "Manufactures & Factories",
+      "Inventory Management"
+    ],
+    "date": "2026-04-21T00:11:08.590698"
+  },
+  {
+    "slug": "intelligent-technology-to-control-manual-operations-via-video-norma",
+    "title": "Norma: Logiciel IA pour contrôle vidéo des opérations manuelles",
+    "excerpt": "Découvrez comment Norma, logiciel IA intelligent, réduit de 65% les erreurs d'assemblage et améliore la productivité industrielle grâce au contrôle vidéo des opérations manuelles.",
+    "tags": [
+      "Manufactures & Factories",
+      "Predictive Maintenance"
+    ],
+    "date": "2026-04-21T00:09:38.227299"
+  },
+  {
+    "slug": "intelligent-resource-allocation-and-capacity-planning-across-projects",
+    "title": "Logiciel IA d'allocation intelligente des ressources : optimisez vos projets",
+    "excerpt": "Découvrez comment l'IA révolutionne l'allocation des ressources et la planification des capacités pour maximiser la performance de vos projets et optimiser vos talents.",
+    "tags": [
+      "Project Management",
+      "Resource Optimization",
+      "Allocation des ressources",
+      "Planification des capacités",
+      "IA pour projets"
+    ],
+    "date": "2026-04-21T00:05:38.063649"
+  },
+  {
+    "slug": "intelligent-educational-robot",
+    "title": "Logiciel IA Intelligent educational robot : révolution éducative",
+    "excerpt": "Découvrez comment le logiciel IA Intelligent educational robot transforme l'apprentissage personnalisé et soutient les enseignants face aux défis éducatifs actuels.",
+    "tags": [
+      "Education",
+      "Smart Learning Content",
+      "IA éducative",
+      "Robot éducatif",
+      "Apprentissage personnalisé"
+    ],
+    "date": "2026-04-21T00:01:40.081755"
+  },
+  {
+    "slug": "intelligent-video-traffic-monitoring",
+    "title": "Logiciel IA Intelligent Video Traffic Monitoring pour villes modernes",
+    "excerpt": "Optimisez la gestion du trafic urbain grâce au Logiciel IA Intelligent Video Traffic Monitoring : réduction des embouteillages, des émissions et des coûts opérationnels.",
+    "tags": [
+      "Public Sector",
+      "Lighting & Traffic management"
+    ],
+    "date": "2026-04-20T23:57:48.763632"
+  },
+  {
+    "slug": "intelligent-social-listening",
+    "title": "Logiciel IA Intelligent Social Listening pour le secteur public",
+    "excerpt": "Transformez votre relation citoyenne grâce au Social Listening IA : détection précoce des crises, analyse temps réel et engagement citoyen pour les institutions publiques.",
+    "tags": [
+      "Public Sector",
+      "Social intelligence",
+      "Intelligence artificielle",
+      "Écoute sociale",
+      "Relation citoyenne"
+    ],
+    "date": "2026-04-20T23:54:13.846654"
+  },
+  {
+    "slug": "intelligent-document-processing-using-ai",
+    "title": "Logiciel IA Intelligent Document Processing pour le secteur public",
+    "excerpt": "Découvrez comment l'IA révolutionne le traitement documentaire dans l'administration grâce aux solutions Intelligent Document Processing. Méthodologie et cas d'usage.",
+    "tags": [
+      "Public Sector",
+      "Converting paperwork into digital assets",
+      "Intelligent Document Processing",
+      "IA documentaire",
+      "Transformation numérique"
+    ],
+    "date": "2026-04-20T23:50:15.176574"
+  },
+  {
+    "slug": "integrated-recommendation-solution-for-prosthodontic-treatments",
+    "title": "IA en prosthodontie: Solution de recommandation pour traitements optimaux",
+    "excerpt": "Découvrez comment le logiciel IA Integrated recommendation solution révolutionne la prosthodontie en standardisant l'excellence et réduisant les reprises de traitements.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "Prosthodontie",
+      "Intelligence artificielle",
+      "Dentisterie digitale"
+    ],
+    "date": "2026-04-20T23:46:19.526584"
+  },
+  {
+    "slug": "instant-triaging-of-wounds",
+    "title": "Logiciel IA Instant Triaging of Wounds: Révolution du soin des plaies",
+    "excerpt": "Découvrez comment le logiciel IA de triage instantané des plaies transforme la prise en charge médicale, réduit les temps d'évaluation et améliore les résultats cliniques.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "IA Médicale",
+      "Soins des Plaies",
+      "Diabète"
+    ],
+    "date": "2026-04-20T23:43:09.512121"
+  },
+  {
+    "slug": "information-extraction-from-hand-marked-industrial-inspection-sheets",
+    "title": "Logiciel IA pour l'extraction d'information des fiches d'inspection",
+    "excerpt": "Découvrez comment notre solution IA automatise l'extraction d'information des fiches d'inspection manuscrites industrielles pour révolutionner votre maintenance prédictive.",
+    "tags": [
+      "Manufactures & Factories",
+      "Product improvement",
+      "Maintenance prédictive",
+      "Intelligence artificielle",
+      "Automatisation industrielle"
+    ],
+    "date": "2026-04-20T23:38:48.227444"
+  },
+  {
+    "slug": "improving-the-quality-of-online-interaction",
+    "title": "Logiciel IA pour améliorer les interactions en ligne | Guide 2024",
+    "excerpt": "Découvrez comment un logiciel IA améliore la qualité des interactions en ligne sur les plateformes de rencontre. Solutions concrètes et résultats mesurables.",
+    "tags": [
+      "logiciel IA",
+      "interactions en ligne",
+      "plateformes de rencontre",
+      "intelligence artificielle",
+      "expérience utilisateur"
+    ],
+    "date": "2026-04-20T23:35:01.129173"
+  },
+  {
+    "slug": "improving-the-knowledge-base-of-prescriptions-for-drug-and-non-drug-therapy-and-its-use-as-a-tool-in-support-of-medical-professionals",
+    "title": "IA pour prescriptions médicales : Optimiser les décisions cliniques",
+    "excerpt": "Comment le logiciel IA améliore la base de connaissances des prescriptions médicamenteuses et non médicamenteuses pour sécuriser les décisions cliniques.",
+    "tags": [
+      "Healthcare",
+      "Medical Assistants",
+      "IA médicale",
+      "Prescriptions médicales",
+      "Aide à la décision clinique"
+    ],
+    "date": "2026-04-20T23:32:04.416394"
+  },
+  {
+    "slug": "improving-productivity-for-warehouse-operation",
+    "title": "Logiciel IA pour améliorer la productivité des opérations d'entrepôt",
+    "excerpt": "Découvrez comment le logiciel IA révolutionne la productivité des opérations d'entrepôt avec des gains de 20% et un ROI en 9 mois. Solutions adaptatives pour la logistique moderne.",
+    "tags": [
+      "Manufactures & Factories",
+      "Supply chain management"
+    ],
+    "date": "2026-04-20T23:29:23.807993"
+  },
+  {
+    "slug": "improving-conversion-rates-and-return-on-investment-roi-with-ai-technologies",
+    "title": "IA pour Booster Conversions et ROI en Marketing Digital",
+    "excerpt": "Découvrez comment les technologies d'IA révolutionnent le marketing B2B en optimisant les taux de conversion et le retour sur investissement. Méthodologie et cas pratiques.",
+    "tags": [
+      "Marketing",
+      "Manage & Score Leads",
+      "IA",
+      "Conversion",
+      "ROI"
+    ],
+    "date": "2026-04-20T23:25:58.495183"
+  },
+  {
+    "slug": "improvement-of-productivity-of-semiconductor-manufacturing",
+    "title": "Logiciel IA: Amélioration de la productivité semi-conducteurs",
+    "excerpt": "Découvrez comment les logiciels IA révolutionnent la fabrication des semi-conducteurs: analyse automatisée, détection de défauts et optimisation prédictive.",
+    "tags": [
+      "Manufactures & Factories",
+      "Product improvement",
+      "Semi-conducteurs",
+      "Intelligence artificielle",
+      "Productivité industrielle"
+    ],
+    "date": "2026-04-20T23:22:04.934213"
+  },
+  {
+    "slug": "improve-clinical-decision-making-and-risk-assessment-in-mental-healthcare",
+    "title": "Logiciel IA pour améliorer la décision clinique en santé mentale",
+    "excerpt": "Comment l'intelligence artificielle révolutionne l'évaluation des risques et la prise de décision clinique en psychiatrie pour des soins de santé mentale plus précis et efficaces.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "Intelligence Artificielle",
+      "Santé Mentale",
+      "Évaluation des Risques"
+    ],
+    "date": "2026-04-20T23:18:45.673775"
+  },
+  {
+    "slug": "improve-business-decision",
+    "title": "Logiciel IA Improve Business Decision : Cas d'étude bancaire 100M$",
+    "excerpt": "Découvrez comment un logiciel IA d'aide à la décision a transformé le processus de crédit d'une banque multinationale, générant 100M$ de revenus supplémentaires.",
+    "tags": [
+      "Management",
+      "Improve Business Decision",
+      "IA décisionnelle",
+      "Finance",
+      "Optimisation des processus"
+    ],
+    "date": "2026-04-20T23:15:51.464364"
+  },
+  {
+    "slug": "it-asset-lifecycle-management-optimization-with-ai",
+    "title": "Logiciel IA pour optimiser le cycle de vie des actifs IT | -30% de coûts",
+    "excerpt": "Découvrez comment l'IA révolutionne la gestion du cycle de vie des actifs IT. Réduisez vos coûts de 30% et optimisez votre parc informatique grâce à l'intelligence artificielle.",
+    "tags": [
+      "IT & Technology Management",
+      "IT Asset Management"
+    ],
+    "date": "2026-04-20T23:11:58.593762"
+  },
+  {
+    "slug": "ip-and-patent-portfolio-monitoring-with-nlp",
+    "title": "Logiciel IA IP pour surveillance de portefeuilles de brevets NLP",
+    "excerpt": "Découvrez comment le logiciel IA de surveillance de portefeuilles de brevets avec NLP révolutionne la stratégie PI des entreprises pharmaceutiques et protège vos innovations.",
+    "tags": [
+      "Legal",
+      "Contract Management",
+      "NLP",
+      "Propriété Intellectuelle",
+      "Brevets",
+      "Pharmaceutique"
+    ],
+    "date": "2026-04-20T23:08:42.151995"
+  },
+  {
+    "slug": "iflytek-intelligent-marking-system",
+    "title": "Logiciel IA IFLYTEK : Révolution de l'évaluation scolaire & économies",
+    "excerpt": "Découvrez comment le logiciel IA IFLYTEK intelligent marking system révolutionne l'évaluation académique et réduit les coûts jusqu'à 40% avec des résultats prouvés.",
+    "tags": [
+      "Education",
+      "Automated Content Generators",
+      "IA éducative",
+      "Évaluation automatisée",
+      "IFLYTEK"
+    ],
+    "date": "2026-04-20T23:05:50.030018"
+  },
+  {
+    "slug": "human-resources-federate-the-team",
+    "title": "Logiciel IA Human Resources pour fédérer vos équipes efficacement",
+    "excerpt": "Découvrez comment un logiciel IA Human Resources peut transformer votre culture d'entreprise et renforcer la cohésion de vos équipes dispersées.",
+    "tags": [
+      "IA RH",
+      "Cohésion d'équipe",
+      "Culture d'entreprise",
+      "Logiciel RH"
+    ],
+    "date": "2026-04-20T23:01:15.657827"
+  },
+  {
+    "slug": "human-resources-employee-performance-assessment",
+    "title": "Logiciel IA HR pour l'évaluation de performance des employés",
+    "excerpt": "Découvrez comment les logiciels IA Human Resources transforment l'évaluation de performance des employés : méthodologie, cas d'usage et guide d'implémentation.",
+    "tags": [
+      "Human Resources",
+      "Employee performance assessment",
+      "Logiciel IA RH",
+      "Évaluation de performance",
+      "IA ressources humaines"
+    ],
+    "date": "2026-04-20T22:57:05.294694"
+  },
+  {
+    "slug": "how-ml-can-improve-churn-prediction-to-retain-more-revenue-for-insurers",
+    "title": "IA pour prédiction du churn : préserver les revenus des assureurs",
+    "excerpt": "Découvrez comment le machine learning révolutionne la prédiction du churn dans l'assurance pour retenir vos clients et sécuriser vos revenus à long terme.",
+    "tags": [
+      "Marketing",
+      "Limit Customer Churn",
+      "IA Assurance",
+      "Prédiction Machine Learning"
+    ],
+    "date": "2026-04-20T22:52:58.764719"
+  },
+  {
+    "slug": "how-ai-ml-improves-its-underwriting-supports-for-commercial-insurers-with-their-agents",
+    "title": "IA en souscription : révolution pour assureurs commerciaux",
+    "excerpt": "Découvrez comment les logiciels d'IA/ML transforment la souscription d'assurance commerciale et optimisent la collaboration entre assureurs et agents.",
+    "tags": [
+      "Insurance",
+      "Process underwriting submissions",
+      "AI",
+      "Machine Learning",
+      "Underwriting"
+    ],
+    "date": "2026-04-20T22:49:11.744074"
+  },
+  {
+    "slug": "hotel-guest-experience-hyper-personalization-with-ai",
+    "title": "Logiciel IA Hotel : Hyper-personnalisation de l'expérience client",
+    "excerpt": "Découvrez comment l'IA transforme l'expérience client hôtelière grâce à l'hyper-personnalisation : cas d'usage, ROI et guide d'implémentation pour hôteliers.",
+    "tags": [
+      "Travel & Hospitality",
+      "Guest Experience",
+      "IA Hôtellerie",
+      "Personnalisation Client"
+    ],
+    "date": "2026-04-20T22:45:42.549501"
+  },
+  {
+    "slug": "hospitality-operations-optimization-housekeeping-and-f-b-scheduling",
+    "title": "Logiciel IA pour l'optimisation des opérations hôtelières",
+    "excerpt": "Découvrez comment l'IA révolutionne l'optimisation des opérations hôtelières (housekeeping et F&B scheduling) avec le cas concret de Marriott et des résultats mesurables.",
+    "tags": [
+      "Travel & Hospitality",
+      "Operations Efficiency"
+    ],
+    "date": "2026-04-20T22:43:30.595301"
+  },
+  {
+    "slug": "hospital-management-tools",
+    "title": "Logiciel IA Hospital Management Tools : Révolution en Santé",
+    "excerpt": "Découvrez comment les logiciels IA Hospital Management Tools optimisent la gestion des patients, réduisent les coûts et améliorent la qualité des soins hospitaliers.",
+    "tags": [
+      "Healthcare",
+      "Hospital Patient Management",
+      "IA Santé",
+      "Gestion Hospitalière",
+      "Optimisation Flux Patients"
+    ],
+    "date": "2026-04-20T22:39:14.418813"
+  },
+  {
+    "slug": "healthcare-improve-investigatory-work",
+    "title": "Logiciel IA Healthcare - Révolutionner l'Investigation Médicale",
+    "excerpt": "Découvrez comment le logiciel IA Healthcare réduit de 40% le temps de diagnostic et transforme l'investigation médicale avec des résultats cliniques prouvés.",
+    "tags": [
+      "IA Médicale",
+      "Diagnostic Assisté",
+      "Imagerie Médicale",
+      "Healthcare Tech"
+    ],
+    "date": "2026-04-20T22:34:54.568945"
+  },
+  {
+    "slug": "hr-chatbot-for-employee-self-service-leave-payroll-policies",
+    "title": "Logiciel IA HR Chatbot : Révolutionnez votre Self-Service RH",
+    "excerpt": "Optimisez vos processus RH avec un chatbot IA pour le self-service employé (congés, paie, politiques). Réduisez les coûts et améliorez l'expérience collaborateur.",
+    "tags": [
+      "Human Resources",
+      "Collaborate more Effectively",
+      "HR Chatbot",
+      "Employee Self-Service",
+      "AI for HR"
+    ],
+    "date": "2026-04-20T22:33:01.025202"
+  },
+  {
+    "slug": "greenwashing-detection-in-corporate-sustainability-claims",
+    "title": "Logiciel IA Greenwashing Detection: Authenticité ESG & Finance Durable",
+    "excerpt": "Découvrez comment notre logiciel IA de détection du greenwashing analyse les déclarations durables des entreprises pour une finance ESG plus transparente et fiable.",
+    "tags": [
+      "Sustainability & ESG",
+      "ESG Reporting"
+    ],
+    "date": "2026-04-20T22:31:19.281544"
+  },
+  {
+    "slug": "geospatial-ai-analytics-for-location-based-business-optimization",
+    "title": "Logiciel IA Geospatial AI analytics : Optimisation d'implantation",
+    "excerpt": "Transformez vos décisions d'implantation avec notre logiciel d'intelligence géospatiale. Analyse prédictive et optimisation des emplacements commerciaux par IA.",
+    "date": "2026-04-20T22:27:02.646629"
+  },
+  {
+    "slug": "generative-design-of-mechanical-parts",
+    "title": "Logiciel IA Generative Design : La Révolution dans la Conception de Pièces Mécaniques",
+    "excerpt": "Découvrez comment les logiciels IA de generative design transforment la conception de pièces mécaniques : gain de temps, réduction des coûts et optimi...",
+    "date": "2026-04-20T09:00:13.774048"
+  },
+  {
+    "slug": "generation-of-computer-tomography-scans-from-magnetic-resonance-images",
+    "title": "Logiciel IA Generation of Computer Tomography Scans from Magnetic Resonance Images : Révolution en Oncologie",
+    "excerpt": "Découvrez comment les logiciels d'IA transforment la génération de scans CT à partir d'IRM pour optimiser la planification de radiothérapie et amélior...",
+    "date": "2026-04-20T08:58:11.636230"
+  },
+  {
+    "slug": "generation-of-clinical-pathways",
+    "title": "Comment l'IA révolutionne les parcours de soins hospitaliers : l'émergence des logiciels IA Generation of clinical pathways",
+    "excerpt": "Découvrez comment les logiciels IA Generation of clinical pathways optimisent les parcours de soins hospitaliers, réduisent les coûts et améliorent l'...",
+    "date": "2026-04-20T08:56:01.255667"
+  },
+  {
+    "slug": "genai-powered-marketing-content-generation-at-scale",
+    "title": "Logiciel IA GenAI-powered marketing content generation at scale : Révolutionner la Production de Contenu Marketing",
+    "excerpt": "Découvrez comment les solutions de génération de contenu marketing par IA générative transforment la productivité et les performances des équipes mark...",
+    "date": "2026-04-20T08:52:24.752686"
+  },
+  {
+    "slug": "gdpr-and-data-privacy-compliance-automation",
+    "title": "Logiciel IA GDPR and data privacy compliance automation : La révolution de la gouvernance des données",
+    "excerpt": "Découvrez comment les solutions d'IA optimisent votre conformité RGPD, réduisent les risques et automatisent la gouvernance des données personnelles p...",
+    "date": "2026-04-20T08:48:06.209614"
+  },
+  {
+    "slug": "from-weeks-down-to-hours-how-insurers-innovate-with-ai-to-shorten-claims-processing-time-and-improve-customer-experience",
+    "title": "De Semaines à Heures : Comment les Assureurs Innovent avec l'IA pour Réduire les Délais de Traitement des Sinistres et Améliorer l'Expérience Client",
+    "excerpt": "Découvrez comment le logiciel IA transforme le traitement des sinistres d'assurance de semaines en heures, améliorant l'expérience client et réduisant...",
+    "date": "2026-04-20T08:44:29.522047"
+  },
+  {
+    "slug": "forecasting-prices-of-commodities",
+    "title": "Logiciel IA Forecasting Prices of Commodities : Révolution dans la Précision des Prévisions",
+    "excerpt": "Découvrez comment un logiciel IA forecasting prices of commodities peut transformer vos prévisions et optimiser votre rentabilité dans un marché volat...",
+    "date": "2026-04-20T08:41:58.628650"
+  },
+  {
+    "slug": "food-supply-chain-traceability-and-contamination-risk-detection",
+    "title": "Comment l'IA révolutionne la traçabilité alimentaire et sauve des millions d'euros : Le cas FreshFlow Foods",
+    "excerpt": "Découvrez comment le logiciel IA de traçabilité alimentaire a permis à FreshFlow Foods d'économiser 12M€ en détectant les risques de contamination en ...",
+    "date": "2026-04-20T08:39:11.683867"
+  },
+  {
+    "slug": "flavorlens",
+    "title": "Comment le logiciel IA Flavorlens révolutionne l'expérience gastronomique et crée de nouvelles opportunités business",
+    "excerpt": "Découvrez comment le logiciel IA Flavorlens transforme les données sensorielles en intelligence business pour les restaurants et l'industrie alimentai...",
+    "date": "2026-04-20T08:37:18.849576"
+  },
+  {
+    "slug": "finance-advising-and-asset-management-with-ai",
+    "title": "L'IA révolutionne la gestion d'actifs : Comment le logiciel IA Finance transforme l'asset management",
+    "excerpt": "Découvrez comment le logiciel IA Finance transforme l'asset management grâce aux architectures algorithmiques hiérarchiques pour une performance finan...",
+    "date": "2026-04-20T08:33:38.256118"
+  },
+  {
+    "slug": "fashion-supply-chain-sustainability-and-ethical-sourcing-with-ai",
+    "title": "Logiciel IA Fashion supply chain sustainability and ethical sourcing with AI : Révolutionner la mode éthique",
+    "excerpt": "Découvrez comment les solutions IA transforment la traçabilité et la durabilité dans la supply chain mode. Cas d'usage, méthodologie et perspectives p...",
+    "date": "2026-04-20T08:29:26.005466"
+  },
+  {
+    "slug": "fan-engagement-personalization-and-loyalty-optimization-for-sports-clubs",
+    "title": "Comment l'IA Révolutionne l'Engagement des Supporters : Le Guide Ultime du Logiciel IA Fan Engagement Personalization and Loyalty Optimization for Sports Clubs",
+    "excerpt": "Découvrez comment le logiciel IA de personnalisation d'engagement et d'optimisation de la fidélité transforme la relation club-supporters et génère un...",
+    "date": "2026-04-20T08:25:29.670969"
+  },
+  {
+    "slug": "facilitating-language-learning-of-deaf-people",
+    "title": "Logiciel IA Facilitating language learning of deaf people : RAVE révolutionne l'éducation des enfants sourds",
+    "excerpt": "Découvrez comment le logiciel IA RAVE révolutionne l'apprentissage du langage pour les enfants sourds avec des technologies multimodales validées par ...",
+    "date": "2026-04-20T08:22:43.464932"
+  },
+  {
+    "slug": "explainable-artificial-intelligence-for-genomic-medicine",
+    "title": "Logiciel IA Explainable artificial intelligence for genomic medicine : révolution dans le diagnostic du cancer",
+    "excerpt": "Découvrez comment l'IA explicable en médecine génomique réduit le délai de diagnostic du cancer de 14 à 3 jours tout en fournissant des recommandation...",
+    "date": "2026-04-20T08:19:06.338023"
+  },
+  {
+    "slug": "expansion-of-ai-training-dataset-and-contents-using-artificial-intelligence-techniques",
+    "title": "Comment le Logiciel IA Expansion of AI training dataset and contents using artificial intelligence techniques révolutionne le développement des solutions intelligentes",
+    "excerpt": "Découvrez comment les techniques d'expansion automatisée de datasets d'entraînement IA multiplient l'efficacité de vos modèles tout en réduisant coûts...",
+    "date": "2026-04-20T08:15:18.461040"
+  },
+  {
+    "slug": "evidence-based-clinical-decision-support-with-validated-medical-algorithms",
+    "title": "Logiciel IA Evidence-based clinical decision support with validated medical algorithms",
+    "excerpt": "Découvrez comment les logiciels IA d'aide à la décision clinique basés sur des algorithmes médicaux validés transforment la pratique médicale et améli...",
+    "date": "2026-04-20T08:13:50.664798"
+  },
+  {
+    "slug": "entertainment-and-media-subtitle-creation",
+    "title": "Logiciel IA Entertainment and Media - Subtitle Creation : La révolution du sous-titrage audiovisuel",
+    "excerpt": "Découvrez comment les logiciels IA de création de sous-titres transforment la production audiovisuelle : gain de temps, réduction des coûts et expansi...",
+    "date": "2026-04-20T08:10:06.317162"
+  },
+  {
+    "slug": "entertainment-and-media-search-optimization",
+    "title": "Logiciel IA Entertainment and Media - Search Optimization : Solutions pour l'industrie du divertissement",
+    "excerpt": "Découvrez comment les solutions d'IA optimisent la recherche dans l'industrie des médias et du divertissement. Analyse comparative et méthodologie pou...",
+    "date": "2026-04-20T08:06:32.083138"
+  },
+  {
+    "slug": "entertainment-and-media-metadata-tagging",
+    "title": "Logiciel IA Entertainment and Media - Metadata Tagging : Révolution dans la gestion des archives médias",
+    "excerpt": "Découvrez comment le Logiciel IA Entertainment and Media - Metadata Tagging révolutionne la gestion des archives médias et transforme vos contenus en ...",
+    "date": "2026-04-20T08:02:08.901102"
+  },
+  {
+    "slug": "entertainment-and-media-content-personalization",
+    "title": "Logiciel IA Entertainment and Media - Content Personalization : l'avenir de l'expérience client avec 158% de conversions",
+    "excerpt": "Découvrez comment le logiciel IA de personnalisation du contenu transforme l'expérience client dans l'Entertainment & Media avec 158% de conversions e...",
+    "date": "2026-04-20T07:59:39.212421"
+  },
+  {
+    "slug": "enterprise-rag-system-for-internal-knowledge-base-q-a",
+    "title": "Logiciel IA Enterprise RAG system for internal knowledge base Q&A : Transformez l'Accès aux Connaissances dans le Secteur Financier",
+    "excerpt": "Découvrez comment un système RAG optimise l'accès aux connaissances dans la finance : économisez 3h/semaine/collaborateur et réduisez les risques de n...",
+    "date": "2026-04-20T07:56:52.215888"
+  },
+  {
+    "slug": "enhancing-traffic-management-efficiency-and-infraction-detection-accuracy-with-ai-technologies",
+    "title": "Logiciel IA : Enhancing traffic management efficiency and infraction detection accuracy with AI technologies",
+    "excerpt": "Découvrez comment les technologies IA optimisent la gestion du trafic et la détection d'infractions avec une précision inégalée. Solutions innovantes ...",
+    "date": "2026-04-20T07:52:57.415169"
+  },
+  {
+    "slug": "energy-demand-forecasting-for-smart-grid-optimization",
+    "title": "Logiciel IA Energy Demand Forecasting pour Smart Grid Optimization : Révolution dans la Prévision Énergétique",
+    "excerpt": "Découvrez comment l'IA révolutionne la prévision de demande énergétique pour optimiser les smart grids et réduire les coûts opérationnels jusqu'à 12%.",
+    "date": "2026-04-20T07:49:11.187712"
+  },
+  {
+    "slug": "empowering-autonomous-flow-meter-control-reducing-time-taken-for-proving-of-meters",
+    "title": "Logiciel IA Empowering Autonomous Flow Meter Control - Reducing Time Taken for Proving of Meters",
+    "excerpt": "Découvrez comment notre logiciel IA révolutionne le contrôle autonome des débitmètres industriels en réduisant jusqu'à 75% le temps d'étalonnage et d'...",
+    "date": "2026-04-20T07:47:31.870790"
+  },
+  {
+    "slug": "employee-turnover-prediction-and-retention-analytics",
+    "title": "Comment l'IA prédictive transforme la rétention des talents avec un logiciel IA Employee turnover prediction and retention analytics",
+    "excerpt": "Découvrez comment notre logiciel IA de prédiction du turnover et d'analyse de rétention transforme la gestion des talents avec une précision de 83% su...",
+    "date": "2026-04-20T07:45:19.420238"
+  },
+  {
+    "slug": "emotion-sensitive-ai-customer-service",
+    "title": "Logiciel IA Emotion-sensitive AI customer service : révolution du service client B2B",
+    "excerpt": "Découvrez comment le logiciel IA Emotion-sensitive AI customer service transforme le service client B2B avec notre analyse des technologies, cas d'usa...",
+    "date": "2026-04-20T07:41:31.187709"
+  },
+  {
+    "slug": "effective-collaboration",
+    "title": "Logiciel IA Effective Collaboration : Transformer les Organisations en Croissance",
+    "excerpt": "Découvrez comment un logiciel IA Effective Collaboration révolutionne la productivité d'entreprise, réduit les réunions et optimise les flux de travai...",
+    "date": "2026-04-20T07:38:41.373546"
+  },
+  {
+    "slug": "education-smart-learning-content",
+    "title": "Révolutionner la création de contenu pédagogique avec un Logiciel IA Education - Smart Learning Content",
+    "excerpt": "Découvrez comment un logiciel IA éducation transforme la création de contenu pédagogique. Économisez 85% de temps avec les solutions Smart Learning Co...",
+    "date": "2026-04-20T07:35:34.497469"
+  },
+  {
+    "slug": "education-personalized-learning",
+    "title": "Comment un Logiciel IA Education - Personalized Learning a permis à Duolingo d'augmenter sa rétention de 12% en 24h",
+    "excerpt": "Découvrez comment Duolingo a augmenté sa rétention de 12% grâce à un logiciel d'IA pour l'éducation personnalisée. Méthodologie et résultats concrets.",
+    "date": "2026-04-20T07:31:53.658035"
+  },
+  {
+    "slug": "education-automated-content-generators",
+    "title": "Logiciel IA Education - Automated Content Generators : une réalité opérationnelle pour les équipes L&D",
+    "excerpt": "Découvrez comment les logiciels IA Education transforment la création de contenu pédagogique. Résultats concrets, méthodologie SCALE et cas d'usage po...",
+    "date": "2026-04-20T07:30:27.533881"
+  },
+  {
+    "slug": "education-accessibility",
+    "title": "Logiciel IA Education - Accessibility : Transformer l'enseignement supérieur inclusif",
+    "excerpt": "Découvrez comment les logiciels IA transforment l'accessibilité dans l'éducation supérieure. Solutions innovantes pour un enseignement inclusif et ada...",
+    "date": "2026-04-20T07:27:35.367916"
+  },
+  {
+    "slug": "ecosystems-management-from-causal-relation-inference-from-observational-data",
+    "title": "Comment les logiciels IA d'Ecosystems Management révolutionnent la gestion environnementale grâce à l'inférence causale",
+    "excerpt": "Découvrez comment les logiciels IA d'Ecosystems management révolutionnent la gestion environnementale grâce à l'inférence de relations causales à part...",
+    "date": "2026-04-20T07:26:06.970082"
+  },
+  {
+    "slug": "early-student-dropout-prediction-and-proactive-intervention-system",
+    "title": "Comment le Logiciel IA Early Student Dropout Prediction and Proactive Intervention System révolutionne la rétention universitaire",
+    "excerpt": "Découvrez comment notre système d'IA de prédiction d'abandon précoce et d'intervention proactive transforme la rétention universitaire avec un ROI de ...",
+    "date": "2026-04-20T07:23:30.420559"
+  },
+  {
+    "slug": "ev-battery-health-monitoring-degradation-prediction-and-optimization",
+    "title": "Comment l'IA révolutionne la gestion des batteries de véhicules électriques : un cas d'économies de 8,5M€",
+    "excerpt": "Découvrez comment un logiciel IA de monitoring de santé des batteries EV a permis à un constructeur européen d'économiser 8,5M€ et d'optimiser sa flot...",
+    "date": "2026-04-20T07:20:30.582882"
+  },
+  {
+    "slug": "esg-risk-scoring-for-supplier-due-diligence",
+    "title": "Logiciel IA ESG risk scoring for supplier due diligence : transformer un risque en avantage compétitif",
+    "excerpt": "Découvrez comment notre logiciel IA ESG risk scoring for supplier due diligence détecte les risques cachés dans votre chaîne d'approvisionnement et sé...",
+    "date": "2026-04-20T07:18:48.352288"
+  },
+  {
+    "slug": "dynamic-pricing-and-risk-underwriting-with-telematics",
+    "title": "Logiciel IA Dynamic Pricing and Risk Underwriting with Telematics : Révolutionner l'Assurance Automobile",
+    "excerpt": "Optimisez votre tarification automobile grâce à l'IA et la télématique. Découvrez comment le dynamic pricing révolutionne l'assurance avec une précisi...",
+    "date": "2026-04-20T07:15:18.690353"
+  },
+  {
+    "slug": "dynamic-hotel-room-pricing-and-revenue-management-with-ai",
+    "title": "La révolution du Revenue Management hôtelier : Comment un Logiciel IA Dynamic Hotel Room Pricing a généré 1,68M€ de revenus supplémentaires",
+    "excerpt": "Découvrez comment un logiciel IA de dynamic hotel room pricing a généré 1,68M€ de revenus supplémentaires pour un hôtel grâce à l'intelligence artific...",
+    "date": "2026-04-20T07:11:57.390902"
+  },
+  {
+    "slug": "dynamic-energy-pricing-optimization-using-real-time-data",
+    "title": "Logiciel IA Dynamic energy pricing optimization using real-time data : révolution dans le secteur énergétique",
+    "excerpt": "Découvrez comment l'IA transforme la tarification énergétique grâce aux données en temps réel, améliorant la rentabilité et la stabilité des réseaux é...",
+    "date": "2026-04-20T07:10:11.412114"
+  },
+  {
+    "slug": "drug-repurposing-and-indication-expansion-with-knowledge-graphs",
+    "title": "Logiciel IA Drug Repurposing and Indication Expansion with Knowledge Graphs : Révolution Pharmaceutique",
+    "excerpt": "Découvrez comment les logiciels d'IA de drug repurposing avec graphes de connaissances révolutionnent le développement pharmaceutique, réduisant coûts...",
+    "date": "2026-04-20T07:07:35.736945"
+  },
+  {
+    "slug": "drinking-water-treatment-quality-monitoring-and-optimization",
+    "title": "Logiciel IA Drinking Water Treatment Quality Monitoring and Optimization : Révolutionner la Qualité tout en Réduisant les Coûts de 22%",
+    "excerpt": "Découvrez comment le logiciel IA de surveillance et d'optimisation du traitement d'eau potable améliore la qualité tout en réduisant les coûts opérati...",
+    "date": "2026-04-20T07:05:58.013932"
+  },
+  {
+    "slug": "discharge-summary-classifier",
+    "title": "Comment un Logiciel IA Discharge Summary Classifier révolutionne la gestion documentaire médicale",
+    "excerpt": "Découvrez comment un logiciel IA de classification automatique des comptes-rendus d'hospitalisation optimise le traitement documentaire médical avec 7...",
+    "date": "2026-04-20T07:04:12.442506"
+  },
+  {
+    "slug": "disaster-and-emergency-prediction-impact-model",
+    "title": "Comment le Logiciel IA Disaster and Emergency Prediction & Impact Model révolutionne la gestion des catastrophes naturelles",
+    "excerpt": "Découvrez comment le Logiciel IA Disaster and Emergency Prediction & Impact Model révolutionne la gestion des catastrophes avec des prévisions hyperlo...",
+    "date": "2026-04-20T06:57:43.954148"
+  },
+  {
+    "slug": "dialogue-based-social-care-services-for-people-with-mental-illness-dementia-and-the-elderly-living-alone",
+    "title": "Logiciel IA Dialogue-based social care services for people with mental illness, dementia and the elderly living alone : une révolution pour l'aide sociale",
+    "excerpt": "Découvrez comment un logiciel IA dialogue-based révolutionne l'accompagnement des personnes âgées, atteintes de démence ou de troubles mentaux vivant ...",
+    "date": "2026-04-20T06:54:32.530739"
+  },
+  {
+    "slug": "device-control-using-ai-consisting-of-cloud-computing-and-embedded-system",
+    "title": "Logiciel IA Device Control Using AI Consisting of Cloud Computing and Embedded System",
+    "excerpt": "Découvrez comment notre solution hybride de contrôle d'appareils par IA combine cloud computing et systèmes embarqués pour une performance optimale et...",
+    "date": "2026-04-20T06:52:04.969980"
+  },
+  {
+    "slug": "devops-ai-automated-code-review-testing-and-vulnerability-detection",
+    "title": "Logiciel IA DevOps AI — automated code review, testing and vulnerability detection",
+    "excerpt": "Découvrez comment les solutions de logiciel IA DevOps AI transforment la revue de code, les tests et la détection de vulnérabilités pour une sécurité ...",
+    "date": "2026-04-20T06:49:13.011016"
+  },
+  {
+    "slug": "detection-of-fraudulent-medical-claims",
+    "title": "Comment un Logiciel IA de Detection of Fraudulent Medical Claims a permis à un TPA d'économiser 15M$ par an",
+    "excerpt": "Découvrez comment un TPA a économisé 15M$ grâce à un logiciel IA de détection des fraudes médicales. Méthodologie et résultats concrets pour votre ent...",
+    "date": "2026-04-20T06:45:52.809923"
+  },
+  {
+    "slug": "detection-of-frauds-based-on-collusions",
+    "title": "Logiciel IA Detection of frauds based on collusions : La révolution dans la sécurité financière des entreprises",
+    "excerpt": "Découvrez comment notre logiciel IA détecte les fraudes basées sur les collusions, protégeant votre entreprise contre les réseaux frauduleux sophistiq...",
+    "date": "2026-04-20T06:44:08.425277"
+  },
+  {
+    "slug": "demand-forecasting-for-smarter-purchasing-decisions",
+    "title": "Logiciel IA Demand Forecasting for Smarter Purchasing Decisions : Guide Complet",
+    "excerpt": "Transformez vos décisions d'achat grâce au logiciel IA de demand forecasting. Réduisez vos coûts de 12%, améliorez votre précision prévisionnelle de 7...",
+    "date": "2026-04-20T06:42:36.378922"
+  },
+  {
+    "slug": "demand-forecasting-and-waste-reduction-for-perishable-goods",
+    "title": "Logiciel IA Demand Forecasting and Waste Reduction for Perishable Goods : Réduire 40% du Gaspillage Alimentaire",
+    "excerpt": "Découvrez comment les solutions IA de demand forecasting réduisent jusqu'à 40% le gaspillage des produits périssables dans la grande distribution - RO...",
+    "date": "2026-04-20T06:40:13.310040"
+  },
+  {
+    "slug": "defense-military-intelligence-surveillance",
+    "title": "Logiciel IA Defense & Military - Intelligence & Surveillance : La révolution de la sécurité nationale",
+    "excerpt": "Découvrez comment les logiciels IA transforment l'intelligence militaire et la surveillance pour une sécurité nationale renforcée. Solutions innovante...",
+    "date": "2026-04-20T06:38:24.452780"
+  },
+  {
+    "slug": "defense-military-autonomous-vehicle",
+    "title": "Logiciel IA Defense & Military - Autonomous Vehicle : transformation du champ de bataille moderne",
+    "excerpt": "Découvrez comment les logiciels IA transforment les véhicules autonomes dans le secteur militaire : sécurité accrue, efficacité opérationnelle et rédu...",
+    "date": "2026-04-20T06:36:54.298799"
+  },
+  {
+    "slug": "deep-reinforcement-learning-for-personalized-treatment-recommendation",
+    "title": "Logiciel IA Deep Reinforcement Learning for Personalized Treatment Recommendation : Une Révolution Médicale",
+    "excerpt": "Découvrez comment les logiciels d'IA utilisant le Deep Reinforcement Learning révolutionnent la personnalisation des traitements médicaux avec des rés...",
+    "date": "2026-04-20T06:33:14.183707"
+  },
+  {
+    "slug": "deep-learning-based-user-intent-recognition",
+    "title": "Logiciel IA Deep learning-based user intent recognition : Transformer votre service client B2B",
+    "excerpt": "Optimisez votre service client B2B avec notre logiciel IA de reconnaissance d'intention utilisateur basé sur le deep learning. Solutions sur mesure et...",
+    "date": "2026-04-20T06:29:20.277643"
+  },
+  {
+    "slug": "deep-learning-technology-combined-with-topological-data-analysis-successfully-estimates-degree-of-internal-damage-to-bridge-infrastructure",
+    "title": "Logiciel IA Deep Learning technology combined with topological data analysis successfully estimates degree of internal damage to bridge infrastructure",
+    "excerpt": "Découvrez comment le logiciel IA combinant Deep Learning et analyse topologique révolutionne la détection des dommages internes des infrastructures de...",
+    "date": "2026-04-20T06:27:13.911298"
+  },
+  {
+    "slug": "deal-scoring-and-opportunity-prioritization-with-machine-learning",
+    "title": "Logiciel IA Deal Scoring and Opportunity Prioritization with Machine Learning : Guide Complet",
+    "excerpt": "Découvrez comment les logiciels IA de deal scoring révolutionnent la priorisation des opportunités commerciales B2B grâce au machine learning. ROI pro...",
+    "date": "2026-04-20T06:23:44.497433"
+  },
+  {
+    "slug": "data-compression-with-ai-techniques",
+    "title": "Logiciel IA Data compression with AI techniques : révolution silencieuse pour la science",
+    "excerpt": "Optimisez vos simulations scientifiques avec notre logiciel IA de compression de données. Réduction des coûts de 40%, productivité accrue de 22%. Solu...",
+    "date": "2026-04-20T06:22:03.551460"
+  },
+  {
+    "slug": "customer-lifetime-value-prediction-and-segment-based-strategy",
+    "title": "Comment un logiciel IA de Customer Lifetime Value prediction peut transformer votre stratégie de croissance B2B",
+    "excerpt": "Découvrez comment un logiciel IA de Customer Lifetime Value prediction transforme votre croissance B2B avec une stratégie basée sur les segments clien...",
+    "date": "2026-04-20T06:20:37.686253"
+  },
+  {
+    "slug": "crop-diagnosis-product-recommendations-through-ai",
+    "title": "Logiciel IA Crop Diagnosis & Product Recommendations Through AI : Révolution de la Protection Végétale",
+    "excerpt": "Découvrez comment notre logiciel IA Crop Diagnosis & Product Recommendations Through AI transforme l'agriculture avec des diagnostics précis et des re...",
+    "date": "2026-04-20T06:17:29.797782"
+  },
+  {
+    "slug": "crisis-communication-early-warning-system-with-ai",
+    "title": "Logiciel IA Crisis Communication Early Warning System with AI : Le framework RADAR",
+    "excerpt": "Découvrez comment notre logiciel IA de détection précoce des crises réduit de 71% les dommages réputationnels avec le framework RADAR pour une communi...",
+    "date": "2026-04-20T06:14:03.815538"
+  },
+  {
+    "slug": "credit-scoring-using-kyc-data",
+    "title": "Logiciel IA Credit Scoring using KYC data : Démocratiser l'accès au crédit",
+    "excerpt": "Découvrez comment les logiciels IA de credit scoring exploitent les données KYC pour démocratiser l'accès au crédit et réduire l'exclusion financière ...",
+    "date": "2026-04-20T06:11:31.982718"
+  },
+  {
+    "slug": "credit-risk-scoring-and-customer-default-prediction",
+    "title": "Logiciel IA Credit Risk Scoring and Customer Default Prediction : Réduire les Défauts de Paiement de 23%",
+    "excerpt": "Découvrez comment notre logiciel IA credit risk scoring and customer default prediction permet aux institutions financières de réduire les défauts de ...",
+    "date": "2026-04-20T06:07:50.834856"
+  },
+  {
+    "slug": "cooking-recipes-without-border-crwb-recommendation-benchmark",
+    "title": "Transformer l'expérience culinaire avec le Logiciel IA Cooking Recipes Without Border (CRWB)",
+    "excerpt": "Découvrez comment le Logiciel IA Cooking Recipes Without Border optimise les recommandations culinaires grâce à l'intelligence artificielle et au benc...",
+    "date": "2026-04-20T06:03:37.814412"
+  },
+  {
+    "slug": "conversational-ai-agent-for-customer-support-automation",
+    "title": "Comment un Logiciel IA Conversational AI Agent Transforme le Support Client : Étude de Cas d'Automatisation à 4,2M€ d'Économies",
+    "excerpt": "Découvrez comment un Logiciel IA Conversational AI agent for customer support automation a permis à une entreprise d'économiser 4,2M€ en optimisant so...",
+    "date": "2026-04-20T06:00:27.406445"
+  },
+  {
+    "slug": "connected-car-data-analytics-and-mobility-as-a-service-monetization",
+    "title": "Logiciel IA Connected car data analytics and mobility-as-a-service monetization : Guide complet",
+    "excerpt": "Découvrez comment les logiciels IA de connected car data analytics transforment la mobilité-as-a-service en source de revenus et d'optimisation pour v...",
+    "date": "2026-04-20T05:56:10.935025"
+  },
+  {
+    "slug": "computer-aided-diagnosis-in-medical-imaging-based-on-machine-learning",
+    "title": "Logiciel IA Computer-aided diagnosis in medical imaging based on machine learning : révolution du diagnostic médical",
+    "excerpt": "Découvrez comment les logiciels d'IA de Computer-aided diagnosis révolutionnent l'imagerie médicale face à la pénurie de pathologistes. Solutions ML p...",
+    "date": "2026-04-20T05:52:45.262116"
+  },
+  {
+    "slug": "computer-vision-based-industrial-surface-and-quality-defect-inspection",
+    "title": "Logiciel IA Computer vision-based industrial surface and quality defect inspection : révolution du contrôle qualité",
+    "excerpt": "Découvrez comment l'IA et la vision par ordinateur révolutionnent l'inspection de surface et la détection de défauts dans l'industrie manufacturière.",
+    "date": "2026-04-20T05:51:01.785559"
+  },
+  {
+    "slug": "computer-vision-based-identity-verification-and-kyc-automation",
+    "title": "Logiciel IA Computer Vision pour Vérification d'Identité et KYC",
+    "excerpt": "Découvrez comment les logiciels IA de computer vision révolutionnent la vérification d'identité et l'automatisation KYC en 2024 : sécurité renforcée e...",
+    "date": "2026-04-20T05:47:12.880098"
+  },
+  {
+    "slug": "computer-vision-object-activity-recognition",
+    "title": "Logiciel IA Computer Vision - Object & Activity recognition : guide stratégique 2024",
+    "excerpt": "Découvrez comment les solutions de Computer Vision révolutionnent l'industrie avec la reconnaissance d'objets et d'activités pour optimiser vos proces...",
+    "date": "2026-04-20T05:45:41.887404"
+  },
+  {
+    "slug": "computer-vision-image-segmentation",
+    "title": "Logiciel IA Computer Vision - Image Segmentation : Comment Transformer Radicalement vos Processus d'Analyse Visuelle",
+    "excerpt": "Transformez vos processus d'analyse visuelle grâce à l'IA et l'image segmentation. Découvrez notre méthodologie S.E.G.M.E.N.T et des cas d'usage concr...",
+    "date": "2026-04-20T05:42:01.596900"
+  },
+  {
+    "slug": "computer-vision-image-video-generation",
+    "title": "Logiciel IA Computer Vision - Image & Video Generation : Révolution visuelle pour votre stratégie de contenu",
+    "excerpt": "Transformez votre stratégie de contenu visuel avec les solutions IA de Computer Vision pour la génération d'images et vidéos. Guide complet pour entre...",
+    "date": "2026-04-20T05:38:49.458111"
+  },
+  {
+    "slug": "computer-vision-gesture-recognition",
+    "title": "La révolution silencieuse du Logiciel IA Computer Vision - Gesture Recognition dans l'industrie moderne",
+    "excerpt": "Découvrez comment le Logiciel IA Computer Vision - Gesture Recognition révolutionne l'interaction homme-machine dans l'industrie avec une productivité...",
+    "date": "2026-04-20T05:35:46.069534"
+  },
+  {
+    "slug": "computer-vision-emotion-recognition",
+    "title": "Comment le Logiciel IA Computer Vision - Emotion Recognition transforme l'expérience client en 2024",
+    "excerpt": "Découvrez comment le Logiciel IA Computer Vision - Emotion Recognition transforme la relation client en 2024 avec une analyse précise des émotions pou...",
+    "date": "2026-04-20T05:32:19.100435"
+  },
+  {
+    "slug": "cloud-cost-optimization-and-finops-automation-with-ai",
+    "title": "Logiciel IA Cloud cost optimization and FinOps automation with AI : Guide complet 2024",
+    "excerpt": "Découvrez comment automatiser votre FinOps grâce à l'IA pour réduire vos coûts cloud jusqu'à 30%, améliorer la précision budgétaire et optimiser vos r...",
+    "date": "2026-04-20T05:29:09.990578"
+  },
+  {
+    "slug": "clinical-trial-patient-recruitment-and-site-selection-optimization",
+    "title": "Comment les logiciels d'IA révolutionnent le recrutement de patients pour les essais cliniques : un gain de temps et d'argent considérable",
+    "excerpt": "Découvrez comment les logiciels d'IA révolutionnent le recrutement de patients et la sélection de sites pour essais cliniques, réduisant délais et coû...",
+    "date": "2026-04-20T05:25:38.973260"
+  },
+  {
+    "slug": "citizen-services-chatbot-for-public-administration-and-e-government",
+    "title": "Logiciel IA Citizen Services Chatbot : Transformer l'Administration Publique à l'Ère du Digital",
+    "excerpt": "Découvrez comment le logiciel IA Citizen services chatbot transforme l'administration publique et l'e-government. Solutions, cas d'usage et méthodolog...",
+    "date": "2026-04-20T05:24:03.678306"
+  },
+  {
+    "slug": "chromosome-segmentation-and-deep-classification",
+    "title": "Logiciel IA Chromosome segmentation and deep classification : une révolution pour le diagnostic génétique",
+    "excerpt": "Découvrez comment les logiciels IA de chromosome segmentation and deep classification transforment l'analyse génétique avec une précision de 96% et 75...",
+    "date": "2026-04-20T05:20:24.198478"
+  },
+  {
+    "slug": "causality-based-thermal-prediction-for-data-centre",
+    "title": "Logiciel IA Causality-based thermal prediction for data centre : Révolutionner la gestion énergétique",
+    "excerpt": "Optimisez la gestion énergétique de votre data centre grâce à notre logiciel IA de prédiction thermique causale. Réduisez vos coûts et améliorez votre...",
+    "date": "2026-04-20T05:18:48.298898"
+  },
+  {
+    "slug": "cash-flow-forecasting-with-machine-learning",
+    "title": "Logiciel IA Cash Flow Forecasting with Machine Learning : Transformez votre prévision de trésorerie en avantage concurrentiel",
+    "excerpt": "Découvrez comment un logiciel IA de cash flow forecasting with machine learning transforme la prévision de trésorerie en avantage concurrentiel avec u...",
+    "date": "2026-04-20T05:14:59.338809"
+  },
+  {
+    "slug": "case-law-trend-detection-and-automated-legal-research",
+    "title": "Comment l'IA révolutionne la recherche juridique : décryptage du logiciel IA Case law trend detection",
+    "excerpt": "Découvrez comment le logiciel IA Case law trend detection transforme la recherche juridique automatisée et optimise l'analyse jurisprudentielle pour l...",
+    "date": "2026-04-20T05:12:15.946052"
+  },
+  {
+    "slug": "carrier-interference-detection-and-removal-for-satellite-communication",
+    "title": "Logiciel IA Carrier interference detection and removal for satellite communication : La révolution technologique",
+    "excerpt": "Découvrez comment notre solution IA de détection et d'élimination des interférences de porteuse révolutionne les communications satellitaires et optim...",
+    "date": "2026-04-20T05:09:09.704654"
+  },
+  {
+    "slug": "carbon-emissions-monitoring-and-reporting-automation",
+    "title": "Logiciel IA Carbon Emissions Monitoring and Reporting Automation : Transformer une contrainte en opportunité",
+    "excerpt": "Découvrez comment notre logiciel IA de monitoring et reporting des émissions carbone transforme une contrainte réglementaire en avantage compétitif po...",
+    "date": "2026-04-20T05:05:47.204609"
+  },
+  {
+    "slug": "campus-facilities-management-and-energy-optimization-with-ai",
+    "title": "Comment le Logiciel IA Campus Facilities Management and Energy Optimization with AI Révolutionne la Gestion Universitaire",
+    "excerpt": "Découvrez comment le logiciel IA de facilities management optimise la consommation énergétique des campus universitaires avec 28% d'économies et un RO...",
+    "date": "2026-04-20T05:02:10.118543"
+  },
+  {
+    "slug": "crm-data-enrichment-deduplication-and-hygiene-automation",
+    "title": "Comment un logiciel IA CRM data enrichment révolutionne la performance commerciale B2B",
+    "excerpt": "Découvrez comment l'IA transforme la qualité de vos données CRM avec des solutions d'enrichissement, déduplication et hygiène automatisée pour booster...",
+    "date": "2026-04-20T04:57:51.362253"
+  },
+  {
+    "slug": "biomedical-literature-mining-and-dynamic-scientific-knowledge-graph",
+    "title": "Comment le Logiciel IA Biomedical Literature Mining Révolutionne la R&D Pharmaceutique",
+    "excerpt": "Découvrez comment le logiciel IA de biomedical literature mining et knowledge graph dynamique transforme la R&D pharmaceutique en accélérant la découv...",
+    "date": "2026-04-20T04:55:14.872811"
+  },
+  {
+    "slug": "bias-detection-and-dei-monitoring-in-recruitment-processes",
+    "title": "Logiciel IA Bias Detection and DEI Monitoring in Recruitment Processes : Transformer l'Équité en Entreprise",
+    "excerpt": "Découvrez comment les logiciels IA de détection des biais transforment l'équité et la diversité dans les processus de recrutement. Solutions innovante...",
+    "date": "2026-04-20T04:52:59.267821"
+  },
+  {
+    "slug": "better-human-computer-interaction-with-advanced-language-models",
+    "title": "Logiciel IA Better human-computer interaction with advanced language models",
+    "excerpt": "Optimisez vos interfaces IA conversationnelles avec notre méthodologie INTERACT : implémentation réussie, cas d'usage concrets et ROI mesurable pour v...",
+    "date": "2026-04-20T04:49:21.321357"
+  },
+  {
+    "slug": "behavioural-and-sentiment-analytics",
+    "title": "Comment un Logiciel IA de Behavioural and Sentiment Analytics Transforme la Relation Client en 2024",
+    "excerpt": "Découvrez comment un logiciel IA d'analyse comportementale et émotionnelle transforme la relation client, booste vos conversions et réduit le churn de...",
+    "date": "2026-04-20T04:46:34.784029"
+  },
+  {
+    "slug": "behavioral-user-and-entity-analytics-ueba-for-insider-threat-detection",
+    "title": "Comment la détection avancée des menaces internes avec l'IA UEBA a sauvé 50M$ à un contractant de défense",
+    "excerpt": "Découvrez comment un logiciel IA Behavioral User and Entity Analytics (UEBA) a permis de détecter une menace interne critique et d'économiser 50M$ à u...",
+    "date": "2026-04-20T04:44:52.252644"
+  },
+  {
+    "slug": "bim-clash-detection-and-design-optimization-with-ai",
+    "title": "Logiciel IA BIM clash detection and design optimization with AI : Révolution dans la construction moderne",
+    "excerpt": "Découvrez comment les logiciels IA BIM révolutionnent la détection des clashs et l'optimisation des conceptions pour réduire les coûts et délais dans ...",
+    "date": "2026-04-20T04:42:56.653859"
+  },
+  {
+    "slug": "aviation-mro-predictive-analytics-and-parts-demand-forecasting",
+    "title": "Logiciel IA Aviation MRO : Révolution de l'Analyse Prédictive et Prévision de Demande de Pièces",
+    "excerpt": "Découvrez comment les logiciels IA pour l'aviation MRO révolutionnent la maintenance aéronautique avec l'analyse prédictive et la prévision de demande...",
+    "date": "2026-04-20T04:41:18.720403"
+  },
+  {
+    "slug": "autonomous-trains-unattended-train-operation-uto",
+    "title": "Logiciel IA Autonomous Trains (UTO) : La Révolution du Transport Ferroviaire Moderne",
+    "excerpt": "Découvrez comment les logiciels IA pour Autonomous Trains (UTO) transforment le transport ferroviaire : sécurité accrue, coûts réduits et efficacité o...",
+    "date": "2026-04-20T04:37:23.860936"
+  },
+  {
+    "slug": "autonomous-robotic-parking-and-valet-operations-management",
+    "title": "Révolution du stationnement : Comment le logiciel IA Autonomous robotic parking and valet operations management transforme la gestion des parkings",
+    "excerpt": "Découvrez comment le logiciel IA Autonomous robotic parking and valet operations management transforme la gestion des parkings avec +15% de capacité e...",
+    "date": "2026-04-20T04:34:22.500274"
+  },
+  {
+    "slug": "autonomous-network-scenarios",
+    "title": "Logiciel IA Autonomous Network Scenarios : Révolutionner la gestion des infrastructures télécoms",
+    "excerpt": "Découvrez comment les logiciels IA pour Autonomous Network Scenarios transforment la gestion des infrastructures télécoms avec 6 scénarios d'usage con...",
+    "date": "2026-04-20T04:30:55.019596"
+  },
+  {
+    "slug": "autonomous-network-and-automation-level-definition",
+    "title": "Logiciel IA Autonomous Network and Automation Level Definition : La Révolution des Réseaux Télécoms",
+    "excerpt": "Découvrez comment un logiciel IA Autonomous Network and Automation Level Definition transforme les opérations télécoms avec notre guide complet d'impl...",
+    "date": "2026-04-20T04:27:03.479238"
+  },
+  {
+    "slug": "autonomous-multi-step-ai-agent-execution-of-enterprise-workflows",
+    "title": "Logiciel IA Autonomous multi-step AI agent execution of enterprise workflows",
+    "excerpt": "Transformez vos processus métier avec notre logiciel IA Autonomous multi-step AI agent. Orchestration intelligente des workflows, réduction des coûts ...",
+    "date": "2026-04-20T04:23:45.088911"
+  },
+  {
+    "slug": "autonomous-mobile-robotics-for-warehouse-order-fulfillment",
+    "title": "Logiciel IA Autonomous Mobile Robotics for Warehouse Order Fulfillment : Révolution de la Préparation de Commandes",
+    "excerpt": "Découvrez comment le logiciel IA Autonomous mobile robotics transforme la préparation de commandes en entrepôt : +60% d'efficacité, -32% de coûts et 9...",
+    "date": "2026-04-20T04:20:38.185941"
+  },
+  {
+    "slug": "autonomous-drone-inspection-of-industrial-and-energy-infrastructure",
+    "title": "Logiciel IA Autonomous drone inspection of industrial and energy infrastructure : la révolution qui transforme la maintenance",
+    "excerpt": "Découvrez comment notre solution d'inspection par drones autonomes alimentée par l'IA transforme la maintenance prédictive des infrastructures industr...",
+    "date": "2026-04-20T04:17:05.755444"
+  },
+  {
+    "slug": "autonomous-apron-truck",
+    "title": "Logiciel IA Autonomous Apron Truck : La Révolution de la Logistique Aéroportuaire",
+    "excerpt": "Découvrez comment le logiciel IA Autonomous Apron Truck optimise la logistique aéroportuaire, réduit les coûts et améliore l'efficacité des opérations...",
+    "date": "2026-04-20T04:12:46.568774"
+  },
+  {
+    "slug": "autonomous-robot-improves-surgical-precision-using-ai",
+    "title": "Comment le logiciel IA Autonomous Robot Improves Surgical Precision Using AI",
+    "excerpt": "Découvrez comment le logiciel IA Autonomous Robot révolutionne la précision chirurgicale grâce à l'intelligence artificielle et transforme les interve...",
+    "date": "2026-04-20T04:09:50.559329"
+  },
+  {
+    "slug": "autonomous-ai-laboratory-for-accelerating-pharmaceutical-r-d-experiments",
+    "title": "Logiciel IA Autonomous AI Laboratory for Accelerating Pharmaceutical R&D Experiments : Réduction de 60% des Délais",
+    "excerpt": "Découvrez comment le Logiciel IA Autonomous AI Laboratory révolutionne la R&D pharmaceutique en réduisant les délais d'expérimentation de 60% et en op...",
+    "date": "2026-04-20T04:06:20.930889"
+  },
+  {
+    "slug": "automotive-supply-chain-resilience-and-disruption-prediction",
+    "title": "Logiciel IA Automotive Supply Chain Resilience and Disruption Prediction : L'Avenir de la Chaîne d'Approvisionnement Automobile",
+    "excerpt": "Découvrez comment notre solution d'IA prédit et prévient les ruptures d'approvisionnement dans l'industrie automobile, avec un ROI de 3,2-4,1x et 8-12...",
+    "date": "2026-04-20T04:03:44.502362"
+  },
+  {
+    "slug": "automatic-classification-tool-for-full-size-core",
+    "title": "Logiciel IA Automatic classification tool for full size core : Réduction de 78% du temps d'analyse pour les compagnies pétrolières",
+    "excerpt": "Découvrez comment notre logiciel IA Automatic classification tool for full size core réduit de 78% le temps d'analyse des carottes pour l'industrie pé...",
+    "date": "2026-04-20T04:00:55.321734"
+  },
+  {
+    "slug": "automated-travel-pattern-recognition-using-mobile-network-data-for-applications-to-mobility-as-a-service",
+    "title": "Logiciel IA Automated travel pattern recognition using mobile network data for applications to mobility as a service",
+    "excerpt": "Découvrez comment le logiciel IA de reconnaissance automatisée des schémas de déplacement transforme les données mobiles en solutions MaaS pour une mo...",
+    "date": "2026-04-20T03:57:37.423633"
+  },
+  {
+    "slug": "automated-threat-enrichment-intelligence-in-cyber-security",
+    "title": "Logiciel IA Automated Threat Enrichment Intelligence in Cyber Security : La révolution qui transforme la cyberdéfense des entreprises",
+    "excerpt": "Découvrez comment l'IA d'enrichissement automatisé des menaces révolutionne la cyberdéfense en réduisant le temps de réponse de 92% et en améliorant l...",
+    "date": "2026-04-20T03:54:47.167321"
+  },
+  {
+    "slug": "automated-project-status-reporting-and-stakeholder-updates",
+    "title": "Comment un Logiciel IA d'Automated Project Status Reporting a permis à TechFinance Corp d'économiser 1,5M$ annuellement",
+    "excerpt": "Découvrez comment TechFinance a économisé 1,5M$ grâce à un logiciel IA d'automated project status reporting. Cas d'usage, méthodologie et résultats co...",
+    "date": "2026-04-20T03:50:54.701774"
+  },
+  {
+    "slug": "automated-phishing-detection-using-nlp",
+    "title": "Logiciel IA Automated phishing detection using NLP : Protection des Organisations Militaires",
+    "excerpt": "Découvrez comment notre logiciel IA de détection automatisée de phishing utilisant le NLP protège les organisations militaires contre les cyberattaque...",
+    "date": "2026-04-20T03:49:20.126668"
+  },
+  {
+    "slug": "automated-defect-classification-on-product-surfaces",
+    "title": "Logiciel IA Automated defect classification on product surfaces : Révolution du contrôle qualité industriel",
+    "excerpt": "Découvrez comment notre logiciel IA de classification automatisée des défauts sur surfaces de produits révolutionne le contrôle qualité industriel ave...",
+    "date": "2026-04-20T03:46:16.995981"
+  },
+  {
+    "slug": "automated-customer-churn-prediction-for-insurance-providers",
+    "title": "Logiciel IA Automated Customer Churn Prediction for Insurance Providers : Révolutionner la Fidélisation Client",
+    "excerpt": "Découvrez comment notre logiciel IA de prédiction d'attrition client transforme la rétention dans le secteur de l'assurance avec des résultats concret...",
+    "date": "2026-04-20T03:42:43.663160"
+  },
+  {
+    "slug": "automated-corporate-communication-and-press-release-generation",
+    "title": "Logiciel IA Automated corporate communication and press release generation : La révolution de la communication d'entreprise",
+    "excerpt": "Découvrez comment notre logiciel IA révolutionne la génération automatique de communiqués de presse et optimise votre communication corporate. ROI pro...",
+    "date": "2026-04-20T03:40:14.934615"
+  },
+  {
+    "slug": "automated-contract-review-and-compliance-checking",
+    "title": "Logiciel IA Automated Contract Review and Compliance Checking : Transformer la performance juridique des entreprises",
+    "excerpt": "Découvrez comment l'IA de révision automatisée des contrats transforme la performance juridique des entreprises avec des résultats mesurables et un RO...",
+    "date": "2026-04-20T03:36:51.785450"
+  },
+  {
+    "slug": "automated-quality-assurance",
+    "title": "Logiciel IA Automated Quality Assurance : Comment l'Intelligence Artificielle Révolutionne les Tests Logiciels",
+    "excerpt": "Découvrez comment le logiciel IA Automated Quality Assurance transforme les tests logiciels avec une réduction de 75% du temps de cycle et un ROI de 2...",
+    "date": "2026-04-20T03:34:19.019387"
+  },
+  {
+    "slug": "automated-esg-reporting-and-csrd-compliance",
+    "title": "Logiciel IA Automated ESG reporting and CSRD compliance : Transformer une obligation en avantage stratégique",
+    "excerpt": "Découvrez comment notre logiciel IA d'automated ESG reporting transforme la conformité CSRD en avantage stratégique. Réduction de 80% du temps de repo...",
+    "date": "2026-04-20T03:30:38.497082"
+  },
+  {
+    "slug": "automated-esg-data-aggregation-and-csrd-compliance-reporting",
+    "title": "Comment l'IA révolutionne le reporting CSRD : Automatisation des données ESG pour une conformité sans effort",
+    "excerpt": "Découvrez comment notre logiciel IA d'automated ESG data aggregation and CSRD compliance reporting révolutionne la conformité réglementaire pour les e...",
+    "date": "2026-04-20T03:28:59.538306"
+  },
+  {
+    "slug": "audit-preparation-and-compliance-documentation-automation",
+    "title": "L'IA révolutionne la préparation des audits : Comment le logiciel IA d'audit preparation and compliance documentation automation réduit les coûts de 45%",
+    "excerpt": "Découvrez comment notre logiciel IA d'audit preparation and compliance documentation automation réduit les coûts de 45% et transforme votre approche r...",
+    "date": "2026-04-20T03:26:41.886121"
+  },
+  {
+    "slug": "audio-signal-processing-voice-to-text-conversion",
+    "title": "Révolution silencieuse : Comment le Logiciel IA Audio Signal Processing - Voice to text Conversion transforme la productivité des entreprises",
+    "excerpt": "Découvrez comment les solutions de conversion voix-texte par IA transforment la productivité des entreprises avec une précision inédite. Guide complet...",
+    "date": "2026-04-20T03:23:04.834386"
+  },
+  {
+    "slug": "audio-signal-processing-speech-diarization",
+    "title": "Comment le Logiciel IA Audio Signal Processing - Speech Diarization révolutionne l'exploitation des conversations d'entreprise",
+    "excerpt": "Découvrez comment le logiciel IA de diarisation vocale transforme les conversations d'entreprise en insights stratégiques avec un ROI prouvé de +200%.",
+    "date": "2026-04-20T03:21:25.977854"
+  },
+  {
+    "slug": "audio-signal-processing-speech-analysis",
+    "title": "Logiciel IA Audio Signal Processing - Speech Analysis : La révolution de l'analyse vocale en entreprise",
+    "excerpt": "Découvrez comment les solutions IA d'analyse vocale transforment les relations clients B2B avec notre guide complet sur le traitement du signal audio ...",
+    "date": "2026-04-20T03:18:52.362000"
+  },
+  {
+    "slug": "attracting-new-talent",
+    "title": "L'IA au service du recrutement : Comment un logiciel IA Attracting New Talent transforme l'acquisition de talents",
+    "excerpt": "Découvrez comment un logiciel IA Attracting New Talent transforme l'acquisition de talents avec 63% de temps gagné et 75% d'économies sur vos recrutem...",
+    "date": "2026-04-20T03:17:22.399797"
+  },
+  {
+    "slug": "athlete-performance-optimization-and-injury-risk-prediction",
+    "title": "Logiciel IA Athlete Performance Optimization and Injury Risk Prediction : Réduire de 60% les Blessures Sportives",
+    "excerpt": "Découvrez comment notre logiciel IA d'optimisation de performance et de prédiction des risques de blessures peut réduire de 60% les blessures des athl...",
+    "date": "2026-04-20T03:14:08.211254"
+  },
+  {
+    "slug": "applying-machine-learning-to-predict-patient-risk-for-in-hospital-new-infections",
+    "title": "Logiciel IA Applying machine learning to predict patient risk for in-hospital new infections : une révolution pour la sécurité des patients",
+    "excerpt": "Comment le logiciel IA appliquant le machine learning prédit les risques d'infections hospitalières et transforme la sécurité des patients avec 4,7x p...",
+    "date": "2026-04-20T03:11:41.368607"
+  },
+  {
+    "slug": "application-of-strong-artificial-intelligence",
+    "title": "Logiciel IA Application of Strong Artificial Intelligence: Comment les systèmes cognitifs augmentés transforment la prise de décision en entreprise",
+    "excerpt": "Comment les logiciels d'IA application of strong artificial intelligence transforment la prise de décision en entreprise. Solutions, méthodologies et ...",
+    "date": "2026-04-20T03:07:57.465537"
+  },
+  {
+    "slug": "anomaly-detection-in-sensor-data-using-deep-learning-techniques",
+    "title": "Logiciel IA Anomaly detection in sensor data using deep learning techniques : Révolutionner la maintenance prédictive",
+    "excerpt": "Découvrez comment les logiciels IA de détection d'anomalies dans les données capteurs révolutionnent la maintenance prédictive industrielle grâce au d...",
+    "date": "2026-04-20T03:04:04.453047"
+  },
+  {
+    "slug": "animal-disease-detection",
+    "title": "Comment un Logiciel IA Animal Disease Detection transforme l'élevage moderne : le cas IDA",
+    "excerpt": "Découvrez comment les logiciels IA de détection des maladies animales transforment l'élevage moderne avec une détection précoce jusqu'à 48h avant les ...",
+    "date": "2026-04-20T03:01:08.568853"
+  },
+  {
+    "slug": "analysing-and-predicting-acid-treatment-effectiveness-on-bottom-hole-zone",
+    "title": "Logiciel IA Analysing and Predicting Acid Treatment Effectiveness on Bottom Hole Zone",
+    "excerpt": "Découvrez comment notre logiciel d'IA prédit et améliore l'efficacité des traitements acides en zone de fond de puits, réduisant les coûts et maximisa...",
+    "date": "2026-04-20T02:58:29.703202"
+  },
+  {
+    "slug": "an-ai-powered-project-to-track-customers-movements-and-interactions-with-products-throughout-the-store",
+    "title": "Logiciel IA de tracking client en magasin : transformer vos mètres carrés en intelligence commerciale",
+    "excerpt": "Découvrez comment notre logiciel IA de tracking des mouvements clients transforme votre espace commercial en intelligence stratégique pour booster con...",
+    "date": "2026-04-20T02:54:06.236855"
+  },
+  {
+    "slug": "ambient-clinical-documentation-from-voice-interactions",
+    "title": "La révolution silencieuse des consultations médicales : comment le logiciel IA Ambient clinical documentation transforme la pratique clinique",
+    "excerpt": "Découvrez comment le logiciel IA Ambient clinical documentation from voice interactions transforme les consultations médicales en réduisant de 30% le ...",
+    "date": "2026-04-20T02:50:22.849672"
+  },
+  {
+    "slug": "airline-demand-forecasting-and-dynamic-seat-yield-management",
+    "title": "Logiciel IA Airline demand forecasting and dynamic seat yield management : révolution du secteur aérien",
+    "excerpt": "Optimisez vos revenus avec notre logiciel IA de airline demand forecasting and dynamic seat yield management. ROI de 340% en 1 an pour les compagnies ...",
+    "date": "2026-04-20T02:46:27.305784"
+  },
+  {
+    "slug": "agentless-cloud-security-posture-management-and-risk-remediation",
+    "title": "Logiciel IA Agentless Cloud Security Posture Management and Risk Remediation : Révolution de la Sécurité Multi-Cloud",
+    "excerpt": "Découvrez comment les logiciels IA d'Agentless cloud security transforment la gestion des risques et la remédiation en environnements multi-cloud pour...",
+    "date": "2026-04-20T02:44:34.113521"
+  },
+  {
+    "slug": "advertising-with-ai",
+    "title": "Logiciel IA Advertising with AI : Révolutionnez votre stratégie publicitaire",
+    "excerpt": "Découvrez comment notre logiciel IA Advertising with AI révolutionne la publicité digitale avec l'optimisation prédictive pour maximiser votre ROI mar...",
+    "date": "2026-04-20T02:40:20.256545"
+  },
+  {
+    "slug": "adaptable-factory",
+    "title": "Logiciel IA Adaptable Factory : Comment l'IA Révolutionne la Flexibilité Industrielle",
+    "excerpt": "Découvrez comment les logiciels IA pour Adaptable Factory transforment la production industrielle avec une flexibilité inédite et un ROI accéléré en s...",
+    "date": "2026-04-20T02:36:26.732456"
+  },
+  {
+    "slug": "active-antenna-array-satellite",
+    "title": "Logiciel IA Active Antenna Array Satellite : Révolution dans l'Optimisation des Réseaux Satellitaires",
+    "excerpt": "Découvrez comment les logiciels IA pour active antenna array satellite révolutionnent l'efficacité des réseaux satellitaires et maximisent la couvertu...",
+    "date": "2026-04-20T02:33:03.920242"
+  },
+  {
+    "slug": "accounts-payable-automation-with-intelligent-document-processing",
+    "title": "Logiciel IA Accounts payable automation with intelligent document processing : Optimiser vos finances",
+    "excerpt": "Découvrez comment notre logiciel IA d'automatisation des comptes fournisseurs avec traitement intelligent des documents optimise vos processus financi...",
+    "date": "2026-04-20T02:31:17.211985"
+  },
+  {
+    "slug": "accounting-and-finance-reduce-fraud",
+    "title": "Logiciel IA Accounting and Finance - Reduce Fraud : Une Révolution dans la Détection des Fraudes",
+    "excerpt": "Découvrez comment les logiciels IA d'Accounting and Finance révolutionnent la détection des fraudes et protègent vos actifs financiers avec un ROI rap...",
+    "date": "2026-04-20T02:28:40.052152"
+  },
+  {
+    "slug": "accounting-and-finance-predict-financials",
+    "title": "Logiciel IA Accounting and Finance - Predict Financials : Révolutionnez vos prévisions financières",
+    "excerpt": "Transformez vos prévisions financières avec un Logiciel IA Accounting and Finance - Predict Financials. Réduisez les erreurs de 50% et gagnez en effic...",
+    "date": "2026-04-20T02:25:57.515027"
+  },
+  {
+    "slug": "accounting-and-finance-improve-profitability-reports",
+    "title": "Logiciel IA Accounting and Finance - Improve Profitability Reports",
+    "excerpt": "Découvrez comment les logiciels IA transforment les rapports financiers pour une meilleure analyse de rentabilité, des décisions plus rapides et une a...",
+    "date": "2026-04-20T02:24:26.809455"
+  },
+  {
+    "slug": "accounting-and-finance-automate-invoices-and-expense-management",
+    "title": "Logiciel IA Accounting and Finance - Automate Invoices and Expense Management",
+    "excerpt": "Découvrez comment l'automatisation par IA des factures et notes de frais transforme la finance d'entreprise avec des gains de productivité de 65% et u...",
+    "date": "2026-04-20T02:21:14.246445"
+  },
+  {
+    "slug": "account-based-marketing-automation-with-ai-personalization",
+    "title": "Comment le Logiciel IA Account-based marketing automation with AI personalization Révolutionne le ROI à 340%",
+    "excerpt": "Découvrez comment les solutions d'IA pour l'Account-Based Marketing transforment la personnalisation B2B à grande échelle avec des résultats de ROI at...",
+    "date": "2026-04-20T02:17:03.767046"
+  },
+  {
+    "slug": "accelerated-acquisition-of-magnetic-resonance-images",
+    "title": "Logiciel IA Accelerated acquisition of magnetic resonance images : Révolution de l'efficacité hospitalière",
+    "excerpt": "Découvrez comment le logiciel IA d'acquisition accélérée d'images par résonance magnétique transforme l'efficacité hospitalière et optimise vos examen...",
+    "date": "2026-04-20T02:15:22.256850"
+  },
+  {
+    "slug": "aiops-proactive-infrastructure-anomaly-detection-and-self-healing",
+    "title": "Logiciel IA AIOps : Détection Proactive d'Anomalies et Auto-Réparation des Infrastructures",
+    "excerpt": "Découvrez comment un logiciel IA AIOps de détection proactive d'anomalies peut éliminer jusqu'à 92% des pannes informatiques avant qu'elles ne survien...",
+    "date": "2026-04-20T02:12:21.199068"
+  },
+  {
+    "slug": "ai-powered-zero-day-threat-detection-and-autonomous-cyber-defense",
+    "title": "Logiciel IA AI-powered zero-day threat detection and autonomous cyber defense : la révolution de la cybersécurité",
+    "excerpt": "Découvrez comment les technologies IA révolutionnent la détection des menaces zero-day et offrent une cyberdéfense autonome pour protéger votre entrep...",
+    "date": "2026-04-20T02:08:22.615913"
+  },
+  {
+    "slug": "ai-powered-voice-interface-personalization-for-customer-engagement",
+    "title": "Logiciel IA AI-powered voice interface personalization for customer engagement : le nouveau levier stratégique B2B",
+    "excerpt": "Découvrez comment les interfaces vocales IA personnalisées transforment l'engagement client B2B avec des résultats concrets : -28% de temps de résolut...",
+    "date": "2026-04-20T02:06:44.802609"
+  },
+  {
+    "slug": "ai-powered-visual-quality-inspection-on-production-lines",
+    "title": "Logiciel IA d'inspection visuelle qualité sur lignes de production : ROI prouvé en moins de 14 mois",
+    "excerpt": "Découvrez comment l'IA révolutionne l'inspection visuelle sur les lignes de production avec un ROI prouvé en moins de 14 mois. Solutions d'automatisat...",
+    "date": "2026-04-20T02:03:23.118210"
+  },
+  {
+    "slug": "ai-powered-visual-quality-control-in-food-production-lines",
+    "title": "Logiciel IA AI-powered visual quality control in food production lines : une révolution qualité",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered visual quality control révolutionne les lignes de production alimentaire avec une détection de défauts à 9...",
+    "date": "2026-04-20T02:01:44.407920"
+  },
+  {
+    "slug": "ai-powered-visual-damage-assessment-and-instant-insurance-claim-settlement",
+    "title": "Logiciel IA AI-powered visual damage assessment and instant insurance claim settlement : révolution de l'expertise sinistre",
+    "excerpt": "Découvrez comment l'IA transforme l'expertise des sinistres auto avec l'évaluation visuelle des dommages et le règlement instantané des réclamations d...",
+    "date": "2026-04-20T01:59:55.212645"
+  },
+  {
+    "slug": "ai-powered-tax-fraud-detection-and-revenue-recovery",
+    "title": "Comment l'IA révolutionne la détection des fraudes fiscales : le cas norvégien aux résultats spectaculaires",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered tax fraud detection and revenue recovery transforme la lutte contre la fraude fiscale avec un ROI exceptio...",
+    "date": "2026-04-20T01:57:54.519916"
+  },
+  {
+    "slug": "ai-powered-surgical-robotics-assistance-and-procedure-guidance",
+    "title": "Comment les logiciels IA AI-powered surgical robotics assistance and procedure guidance révolutionnent la précision opératoire et réduisent les coûts hospitaliers",
+    "excerpt": "Découvrez comment les logiciels IA-powered surgical robotics transforment les blocs opératoires en améliorant la précision chirurgicale et en réduisan...",
+    "date": "2026-04-20T01:56:22.287437"
+  },
+  {
+    "slug": "ai-powered-supply-chain-carbon-footprint-analysis-scope-3",
+    "title": "Logiciel IA AI-powered supply chain carbon footprint analysis (Scope 3) : Maîtriser votre empreinte carbone avec précision",
+    "excerpt": "Optimisez votre empreinte carbone Scope 3 avec notre solution IA d'analyse de la supply chain. Réduction des émissions, conformité réglementaire et RO...",
+    "date": "2026-04-20T01:52:36.145984"
+  },
+  {
+    "slug": "ai-powered-semantic-enterprise-search-and-knowledge-retrieval",
+    "title": "La recherche sémantique d'entreprise par IA : quand l'accès à l'information devient un avantage concurrentiel",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered semantic enterprise search transforme l'accès à l'information en avantage concurrentiel et réduit de 40% l...",
+    "date": "2026-04-20T01:48:58.462698"
+  },
+  {
+    "slug": "ai-powered-security-vulnerability-scanning-in-ci-cd-pipelines",
+    "title": "Logiciel IA AI-powered security vulnerability scanning in CI/CD pipelines : Sécurité DevOps Transformée",
+    "excerpt": "Découvrez comment l'IA révolutionne la détection des vulnérabilités de sécurité dans vos pipelines CI/CD - Méthodologie, étude de cas et implémentatio...",
+    "date": "2026-04-20T01:47:04.885787"
+  },
+  {
+    "slug": "ai-powered-sales-call-analysis-and-rep-coaching",
+    "title": "Comment un logiciel IA AI-powered sales call analysis and rep coaching a transformé les performances de vente chez TechVentures",
+    "excerpt": "Découvrez comment un logiciel IA d'analyse d'appels commerciaux a permis à TechVentures d'augmenter ses performances de vente de 18% en 6 mois avec un...",
+    "date": "2026-04-20T01:44:21.062371"
+  },
+  {
+    "slug": "ai-powered-retail-inventory-management-and-automated-replenishment",
+    "title": "Gestion des Stocks et Réapprovisionnement Automatisé : Comment l'IA Transforme la Performance Retail",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered retail inventory management transforme la gestion des stocks avec prévision de demande et réapprovisionnem...",
+    "date": "2026-04-20T01:40:43.930594"
+  },
+  {
+    "slug": "ai-powered-property-valuation-and-market-price-prediction",
+    "title": "Logiciel IA AI-powered property valuation and market price prediction : révolution de l'estimation immobilière",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered property valuation transforme l'estimation immobilière avec des prédictions de prix précises à 92% et d...",
+    "date": "2026-04-20T01:37:56.345254"
+  },
+  {
+    "slug": "ai-powered-project-delay-and-cost-overrun-prediction",
+    "title": "Logiciel IA AI-powered project delay and cost overrun prediction : Transformer l'Imprévisible en Avantage Concurrentiel dans le BTP",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered project delay and cost overrun prediction transforme la gestion des risques dans les projets de constru...",
+    "date": "2026-04-20T01:34:08.306183"
+  },
+  {
+    "slug": "ai-powered-personalized-travel-itinerary-recommendations",
+    "title": "Comment un Logiciel IA AI-powered personalized travel itinerary recommendations Transforme l'Industrie du Tourisme",
+    "excerpt": "Découvrez comment l'IA transforme la planification de voyages avec des itinéraires personnalisés. Méthodologie, cas d'usage et ROI pour les profession...",
+    "date": "2026-04-20T01:31:33.046351"
+  },
+  {
+    "slug": "ai-powered-people-flow-and-urban-mobility-analytics",
+    "title": "Logiciel IA AI-powered people flow and urban mobility analytics : Transformer la gestion des flux urbains",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered people flow and urban mobility analytics transforme la gestion des flux urbains avec une précision de 9...",
+    "date": "2026-04-20T01:28:09.665913"
+  },
+  {
+    "slug": "ai-powered-patent-landscape-analysis-and-ip-portfolio-optimization",
+    "title": "L'analyse de paysage brevets par IA : l'arme secrète pour optimiser votre portefeuille de propriété intellectuelle",
+    "excerpt": "Découvrez comment l'analyse de paysage brevets par IA révolutionne la gestion de propriété intellectuelle et transforme votre R&D en avantage concurre...",
+    "date": "2026-04-20T01:24:48.906909"
+  },
+  {
+    "slug": "ai-powered-network-anomaly-detection",
+    "title": "Logiciel IA AI-powered network anomaly detection : Réduire de 70% les Fausses Alertes",
+    "excerpt": "Découvrez comment notre logiciel IA de détection d'anomalies réseau identifie les menaces 20 fois plus vite et réduit de 70% les fausses alertes pour ...",
+    "date": "2026-04-20T01:20:56.572651"
+  },
+  {
+    "slug": "ai-powered-meeting-transcription-and-business-intelligence-extraction",
+    "title": "Logiciel IA pour transcription de réunions et intelligence d'affaires : Transformer vos Conversations Professionnelles en Avantage Stratégique",
+    "excerpt": "Transformez vos réunions stratégiques en intelligence actionnable grâce à notre logiciel IA de transcription automatique et d'extraction d'insights co...",
+    "date": "2026-04-20T01:17:45.804528"
+  },
+  {
+    "slug": "ai-powered-media-monitoring-and-real-time-brand-sentiment-analysis",
+    "title": "Comment le logiciel IA AI-powered media monitoring and real-time brand sentiment analysis révolutionne la protection de votre marque",
+    "excerpt": "Découvrez comment le logiciel IA de media monitoring et d'analyse de sentiment protège votre marque et réduit le temps de détection des crises de 8h à...",
+    "date": "2026-04-20T01:15:27.210690"
+  },
+  {
+    "slug": "ai-powered-legal-invoice-analysis-and-external-counsel-spend-governance",
+    "title": "Comment l'IA révolutionne l'analyse des factures juridiques et la gouvernance des dépenses externes",
+    "excerpt": "Découvrez comment le logiciel IA d'analyse des factures juridiques permet aux départements juridiques de réduire jusqu'à 35% leurs dépenses externes t...",
+    "date": "2026-04-20T01:11:59.387917"
+  },
+  {
+    "slug": "ai-powered-freight-rate-optimization-and-carrier-matching",
+    "title": "Logiciel IA AI-powered freight rate optimization and carrier matching : Transformez votre logistique",
+    "excerpt": "Découvrez comment notre solution IA-powered d'optimisation des tarifs de fret et de matching transporteurs peut réduire vos coûts logistiques de 15-25...",
+    "date": "2026-04-20T01:08:58.676838"
+  },
+  {
+    "slug": "ai-powered-fashion-trend-forecasting-and-collection-planning",
+    "title": "Logiciel IA AI-powered fashion trend forecasting : révolutionner la planification des collections mode de luxe",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered fashion trend forecasting révolutionne la planification des collections mode de luxe avec une précision in...",
+    "date": "2026-04-20T01:05:29.552764"
+  },
+  {
+    "slug": "ai-powered-factory-oee-optimization-and-production-analytics",
+    "title": "Logiciel IA AI-powered factory OEE optimization and production analytics : Transformer la performance industrielle",
+    "excerpt": "Découvrez comment un logiciel IA AI-powered d'optimisation OEE et d'analytique de production peut augmenter votre efficacité industrielle de 15-25% et...",
+    "date": "2026-04-20T01:03:55.067735"
+  },
+  {
+    "slug": "ai-powered-enterprise-data-catalog-and-automated-lineage-discovery",
+    "title": "Gouvernance des données augmentée par l'IA : Comment les catalogues intelligents transforment la prise de décision",
+    "excerpt": "Découvrez comment les catalogues de données IA transforment la gouvernance des données avec une découverte automatisée du lineage pour une prise de dé...",
+    "date": "2026-04-20T01:00:08.480028"
+  },
+  {
+    "slug": "ai-powered-drug-discovery-and-molecular-property-prediction",
+    "title": "Logiciel IA AI-powered drug discovery and molecular property prediction : révolutionner la recherche pharmaceutique",
+    "excerpt": "Découvrez comment les logiciels IA de drug discovery transforment la prédiction des propriétés moléculaires et accélèrent le développement de médicame...",
+    "date": "2026-04-20T00:56:53.337936"
+  },
+  {
+    "slug": "ai-powered-dealership-sales-optimization-and-customer-targeting",
+    "title": "Comment un Logiciel IA AI-powered dealership sales optimization and customer targeting Transforme les Concessions Automobiles",
+    "excerpt": "Découvrez comment le logiciel IA AI-powered dealership sales optimization and customer targeting transforme les performances commerciales des concessi...",
+    "date": "2026-04-20T00:53:53.823088"
+  },
+  {
+    "slug": "ai-powered-construction-site-safety-monitoring-with-computer-vision",
+    "title": "Logiciel IA AI-powered construction site safety monitoring with computer vision : Révolutionner la prévention des accidents",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered de surveillance sécurité chantiers par vision ordinateur réduit de 32% les accidents et génère un ROI e...",
+    "date": "2026-04-20T00:50:43.782525"
+  },
+  {
+    "slug": "ai-powered-competitive-intelligence-and-battlecard-automation",
+    "title": "Logiciel IA AI-powered competitive intelligence and battlecard automation : Transformez votre stratégie commerciale B2B",
+    "excerpt": "Découvrez comment un logiciel IA d'intelligence compétitive automatisée et de battlecards peut révolutionner votre approche commerciale B2B et augment...",
+    "date": "2026-04-20T00:47:01.183186"
+  },
+  {
+    "slug": "ai-powered-claims-processing-and-fraud-detection",
+    "title": "Comment les logiciels IA AI-powered claims processing and fraud detection transforment le secteur de l'assurance",
+    "excerpt": "Découvrez comment les solutions IA-powered claims processing and fraud detection transforment l'assurance : traitement accéléré, détection fraude opti...",
+    "date": "2026-04-20T00:44:23.732594"
+  },
+  {
+    "slug": "ai-powered-body-measurement-and-size-prediction-for-e-commerce",
+    "title": "Comment le logiciel IA AI-powered body measurement and size prediction for e-commerce révolutionne la mode en ligne",
+    "excerpt": "Découvrez comment le logiciel IA de mesure corporelle et prédiction de taille révolutionne l'e-commerce en réduisant les retours produits de 30% et en...",
+    "date": "2026-04-20T00:42:33.451014"
+  },
+  {
+    "slug": "ai-powered-behavioral-mental-health-digital-therapeutics",
+    "title": "Comment les logiciels IA de thérapie digitale transforment la santé mentale en entreprise",
+    "excerpt": "Découvrez comment les logiciels IA de thérapie digitale transforment la santé mentale en entreprise avec un ROI mesurable et des résultats concrets.",
+    "date": "2026-04-20T00:40:33.948275"
+  },
+  {
+    "slug": "ai-powered-adaptive-assessment-and-automated-grading",
+    "title": "Logiciel IA AI-powered adaptive assessment and automated grading : Transformer l'Enseignement Supérieur",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered adaptive assessment transforme l'évaluation académique : gain de temps, feedback instantané et améliora...",
+    "date": "2026-04-20T00:36:48.576558"
+  },
+  {
+    "slug": "ai-powered-it-helpdesk-automation-with-intelligent-triage",
+    "title": "Logiciel IA AI-powered IT helpdesk automation with intelligent triage : révolutionner le support informatique",
+    "excerpt": "Découvrez comment notre logiciel IA AI-powered IT helpdesk automation with intelligent triage révolutionne le support informatique avec un ROI de 328%...",
+    "date": "2026-04-20T00:33:26.822811"
+  },
+  {
+    "slug": "ai-powered-fp-a-and-scenario-planning",
+    "title": "Logiciel IA AI-powered FP&A and scenario planning : Révolution de la Planification Financière en 2024",
+    "excerpt": "Découvrez comment les solutions d'IA transforment la planification financière et l'analyse de scénarios en 2024. Guide complet pour moderniser votre p...",
+    "date": "2026-04-20T00:29:59.951681"
+  },
+  {
+    "slug": "ai-powered-cv-screening-and-candidate-ranking",
+    "title": "Logiciel IA AI-powered CV screening and candidate ranking : Révolution du recrutement",
+    "excerpt": "Découvrez comment l'IA révolutionne le recrutement avec des solutions de CV screening et classement de candidats automatisés. Réduisez vos délais et c...",
+    "date": "2026-04-20T00:26:28.300702"
+  },
+  {
+    "slug": "ai-powered-b2b-ecosystem-partner-and-opportunity-matching",
+    "title": "L'IA au service des écosystèmes B2B : Transformer les partenariats d'affaires grâce au matching intelligent",
+    "excerpt": "Découvrez comment un logiciel IA AI-powered transforme le matching d'opportunités et de partenaires dans les écosystèmes B2B. Solutions innovantes pou...",
+    "date": "2026-04-20T00:24:18.964158"
+  },
+  {
+    "slug": "ai-powered-3d-indoor-mapping-and-digital-twin-creation",
+    "title": "Logiciel IA AI-powered 3D indoor mapping and digital twin creation : Le jumeau numérique vivant",
+    "excerpt": "Découvrez comment notre solution AI-powered de cartographie 3D intérieure transforme la gestion immobilière avec des jumeaux numériques intelligents e...",
+    "date": "2026-04-20T00:21:08.270662"
+  },
+  {
+    "slug": "ai-optimized-waste-collection-routing-and-circular-economy-tracking",
+    "title": "L'optimisation intelligente de la collecte des déchets : Comment l'IA révolutionne l'économie circulaire",
+    "excerpt": "Découvrez comment notre logiciel IA AI-optimized waste collection routing and circular economy tracking transforme la gestion des déchets en opportuni...",
+    "date": "2026-04-20T00:17:31.963362"
+  },
+  {
+    "slug": "ai-generated-product-photography-for-e-commerce-catalog-automation",
+    "title": "Logiciel IA AI-generated product photography for e-commerce catalog automation : révolutionnez votre catalogue produit",
+    "excerpt": "Découvrez comment notre logiciel IA de photographie produit automatise la création d'images pour votre catalogue e-commerce, réduisant coûts et délais...",
+    "date": "2026-04-20T00:13:35.875050"
+  },
+  {
+    "slug": "ai-driven-vulnerability-scanning-and-patch-prioritization",
+    "title": "Logiciel IA d'analyse intelligente des vulnérabilités et priorisation des correctifs : Révolution cybersécurité",
+    "excerpt": "Découvrez comment l'IA révolutionne la cybersécurité avec l'analyse intelligente des vulnérabilités et la priorisation des correctifs pour une protect...",
+    "date": "2026-04-20T00:10:25.090145"
+  },
+  {
+    "slug": "ai-driven-supplier-risk-assessment-and-monitoring",
+    "title": "Logiciel IA AI-driven supplier risk assessment and monitoring : transformez votre gestion des risques fournisseurs",
+    "excerpt": "Découvrez comment les solutions IA-driven de surveillance des risques fournisseurs protègent votre chaîne d'approvisionnement et réduisent les coûts d...",
+    "date": "2026-04-20T00:06:48.475066"
+  },
+  {
+    "slug": "ai-driven-supplier-discovery-and-technology-innovation-scouting",
+    "title": "Logiciel IA AI-driven supplier discovery et technology innovation scouting : un impératif stratégique",
+    "excerpt": "Optimisez votre stratégie achats et R&D grâce à notre logiciel IA AI-driven supplier discovery et technology innovation scouting. Réduisez vos cycles ...",
+    "date": "2026-04-20T00:03:41.863023"
+  },
+  {
+    "slug": "ai-driven-smart-energy-grid-optimization-and-demand-response",
+    "title": "Logiciel IA d'optimisation des réseaux énergétiques intelligents et gestion de la demande",
+    "excerpt": "Découvrez comment notre logiciel IA d'optimisation des réseaux énergétiques intelligents révolutionne la gestion de l'énergie avec un ROI rapide et de...",
+    "date": "2026-04-19T23:59:58.893197"
+  },
+  {
+    "slug": "ai-driven-sales-conversation-intelligence-and-rep-coaching",
+    "title": "Logiciel IA AI-driven sales conversation intelligence and rep coaching : Transformation des performances commerciales",
+    "excerpt": "Découvrez comment le logiciel IA AI-driven sales conversation intelligence transforme la performance des équipes commerciales B2B avec un coaching per...",
+    "date": "2026-04-19T23:56:05.607937"
+  },
+  {
+    "slug": "ai-driven-road-and-infrastructure-condition-monitoring",
+    "title": "Logiciel IA AI-driven road and infrastructure condition monitoring : révolutionner la maintenance routière",
+    "excerpt": "Découvrez comment notre logiciel IA de monitoring des routes et infrastructures permet d'anticiper les défaillances, réduire les coûts et optimiser la...",
+    "date": "2026-04-19T23:52:56.795695"
+  },
+  {
+    "slug": "ai-driven-recipe-formulation-and-product-innovation",
+    "title": "Logiciel IA AI-driven recipe formulation and product innovation : Révolution dans la R&D Alimentaire",
+    "excerpt": "Découvrez comment l'IA transforme la formulation de recettes et l'innovation produit dans l'agroalimentaire - cycles plus courts, meilleurs taux de su...",
+    "date": "2026-04-19T23:50:30.136761"
+  },
+  {
+    "slug": "ai-driven-quantitative-trading-strategy-development-for-institutional-investors",
+    "title": "Logiciel IA AI-driven quantitative trading strategy development for institutional investors",
+    "excerpt": "Découvrez comment les logiciels IA révolutionnent le développement de stratégies de trading quantitatif pour les investisseurs institutionnels. Perfor...",
+    "date": "2026-04-19T23:46:59.645900"
+  },
+  {
+    "slug": "ai-driven-quantitative-model-risk-governance-for-financial-institutions",
+    "title": "Logiciel IA AI-driven quantitative model risk governance for financial institutions : révolution de la maîtrise des risques",
+    "excerpt": "Découvrez comment le logiciel IA AI-driven quantitative model risk governance transforme la gestion des risques dans les institutions financières avec...",
+    "date": "2026-04-19T23:44:29.743199"
+  },
+  {
+    "slug": "ai-driven-protein-structure-prediction-and-drug-target-discovery",
+    "title": "Logiciel IA AI-driven protein structure prediction and drug target discovery : révolution pharmaceutique",
+    "excerpt": "Découvrez comment les logiciels IA de prédiction de structure protéique révolutionnent la R&D pharmaceutique, accélérant la découverte de médicaments ...",
+    "date": "2026-04-19T23:41:03.348625"
+  },
+  {
+    "slug": "ai-driven-materials-discovery-for-industrial-decarbonization",
+    "title": "Logiciel IA AI-driven materials discovery for industrial decarbonization : la révolution verte de l'industrie",
+    "excerpt": "Comment les logiciels IA de découverte de matériaux accélèrent la décarbonation industrielle : réduction des délais de R&D de 60% et optimisation des ...",
+    "date": "2026-04-19T23:39:32.242187"
+  },
+  {
+    "slug": "ai-driven-genomic-variant-interpretation-for-precision-oncology",
+    "title": "Logiciel IA AI-driven genomic variant interpretation for precision oncology : révolution médicale",
+    "excerpt": "Découvrez comment les logiciels IA d'interprétation de variants génomiques révolutionnent l'oncologie de précision avec une analyse plus rapide et pré...",
+    "date": "2026-04-19T23:36:21.645570"
+  },
+  {
+    "slug": "ai-driven-food-waste-reduction-and-sustainability-compliance",
+    "title": "La révolution nécessaire : Logiciel IA AI-driven food waste reduction and sustainability compliance dans la distribution",
+    "excerpt": "Découvrez comment notre solution IA de réduction du gaspillage alimentaire optimise votre chaîne de distribution et assure votre conformité réglementa...",
+    "date": "2026-04-19T23:33:48.824520"
+  },
+  {
+    "slug": "ai-driven-fleet-management-routing-and-predictive-maintenance",
+    "title": "Logiciel IA AI-driven fleet management, routing and predictive maintenance : la révolution silencieuse",
+    "excerpt": "Découvrez comment l'IA révolutionne la gestion de flotte avec des solutions de routing intelligent et maintenance prédictive pour réduire vos coûts op...",
+    "date": "2026-04-19T23:29:51.256579"
+  },
+  {
+    "slug": "ai-driven-financial-close-automation",
+    "title": "Logiciel IA AI-driven financial close automation : Révolutionner la clôture comptable",
+    "excerpt": "Découvrez comment notre logiciel IA d'automatisation de la clôture financière révolutionne le processus comptable, réduit les délais de 70% et optimis...",
+    "date": "2026-04-19T23:28:15.462948"
+  },
+  {
+    "slug": "ai-driven-employee-sentiment-analysis-from-surveys-and-communications",
+    "title": "Logiciel IA d'analyse des sentiments employés : transformez votre rétention de talents et économisez des millions",
+    "excerpt": "Découvrez comment l'analyse IA des sentiments employés via enquêtes et communications permet d'anticiper les départs et économiser des millions en coû...",
+    "date": "2026-04-19T23:24:55.945561"
+  },
+  {
+    "slug": "ai-driven-dynamic-pricing-optimization",
+    "title": "Comment le Logiciel IA AI-driven Dynamic Pricing Optimization Transforme les Stratégies Tarifaires B2B",
+    "excerpt": "Découvrez comment le logiciel IA AI-driven dynamic pricing optimization transforme les stratégies tarifaires B2B et augmente vos marges jusqu'à 11,5% ...",
+    "date": "2026-04-19T23:23:22.623367"
+  },
+  {
+    "slug": "ai-driven-customer-feedback-synthesis-for-continuous-product-roadmap-optimization",
+    "title": "Comment l'IA révolutionne l'analyse du feedback client pour optimiser votre roadmap produit en continu",
+    "excerpt": "Découvrez comment l'IA transforme l'analyse du feedback client pour une optimisation continue de votre roadmap produit B2B et une meilleure allocation...",
+    "date": "2026-04-19T23:21:51.412892"
+  },
+  {
+    "slug": "ai-driven-customer-churn-prediction-for-telecom-operators",
+    "title": "Logiciel IA AI-driven customer churn prediction for telecom operators : la révolution de la rétention client",
+    "excerpt": "Découvrez comment l'IA prédictive réduit jusqu'à 20% le taux d'attrition client des opérateurs télécom et génère un ROI de 320% sur les campagnes de r...",
+    "date": "2026-04-19T23:20:23.630933"
+  },
+  {
+    "slug": "ai-driven-conversational-patient-triage-and-remote-clinical-follow-up",
+    "title": "Révolution des soins de santé : Comment le logiciel IA AI-driven conversational patient triage and remote clinical follow-up transforme la médecine moderne",
+    "excerpt": "Découvrez comment l'IA conversationnelle révolutionne le triage patient et le suivi clinique à distance pour optimiser les ressources médicales et amé...",
+    "date": "2026-04-19T23:16:56.328579"
+  },
+  {
+    "slug": "ai-dispatcher-operator-of-large-scale-distributed-energy-system-infrastructure",
+    "title": "Logiciel IA AI-dispatcher : Révolution de la Gestion des Infrastructures Énergétiques Distribuées à Grande Échelle",
+    "excerpt": "Découvrez comment le logiciel IA AI-dispatcher révolutionne la gestion des infrastructures énergétiques distribuées à grande échelle avec une optimisa...",
+    "date": "2026-04-19T23:13:14.199733"
+  },
+  {
+    "slug": "ai-based-mapping-of-optical-to-multi-electrode-catheter-recordings-for-atrial-fibrillation-treatment",
+    "title": "Logiciel IA AI-based mapping of optical to multi-electrode catheter recordings for atrial fibrillation treatment",
+    "excerpt": "Découvrez comment notre logiciel IA de mapping optique vers cathéter multi-électrodes révolutionne le traitement de la fibrillation atriale avec 97,3%...",
+    "date": "2026-04-19T23:09:58.989020"
+  },
+  {
+    "slug": "ai-based-leak-detection-in-gas-and-water-distribution-networks",
+    "title": "Logiciel IA AI-based leak detection in gas and water distribution networks : La révolution de la détection des fuites",
+    "excerpt": "Découvrez comment notre solution IA révolutionne la détection des fuites dans les réseaux de distribution d'eau et de gaz, avec un ROI rapide et une p...",
+    "date": "2026-04-19T23:07:19.943997"
+  },
+  {
+    "slug": "ai-based-design-of-pharmacologically-relevant-targets-with-target-properties",
+    "title": "Logiciel IA AI-based design of pharmacologically relevant targets with target properties",
+    "excerpt": "Découvrez comment les logiciels IA AI-based design révolutionnent la conception de cibles pharmacologiques avec des propriétés spécifiques pour l'indu...",
+    "date": "2026-04-19T23:03:52.591470"
+  },
+  {
+    "slug": "ai-based-solid-waste-classification",
+    "title": "Logiciel IA AI-Based Solid Waste Classification : Révolution pour la Gestion des Déchets Industriels",
+    "excerpt": "Optimisez votre gestion des déchets industriels avec notre logiciel IA de classification des déchets solides. Réduisez vos coûts de 42% et augmentez v...",
+    "date": "2026-04-19T23:02:23.510098"
+  },
+  {
+    "slug": "ai-virtual-assistant-for-customer-support-and-service",
+    "title": "Comment le Logiciel IA AI virtual assistant for customer support and service d'AlfaBank a transformé le service client bancaire en Russie",
+    "excerpt": "Découvrez comment l'assistant virtuel IA d'AlfaBank a transformé le support client bancaire avec 79% de résolution au premier contact et un ROI de 215...",
+    "date": "2026-04-19T22:59:08.165182"
+  },
+  {
+    "slug": "ai-to-understand-adulteration-in-commonly-used-food-items",
+    "title": "Logiciel IA AI to understand adulteration in commonly used food items : Une révolution pour la sécurité alimentaire",
+    "excerpt": "Découvrez comment les logiciels d'intelligence artificielle révolutionnent la détection d'adultération alimentaire avec une précision de 90% et protèg...",
+    "date": "2026-04-19T22:55:28.094087"
+  },
+  {
+    "slug": "ai-solution-to-quickly-identify-defects-during-quality-assurance-process-on-wind-turbine-blades",
+    "title": "Logiciel IA : solution rapide d'identification des défauts lors du processus d'assurance qualité des pales d'éoliennes",
+    "excerpt": "Découvrez comment notre solution IA identifie rapidement les défauts lors du processus d'assurance qualité des pales d'éoliennes, réduisant l'inspecti...",
+    "date": "2026-04-19T22:52:57.334162"
+  },
+  {
+    "slug": "ai-solution-to-predict-post-operative-visual-acuity-for-lasik-surgeries",
+    "title": "Logiciel IA AI solution to predict post-operative visual acuity for LASIK surgeries",
+    "excerpt": "Découvrez notre solution IA pour prédire avec précision l'acuité visuelle post-opératoire des chirurgies LASIK, optimisant décisions chirurgicales et ...",
+    "date": "2026-04-19T22:49:54.025362"
+  },
+  {
+    "slug": "ai-solution-to-intelligent-campus",
+    "title": "Logiciel IA AI solution to intelligent campus : L'excellence académique redéfinie en 2023",
+    "excerpt": "Découvrez comment notre logiciel IA transforme les campus en environnements intelligents : optimisation administrative, personnalisation pédagogique e...",
+    "date": "2026-04-19T22:46:41.624482"
+  },
+  {
+    "slug": "ai-solution-to-help-mobile-phones-to-have-better-picture-effect",
+    "title": "Logiciel IA : solution révolutionnaire pour améliorer l'effet photo sur smartphone",
+    "excerpt": "Découvrez comment les solutions IA transforment la qualité photo des smartphones en dépassant leurs limites physiques pour des résultats professionnel...",
+    "date": "2026-04-19T22:43:41.424565"
+  },
+  {
+    "slug": "ai-solution-to-calculate-amount-of-contained-material-from-mass-spectrometry-measurement-data",
+    "title": "Logiciel IA AI solution to calculate amount of contained material from mass spectrometry measurement data",
+    "excerpt": "Solution IA innovante pour calculer précisément la quantité de matériaux à partir des données de spectrométrie de masse. Automatisez l'analyse, gagnez...",
+    "date": "2026-04-19T22:39:47.357653"
+  },
+  {
+    "slug": "ai-solution-to-automatically-identify-false-positives-from-a-specific-check-for-untranslated-target-segments-by-an-automated-quality-assurance-tool",
+    "title": "Logiciel IA AI solution to automatically identify false positives from a specific check for untranslated target segments by an automated quality assurance tool",
+    "excerpt": "Découvrez comment notre logiciel IA identifie automatiquement les faux positifs dans la détection de segments non traduits, améliorant l'efficacité de...",
+    "date": "2026-04-19T22:36:14.101568"
+  },
+  {
+    "slug": "ai-solution-for-traffic-signal-optimization-based-on-multi-source-data-fusion",
+    "title": "Logiciel IA AI solution for traffic signal optimization based on multi-source data fusion : révolution de la gestion du trafic urbain",
+    "excerpt": "Découvrez comment le logiciel IA de fusion de données multi-sources révolutionne la gestion du trafic urbain en optimisant les feux de signalisation p...",
+    "date": "2026-04-19T22:32:37.538618"
+  },
+  {
+    "slug": "ai-solution-for-quality-control-of-electronic-medical-records-emr-in-real-time",
+    "title": "Logiciel IA AI solution for quality control of electronic medical records (EMR) in real time",
+    "excerpt": "Découvrez comment notre solution IA pour le contrôle qualité des dossiers médicaux électroniques (EMR) réduit les erreurs de 78% et optimise le temps ...",
+    "date": "2026-04-19T22:28:51.339396"
+  },
+  {
+    "slug": "ai-solution-for-end-to-end-processing-of-cell-microscopy-images",
+    "title": "Logiciel IA AI solution for end-to-end processing of cell microscopy images : Révolutionner la recherche biomédicale",
+    "excerpt": "Découvrez comment notre solution IA end-to-end révolutionne l'analyse des images de microscopie cellulaire pour accélérer la recherche biomédicale et ...",
+    "date": "2026-04-19T22:26:43.681148"
+  },
+  {
+    "slug": "ai-solution-for-car-damage-classification",
+    "title": "Logiciel IA AI solution for car damage classification : révolutionner l'assurance automobile",
+    "excerpt": "Découvrez notre solution d'IA pour la classification automatique des dommages automobiles. Réduction de 75% du temps d'évaluation avec une précision d...",
+    "date": "2026-04-19T22:25:24.263358"
+  },
+  {
+    "slug": "ai-situation-explanation-service-for-people-with-visual-impairments",
+    "title": "Logiciel IA AI situation explanation service for people with visual impairments : guide complet",
+    "excerpt": "Découvrez comment les logiciels IA d'explication de situation transforment l'autonomie des personnes malvoyantes grâce à la vision augmentée et l'inte...",
+    "date": "2026-04-19T22:22:22.493100"
+  },
+  {
+    "slug": "ai-sign-language-interpretation-system-for-people-with-hearing-impairment",
+    "title": "Logiciel IA d'interprétation de la langue des signes : une révolution pour les personnes malentendantes",
+    "excerpt": "Découvrez comment les systèmes IA d'interprétation de la langue des signes transforment la communication pour les personnes malentendantes en entrepri...",
+    "date": "2026-04-19T22:19:04.125393"
+  },
+  {
+    "slug": "ai-platform-for-chest-ct-scan-analysis-early-stage-lung-cancer-detection",
+    "title": "Logiciel IA AI platform for chest CT-scan analysis : révolutionner la détection précoce du cancer du poumon",
+    "excerpt": "Découvrez comment les plateformes IA d'analyse CT-scan révolutionnent la détection précoce du cancer du poumon avec une précision de 96,8% et un ROI d...",
+    "date": "2026-04-19T22:16:15.915698"
+  },
+  {
+    "slug": "ai-meeting-summarization-and-action-item-extraction",
+    "title": "Comment le Logiciel IA AI meeting summarization and action item extraction Transforme la Productivité des Entreprises",
+    "excerpt": "Découvrez comment un logiciel IA de résumé de réunions et d'extraction d'actions peut transformer votre productivité d'entreprise et économiser jusqu'...",
+    "date": "2026-04-19T22:13:34.652768"
+  },
+  {
+    "slug": "ai-ideally-matches-children-to-daycare-centres",
+    "title": "Comment un Logiciel IA AI ideally matches children to daycare centres Révolutionne l'Attribution des Places en Crèche",
+    "excerpt": "Découvrez comment un logiciel IA révolutionne l'attribution des places en crèche. Cas d'étude de Saitama : 8000 demandes traitées en 18 secondes avec ...",
+    "date": "2026-04-19T22:10:01.717884"
+  },
+  {
+    "slug": "ai-for-customers-loss-prevention-of-telecommunication-services",
+    "title": "Logiciel IA AI for customers' loss prevention of telecommunication services : La révolution de la rétention client",
+    "excerpt": "Découvrez comment le logiciel IA AI for customers' loss prevention révolutionne la rétention client dans les télécommunications avec des résultats con...",
+    "date": "2026-04-19T22:06:32.179427"
+  },
+  {
+    "slug": "ai-deepfake-detection-and-synthetic-media-authenticity-verification",
+    "title": "Comment protéger votre entreprise contre la menace croissante des deepfakes avec un logiciel IA de détection deepfake et vérification d'authenticité des médias synthétiques",
+    "excerpt": "Protégez votre entreprise contre les deepfakes avec notre logiciel IA de détection avancée. Solution complète de vérification d'authenticité pour médi...",
+    "date": "2026-04-19T22:03:48.974633"
+  },
+  {
+    "slug": "ai-decryption-of-magnetograms",
+    "title": "Logiciel IA AI decryption of magnetograms : Révolution dans l'inspection des pipelines",
+    "excerpt": "Découvrez comment notre logiciel IA AI decryption of magnetograms transforme l'inspection des pipelines avec une précision accrue de 24% et une analys...",
+    "date": "2026-04-19T22:00:04.391023"
+  },
+  {
+    "slug": "ai-contract-management",
+    "title": "La révolution des contrats d'entreprise : Comment un logiciel IA AI contract management transforme la gestion documentaire",
+    "excerpt": "Découvrez comment un logiciel IA AI contract management transforme la gestion contractuelle en entreprise : automatisation, ROI, méthodologie et cas d...",
+    "date": "2026-04-19T21:56:33.834590"
+  },
+  {
+    "slug": "ai-components-for-vehicle-platooning-on-public-roads",
+    "title": "Logiciel IA AI components for vehicle platooning on public roads",
+    "excerpt": "Découvrez comment les logiciels IA révolutionnent le platooning de véhicules sur routes publiques : économies, sécurité et optimisation des flottes lo...",
+    "date": "2026-04-19T21:53:17.289562"
+  },
+  {
+    "slug": "ai-code-review-and-automated-documentation-generation",
+    "title": "Comment le logiciel IA de code review and automated documentation generation révolutionne la productivité des équipes tech",
+    "excerpt": "Découvrez comment les logiciels IA de code review et de génération automatisée de documentation augmentent la productivité des équipes tech de 60%. RO...",
+    "date": "2026-04-19T21:49:58.862979"
+  },
+  {
+    "slug": "ai-based-text-to-speech-services-with-personal-voices-for-people-with-speech-impairments",
+    "title": "Logiciel IA AI based text to speech services with personal voices for people with speech impairments",
+    "excerpt": "Découvrez comment les solutions IA de text-to-speech avec voix personnalisées transforment la communication des personnes ayant des troubles de la par...",
+    "date": "2026-04-19T21:46:45.443657"
+  },
+  {
+    "slug": "ai-based-dynamic-routing-saas",
+    "title": "Logiciel IA AI based dynamic routing SaaS : La révolution de la livraison en temps réel",
+    "excerpt": "Optimisez vos livraisons avec notre logiciel IA AI based dynamic routing SaaS. Réduction des coûts de 15-20%, amélioration NPS de 30% et diminution CO...",
+    "date": "2026-04-19T21:43:17.954162"
+  },
+  {
+    "slug": "ai-adaptive-learning-platform-for-personalized-learning",
+    "title": "Comment les logiciels IA d'adaptive learning révolutionnent la formation personnalisée en entreprise",
+    "excerpt": "Découvrez comment les plateformes d'adaptive learning basées sur l'IA transforment la formation en entreprise avec une personnalisation avancée et un ...",
+    "date": "2026-04-19T21:41:01.710650"
+  },
+  {
+    "slug": "ai-adaptive-learning-mobile-app",
+    "title": "L'IA au service de l'apprentissage personnalisé : Comment un logiciel IA adaptive learning mobile app révolutionne l'acquisition des langues",
+    "excerpt": "Découvrez comment un logiciel IA adaptive learning mobile app transforme l'apprentissage des langues avec une personnalisation avancée et des résultat...",
+    "date": "2026-04-19T21:37:06.800785"
+  },
+  {
+    "slug": "ai-seo-tool",
+    "title": "Logiciel IA AI SEO Tool : Révolutionner votre stratégie digitale en 2024",
+    "excerpt": "Découvrez comment le Logiciel IA AI SEO Tool révolutionne le référencement naturel en 2024 : stratégies avancées, études de cas et framework E.M.O.T.I...",
+    "date": "2026-04-19T21:33:01.682152"
+  },
+  {
+    "slug": "ai-swarm-intelligence-solution-for-attack-detection-in-iot-environment",
+    "title": "Logiciel IA AI (swarm intelligence) solution for attack detection in IoT environment",
+    "excerpt": "Découvrez comment notre solution IA basée sur la swarm intelligence révolutionne la détection d'attaques dans les environnements IoT avec une approche...",
+    "date": "2026-04-19T21:29:29.527910"
+  },
+  {
+    "slug": "a-judging-support-system-for-gymnastics-using-3d-sensing",
+    "title": "Logiciel IA de support au jugement pour la gymnastique utilisant la détection 3D : Une révolution pour la précision des compétitions",
+    "excerpt": "Découvrez comment le logiciel IA de support au jugement en gymnastique avec détection 3D révolutionne la précision et l'équité des compétitions sporti...",
+    "date": "2026-04-19T21:27:04.782291"
+  },
+  {
+    "slug": "a-fairer-and-more-personalised-credit-decision",
+    "title": "Logiciel IA : A fairer and more personalised credit decision révolutionne le secteur bancaire",
+    "excerpt": "Découvrez comment l'IA révolutionne l'octroi de crédit bancaire grâce à des analyses comportementales avancées pour des décisions plus justes et perso...",
+    "date": "2026-04-19T21:24:03.762127"
+  },
+  {
+    "slug": "5g-network-performance-optimization-with-ai",
+    "title": "Logiciel IA 5G network performance optimization with AI : 45% de réduction des appels perdus et 2,3M$ d'économies annuelles",
+    "excerpt": "Optimisez vos réseaux 5G avec notre solution IA : 45% de réduction des appels perdus, 23% de latence en moins et 2,3M$ d'économies annuelles prouvées.",
+    "date": "2026-04-19T17:37:25.785999"
+  }
+]

@@ -389,7 +389,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   renderOptions('options-role', ROLES, 'role', false);
   renderOptions('options-sector', SECTORS, 'sector', false);
   renderOptions('options-goal', GOALS, 'goal', false);
-  renderOptions('options-data', DATA_TYPES, 'data', true);
   renderOptions('options-cap', CAPABILITIES, 'cap', true);
 
   // Check URL params for shared results
@@ -403,7 +402,6 @@ document.addEventListener('DOMContentLoaded', async () => {
       renderOptions('options-role', ROLES, 'role', false);
       renderOptions('options-sector', SECTORS, 'sector', false);
       renderOptions('options-goal', GOALS, 'goal', false);
-      renderOptions('options-data', DATA_TYPES, 'data', true);
       renderOptions('options-cap', CAPABILITIES, 'cap', true);
     }
     if (params.get('role'))   selections.role = params.get('role');
@@ -430,6 +428,7 @@ async function fetchUsecases() {
 
 function renderOptions(containerId, items, key, multi) {
   const container = document.getElementById(containerId);
+  if (!container) return;
   container.innerHTML = '';
   items.forEach(item => {
     const div = document.createElement('div');
@@ -657,7 +656,6 @@ function setLang(l) {
   renderOptions('options-role', ROLES, 'role', false);
   renderOptions('options-sector', SECTORS, 'sector', false);
   renderOptions('options-goal', GOALS, 'goal', false);
-  renderOptions('options-data', DATA_TYPES, 'data', true);
   renderOptions('options-cap', CAPABILITIES, 'cap', true);
   restoreSelections();
   updateI18n();
@@ -672,9 +670,9 @@ function restoreSelections() {
       if (items[i] && items[i].en === selections[key]) el.classList.add('selected');
     });
   });
-  ['options-data','options-cap'].forEach((cid, idx) => {
-    const key = ['data','cap'][idx];
-    const items = [DATA_TYPES,CAPABILITIES][idx];
+  ['options-cap'].forEach((cid, idx) => {
+    const key = ['cap'][idx];
+    const items = [CAPABILITIES][idx];
     document.querySelectorAll(`#${cid} .option`).forEach((el, i) => {
       if (items[i] && selections[key].includes(items[i].en)) el.classList.add('selected');
     });

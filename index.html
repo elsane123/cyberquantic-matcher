@@ -193,13 +193,12 @@
     <div class="step" id="step3">
       <div class="step-label" data-fr="Étape 3 sur 3" data-en="Step 3 of 3">Étape 3 sur 3</div>
       <div class="step-title" data-fr="Ce que vous voulez accomplir ?" data-en="What do you want to achieve?">Ce que vous voulez accomplir ?</div>
-      <div class="step-subtitle" data-fr="Votre objectif principal et les capacités IA souhaitées" data-en="Your main objective and desired AI capabilities">Votre objectif principal et les capacités IA souhaitées</div>
+      <div class="step-subtitle" data-fr="Sélectionnez votre objectif principal" data-en="Select your main objective">Sélectionnez votre objectif principal</div>
 
-      <div style="font-size: 13px; font-weight: 600; color: var(--text); margin-top: 10px; margin-bottom: 8px;" data-fr="1. Votre objectif principal :" data-en="1. Your main objective:">1. Votre objectif principal :</div>
+      <div style="font-size: 13px; font-weight: 600; color: var(--text); margin-top: 10px; margin-bottom: 8px;" data-fr="Votre objectif principal :" data-en="Your main objective:">Votre objectif principal :</div>
       <div class="options two-col" id="options-goal" style="max-height: none; margin-bottom: 24px;"></div>
 
-      <div style="font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 8px;" data-fr="2. Capacités IA (choix multiples) :" data-en="2. AI Capabilities (multiple choices):">2. Capacités IA (choix multiples) :</div>
-      <div class="options two-col" id="options-cap" style="max-height: none;"></div>
+
 
       <div class="nav" style="margin-top: 24px;">
         <button class="btn btn-ghost" onclick="prev()">← <span data-fr="Retour" data-en="Back">Retour</span></button>
@@ -389,7 +388,6 @@ document.addEventListener('DOMContentLoaded', async () => {
   renderOptions('options-role', ROLES, 'role', false);
   renderOptions('options-sector', SECTORS, 'sector', false);
   renderOptions('options-goal', GOALS, 'goal', false);
-  renderOptions('options-cap', CAPABILITIES, 'cap', true);
 
   // Check URL params for shared results
   const params = new URLSearchParams(window.location.search);
@@ -402,7 +400,6 @@ document.addEventListener('DOMContentLoaded', async () => {
       renderOptions('options-role', ROLES, 'role', false);
       renderOptions('options-sector', SECTORS, 'sector', false);
       renderOptions('options-goal', GOALS, 'goal', false);
-      renderOptions('options-cap', CAPABILITIES, 'cap', true);
     }
     if (params.get('role'))   selections.role = params.get('role');
     if (params.get('sector')) selections.sector = params.get('sector');
@@ -455,9 +452,9 @@ function selectOption(el, value, key, multi, containerId) {
     if (nextBtn) nextBtn.disabled = false;
   }
 
-  if (key === 'goal' || key === 'cap') {
+  if (key === 'goal') {
     const btn3 = document.getElementById('next3');
-    if (btn3) btn3.disabled = !(selections.goal || selections.cap.length > 0);
+    if (btn3) btn3.disabled = !selections.goal;
   }
 }
 
@@ -540,7 +537,6 @@ function scoreUsecase(uc) {
   if (selections.sector && (uc.displayIn || []).some(d => d.level2 === selections.sector)) s += 2;
   if (selections.goal   && (uc.goals || []).includes(selections.goal))                     s += 2;
   if (selections.data.length > 0) s += Math.min(selections.data.filter(d => (uc.perceiveInfos||[]).includes(d)).length, 2);
-  if (selections.cap.length  > 0) s += Math.min(selections.cap.filter(c  => (uc.actInfos||[]).includes(c)).length, 2);
   if (uc.description && uc.description.length > 50) s += 0.5;
   return s;
 }
@@ -612,7 +608,6 @@ function shareResults() {
   if (selections.sector)        params.set('sector', selections.sector);
   if (selections.goal)          params.set('goal',   selections.goal);
   if (selections.data.length)   params.set('data',   selections.data.join(','));
-  if (selections.cap.length)    params.set('cap',    selections.cap.join(','));
   const url = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
   navigator.clipboard.writeText(url).then(() => {
     const btn = document.getElementById('share-btn');
@@ -656,7 +651,6 @@ function setLang(l) {
   renderOptions('options-role', ROLES, 'role', false);
   renderOptions('options-sector', SECTORS, 'sector', false);
   renderOptions('options-goal', GOALS, 'goal', false);
-  renderOptions('options-cap', CAPABILITIES, 'cap', true);
   restoreSelections();
   updateI18n();
 }
@@ -670,8 +664,7 @@ function restoreSelections() {
       if (items[i] && items[i].en === selections[key]) el.classList.add('selected');
     });
   });
-  ['options-cap'].forEach((cid, idx) => {
-    const key = ['cap'][idx];
+  // Capability restoration removed
     const items = [CAPABILITIES][idx];
     document.querySelectorAll(`#${cid} .option`).forEach((el, i) => {
       if (items[i] && selections[key].includes(items[i].en)) el.classList.add('selected');

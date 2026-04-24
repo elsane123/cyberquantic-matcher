@@ -664,12 +664,6 @@ function restoreSelections() {
       if (items[i] && items[i].en === selections[key]) el.classList.add('selected');
     });
   });
-  // Capability restoration removed
-    const items = [CAPABILITIES][idx];
-    document.querySelectorAll(`#${cid} .option`).forEach((el, i) => {
-      if (items[i] && selections[key].includes(items[i].en)) el.classList.add('selected');
-    });
-  });
 }
 
 function updateI18n() {

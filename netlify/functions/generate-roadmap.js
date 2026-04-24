@@ -224,7 +224,7 @@ async function sendRoadmapEmail(email, htmlContent, sessionId) {
     await resend.emails.send({
       from: 'CyberQuantic <contact@cyberquantic.com>',
       to: email,
-      subject: 'Votre Roadmap d'Implémentation IA personnalisée',
+      subject: `Votre Roadmap d'Implémentation IA personnalisée`,
       html: htmlContent
     });
   } catch (error) {

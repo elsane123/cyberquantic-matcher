@@ -28,7 +28,7 @@ exports.handler = async (event, context) => {
     try {
       // Trigger the roadmap generation via the internal API
       const roadmapResponse = await fetch(
-        `${process.env.NETLIFY_FUNCTIONS_URL || 'https://cyberquantic-matcher.netlify.app/.netlify/functions'}/generate-roadmap`,
+        `${process.env.NETLIFY_FUNCTIONS_URL || 'https://cyberquantic-matcher.netlify.app/.netlify/functions'}/generate-roadmap-background`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },

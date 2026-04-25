@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cyberquantic-matcher.netlify.app/sitemap.xml
+Sitemap: https://tools.cyberquantic.com/sitemap.xml

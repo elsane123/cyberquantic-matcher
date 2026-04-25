@@ -45,8 +45,8 @@ exports.handler = async (event, context) => {
         },
       ],
       mode: 'payment',
-      success_url: `${process.env.MATCHER_URL || 'https://cyberquantic-matcher.netlify.app'}/payment-success?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${process.env.MATCHER_URL || 'https://cyberquantic-matcher.netlify.app'}/payment-cancelled`,
+      success_url: `${process.env.MATCHER_URL || 'https://tools.cyberquantic.com'}/payment-success?session_id={CHECKOUT_SESSION_ID}`,
+      cancel_url: `${process.env.MATCHER_URL || 'https://tools.cyberquantic.com'}/payment-cancelled`,
       customer_email: email,
       metadata: {
         email: email,

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "exp-001",
+    "name": "Cédric O",
+    "headline": "Co-founder of Mistral AI, Former French Secretary of State for Digital Affairs",
+    "location": "Paris, France",
+    "linkedin_url": "https://www.linkedin.com/in/cedrico/",
+    "bio": "Prominent figure in the French tech ecosystem, now leading one of Europe's most significant AI ventures, Mistral AI.",
+    "specializations": [
+      "Large Language Models",
+      "AI Strategy",
+      "Public Policy"
+    ],
+    "industries": [
+      "Technology",
+      "Government"
+    ],
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1392787754095734785/w8l5o-2f_400x400.jpg"
+  },
+  {
+    "id": "exp-002",
+    "name": "Dr. Andréa Martin",
+    "headline": "AI in Healthcare Specialist, Researcher at Charité Berlin",
+    "location": "Berlin, Germany",
+    "linkedin_url": "https://www.linkedin.com/in/andrea-martin-example/",
+    "bio": "Leading research on the application of machine learning for diagnostic imaging and personalized medicine.",
+    "specializations": [
+      "Computer Vision",
+      "Medical Imaging",
+      "Predictive Analytics"
+    ],
+    "industries": [
+      "Healthcare",
+      "Pharmaceuticals"
+    ],
+    "profile_image_url": "https://example.com/images/andrea_martin.jpg"
+  },
+  {
+    "id": "exp-003",
+    "name": "Jürgen Schmidhuber",
+    "headline": "Scientific Director at IDSIA, 'Father of modern AI'",
+    "location": "Lugano, Switzerland",
+    "linkedin_url": "https://www.linkedin.com/in/juergen-schmidhuber-53a55a3/",
+    "bio": "Pioneering researcher in the field of artificial neural networks, particularly LSTMs, which are crucial for modern NLP.",
+    "specializations": [
+      "Recurrent Neural Networks",
+      "LSTM",
+      "Reinforcement Learning"
+    ],
+    "industries": [
+      "Academia",
+      "Research"
+    ],
+    "profile_image_url": "https://people.idsia.ch/~juergen/juergen_schmidhuber.jpg"
+  },
+  {
+    "id": "exp-004",
+    "name": "Expert Name 4",
+    "headline": "AI Specialist in Various Fields 4",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-4",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #4",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_4.jpg"
+  },
+  {
+    "id": "exp-005",
+    "name": "Expert Name 5",
+    "headline": "AI Specialist in Various Fields 5",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-5",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #5",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_5.jpg"
+  },
+  {
+    "id": "exp-006",
+    "name": "Expert Name 6",
+    "headline": "AI Specialist in Various Fields 6",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-6",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #6",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_6.jpg"
+  },
+  {
+    "id": "exp-007",
+    "name": "Expert Name 7",
+    "headline": "AI Specialist in Various Fields 7",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-7",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #7",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_7.jpg"
+  },
+  {
+    "id": "exp-008",
+    "name": "Expert Name 8",
+    "headline": "AI Specialist in Various Fields 8",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-8",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #8",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_8.jpg"
+  },
+  {
+    "id": "exp-009",
+    "name": "Expert Name 9",
+    "headline": "AI Specialist in Various Fields 9",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-9",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #9",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_9.jpg"
+  },
+  {
+    "id": "exp-010",
+    "name": "Expert Name 10",
+    "headline": "AI Specialist in Various Fields 10",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-10",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #10",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_10.jpg"
+  },
+  {
+    "id": "exp-011",
+    "name": "Expert Name 11",
+    "headline": "AI Specialist in Various Fields 11",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-11",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #11",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_11.jpg"
+  },
+  {
+    "id": "exp-012",
+    "name": "Expert Name 12",
+    "headline": "AI Specialist in Various Fields 12",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-12",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #12",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_12.jpg"
+  },
+  {
+    "id": "exp-013",
+    "name": "Expert Name 13",
+    "headline": "AI Specialist in Various Fields 13",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-13",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #13",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_13.jpg"
+  },
+  {
+    "id": "exp-014",
+    "name": "Expert Name 14",
+    "headline": "AI Specialist in Various Fields 14",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-14",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #14",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_14.jpg"
+  },
+  {
+    "id": "exp-015",
+    "name": "Expert Name 15",
+    "headline": "AI Specialist in Various Fields 15",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-15",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #15",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_15.jpg"
+  },
+  {
+    "id": "exp-016",
+    "name": "Expert Name 16",
+    "headline": "AI Specialist in Various Fields 16",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-16",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #16",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_16.jpg"
+  },
+  {
+    "id": "exp-017",
+    "name": "Expert Name 17",
+    "headline": "AI Specialist in Various Fields 17",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-17",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #17",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_17.jpg"
+  },
+  {
+    "id": "exp-018",
+    "name": "Expert Name 18",
+    "headline": "AI Specialist in Various Fields 18",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-18",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #18",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_18.jpg"
+  },
+  {
+    "id": "exp-019",
+    "name": "Expert Name 19",
+    "headline": "AI Specialist in Various Fields 19",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-19",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #19",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_19.jpg"
+  },
+  {
+    "id": "exp-020",
+    "name": "Expert Name 20",
+    "headline": "AI Specialist in Various Fields 20",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-20",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #20",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_20.jpg"
+  },
+  {
+    "id": "exp-021",
+    "name": "Expert Name 21",
+    "headline": "AI Specialist in Various Fields 21",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-21",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #21",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_21.jpg"
+  },
+  {
+    "id": "exp-022",
+    "name": "Expert Name 22",
+    "headline": "AI Specialist in Various Fields 22",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-22",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #22",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_22.jpg"
+  },
+  {
+    "id": "exp-023",
+    "name": "Expert Name 23",
+    "headline": "AI Specialist in Various Fields 23",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-23",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #23",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_23.jpg"
+  },
+  {
+    "id": "exp-024",
+    "name": "Expert Name 24",
+    "headline": "AI Specialist in Various Fields 24",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-24",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #24",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_24.jpg"
+  },
+  {
+    "id": "exp-025",
+    "name": "Expert Name 25",
+    "headline": "AI Specialist in Various Fields 25",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-25",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #25",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_25.jpg"
+  },
+  {
+    "id": "exp-026",
+    "name": "Expert Name 26",
+    "headline": "AI Specialist in Various Fields 26",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-26",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #26",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_26.jpg"
+  },
+  {
+    "id": "exp-027",
+    "name": "Expert Name 27",
+    "headline": "AI Specialist in Various Fields 27",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-27",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #27",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_27.jpg"
+  },
+  {
+    "id": "exp-028",
+    "name": "Expert Name 28",
+    "headline": "AI Specialist in Various Fields 28",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-28",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #28",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_28.jpg"
+  },
+  {
+    "id": "exp-029",
+    "name": "Expert Name 29",
+    "headline": "AI Specialist in Various Fields 29",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-29",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #29",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_29.jpg"
+  },
+  {
+    "id": "exp-030",
+    "name": "Expert Name 30",
+    "headline": "AI Specialist in Various Fields 30",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-30",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #30",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_30.jpg"
+  },
+  {
+    "id": "exp-031",
+    "name": "Expert Name 31",
+    "headline": "AI Specialist in Various Fields 31",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-31",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #31",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_31.jpg"
+  },
+  {
+    "id": "exp-032",
+    "name": "Expert Name 32",
+    "headline": "AI Specialist in Various Fields 32",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-32",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #32",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_32.jpg"
+  },
+  {
+    "id": "exp-033",
+    "name": "Expert Name 33",
+    "headline": "AI Specialist in Various Fields 33",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-33",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #33",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_33.jpg"
+  },
+  {
+    "id": "exp-034",
+    "name": "Expert Name 34",
+    "headline": "AI Specialist in Various Fields 34",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-34",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #34",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_34.jpg"
+  },
+  {
+    "id": "exp-035",
+    "name": "Expert Name 35",
+    "headline": "AI Specialist in Various Fields 35",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-35",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #35",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_35.jpg"
+  },
+  {
+    "id": "exp-036",
+    "name": "Expert Name 36",
+    "headline": "AI Specialist in Various Fields 36",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-36",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #36",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_36.jpg"
+  },
+  {
+    "id": "exp-037",
+    "name": "Expert Name 37",
+    "headline": "AI Specialist in Various Fields 37",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-37",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #37",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_37.jpg"
+  },
+  {
+    "id": "exp-038",
+    "name": "Expert Name 38",
+    "headline": "AI Specialist in Various Fields 38",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-38",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #38",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_38.jpg"
+  },
+  {
+    "id": "exp-039",
+    "name": "Expert Name 39",
+    "headline": "AI Specialist in Various Fields 39",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-39",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #39",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_39.jpg"
+  },
+  {
+    "id": "exp-040",
+    "name": "Expert Name 40",
+    "headline": "AI Specialist in Various Fields 40",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-40",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #40",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_40.jpg"
+  },
+  {
+    "id": "exp-041",
+    "name": "Expert Name 41",
+    "headline": "AI Specialist in Various Fields 41",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-41",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #41",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_41.jpg"
+  },
+  {
+    "id": "exp-042",
+    "name": "Expert Name 42",
+    "headline": "AI Specialist in Various Fields 42",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-42",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #42",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_42.jpg"
+  },
+  {
+    "id": "exp-043",
+    "name": "Expert Name 43",
+    "headline": "AI Specialist in Various Fields 43",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-43",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #43",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_43.jpg"
+  },
+  {
+    "id": "exp-044",
+    "name": "Expert Name 44",
+    "headline": "AI Specialist in Various Fields 44",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-44",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #44",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_44.jpg"
+  },
+  {
+    "id": "exp-045",
+    "name": "Expert Name 45",
+    "headline": "AI Specialist in Various Fields 45",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-45",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #45",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_45.jpg"
+  },
+  {
+    "id": "exp-046",
+    "name": "Expert Name 46",
+    "headline": "AI Specialist in Various Fields 46",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-46",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #46",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_46.jpg"
+  },
+  {
+    "id": "exp-047",
+    "name": "Expert Name 47",
+    "headline": "AI Specialist in Various Fields 47",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-47",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #47",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_47.jpg"
+  },
+  {
+    "id": "exp-048",
+    "name": "Expert Name 48",
+    "headline": "AI Specialist in Various Fields 48",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-48",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #48",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_48.jpg"
+  },
+  {
+    "id": "exp-049",
+    "name": "Expert Name 49",
+    "headline": "AI Specialist in Various Fields 49",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-49",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #49",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_49.jpg"
+  },
+  {
+    "id": "exp-050",
+    "name": "Expert Name 50",
+    "headline": "AI Specialist in Various Fields 50",
+    "location": "Europe",
+    "linkedin_url": "https://www.linkedin.com/in/expert-50",
+    "bio": "A dedicated AI professional with expertise in solving complex business problems using machine learning. Expert #50",
+    "specializations": [
+      "Machine Learning",
+      "Data Science"
+    ],
+    "industries": [
+      "Technology"
+    ],
+    "profile_image_url": "https://example.com/images/expert_50.jpg"
+  }
+]
